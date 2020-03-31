@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <!-- The following four metadata items are required for all
+        NCX documents, including those conforming to the relaxed
+        constraints of OPS 2.0 -->    <meta content="51037e82-03ff-11dd-9fbb-0018f369440e" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+    <meta content="www.cnepub.com" name="provider"/>
+    <meta content="epubBuilder present by www.cnepub.com" name="builder"/>
+    <meta content="该文档由epubBuilder生成。epubBuilder为掌上书苑（www.cnepub.com)提供的epub制作工具，仅供个人交流与学习使用。在未获得掌上书苑的商业授权前，不得用于任何商业用途。" name="right"/>
+  </head>
+  <docTitle>
+    <text>边城</text>
+  </docTitle>
+  <docAuthor>
+    <text>沈从文</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="coverpage" playOrder="0">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="Text/coverpage.html"/>
+    </navPoint>
+    <navPoint id="chapter2" playOrder="1">
+      <navLabel>
+        <text>题记</text>
+      </navLabel>
+      <content src="Text/chapter2.html"/>
+    </navPoint>
+    <navPoint id="chapter3" playOrder="2">
+      <navLabel>
+        <text>第一节</text>
+      </navLabel>
+      <content src="Text/chapter3.html"/>
+    </navPoint>
+    <navPoint id="chapter4" playOrder="3">
+      <navLabel>
+        <text>第二节</text>
+      </navLabel>
+      <content src="Text/chapter4.html"/>
+    </navPoint>
+    <navPoint id="chapter5" playOrder="4">
+      <navLabel>
+        <text>第三节</text>
+      </navLabel>
+      <content src="Text/chapter5.html"/>
+    </navPoint>
+    <navPoint id="chapter6" playOrder="5">
+      <navLabel>
+        <text>第四节</text>
+      </navLabel>
+      <content src="Text/chapter6.html"/>
+    </navPoint>
+    <navPoint id="chapter7" playOrder="6">
+      <navLabel>
+        <text>第五节</text>
+      </navLabel>
+      <content src="Text/chapter7.html"/>
+    </navPoint>
+    <navPoint id="chapter8" playOrder="7">
+      <navLabel>
+        <text>第六节</text>
+      </navLabel>
+      <content src="Text/chapter8.html"/>
+    </navPoint>
+    <navPoint id="chapter9" playOrder="8">
+      <navLabel>
+        <text>第七章</text>
+      </navLabel>
+      <content src="Text/chapter9.html"/>
+    </navPoint>
+    <navPoint id="chapter10" playOrder="9">
+      <navLabel>
+        <text>第八节</text>
+      </navLabel>
+      <content src="Text/chapter10.html"/>
+    </navPoint>
+    <navPoint id="chapter11" playOrder="10">
+      <navLabel>
+        <text>第九节</text>
+      </navLabel>
+      <content src="Text/chapter11.html"/>
+    </navPoint>
+    <navPoint id="chapter12" playOrder="11">
+      <navLabel>
+        <text>第十节</text>
+      </navLabel>
+      <content src="Text/chapter12.html"/>
+    </navPoint>
+    <navPoint id="chapter14" playOrder="12">
+      <navLabel>
+        <text>第十一节</text>
+      </navLabel>
+      <content src="Text/chapter14.html"/>
+    </navPoint>
+    <navPoint id="chapter15" playOrder="13">
+      <navLabel>
+        <text>第十二节</text>
+      </navLabel>
+      <content src="Text/chapter15.html"/>
+    </navPoint>
+    <navPoint id="chapter16" playOrder="14">
+      <navLabel>
+        <text>第十三节</text>
+      </navLabel>
+      <content src="Text/chapter16.html"/>
+    </navPoint>
+    <navPoint id="chapter17" playOrder="15">
+      <navLabel>
+        <text>第十四节</text>
+      </navLabel>
+      <content src="Text/chapter17.html"/>
+    </navPoint>
+    <navPoint id="chapter18" playOrder="16">
+      <navLabel>
+        <text>第十五节</text>
+      </navLabel>
+      <content src="Text/chapter18.html"/>
+    </navPoint>
+    <navPoint id="chapter19" playOrder="17">
+      <navLabel>
+        <text>第十六节</text>
+      </navLabel>
+      <content src="Text/chapter19.html"/>
+    </navPoint>
+    <navPoint id="chapter20" playOrder="18">
+      <navLabel>
+        <text>第十七节</text>
+      </navLabel>
+      <content src="Text/chapter20.html"/>
+    </navPoint>
+    <navPoint id="chapter21" playOrder="19">
+      <navLabel>
+        <text>第十八节</text>
+      </navLabel>
+      <content src="Text/chapter21.html"/>
+    </navPoint>
+    <navPoint id="chapter22" playOrder="20">
+      <navLabel>
+        <text>第十九节</text>
+      </navLabel>
+      <content src="Text/chapter22.html"/>
+    </navPoint>
+    <navPoint id="chapter23" playOrder="21">
+      <navLabel>
+        <text>第二十节</text>
+      </navLabel>
+      <content src="Text/chapter23.html"/>
+    </navPoint>
+    <navPoint id="chapter29" playOrder="22">
+      <navLabel>
+        <text>第二十一节</text>
+      </navLabel>
+      <content src="Text/chapter29.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

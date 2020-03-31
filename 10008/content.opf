@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>倾城之恋</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="张爱玲">张爱玲</dc:creator>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">f1cf9160-4376-4143-863d-e7532f04b94d</dc:identifier>
+    <dc:date>2018-12-31T16:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.46.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:language>zh</dc:language>
+    <dc:identifier opf:scheme="calibre">f1cf9160-4376-4143-863d-e7532f04b94d</dc:identifier>
+    <dc:identifier opf:scheme="MOBI-ASIN">66375a6f-a825-4028-9b09-8efaa36b1da5</dc:identifier>
+    <meta name="calibre:timestamp" content="2019-12-28T08:37:45.444000+00:00"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:title_sort" content="倾城之恋"/>
+    <meta content="horizontal-lr" name="primary-writing-mode"/>
+    <meta name="calibre:author_link_map" content="{&quot;张爱玲&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="text/part0002.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="text/part0003.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="text/part0004.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="text/part0005.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="text/part0006.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="text/part0007.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="text/part0008.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="text/part0009.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="text/part0010.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="text/part0011.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="text/part0012.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="page_styles1.css" id="page_css1" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/00001.jpeg" id="id1" media-type="image/jpeg"/>
+    <item href="images/00002.jpeg" id="id2" media-type="image/jpeg"/>
+    <item href="images/00003.jpeg" id="id3" media-type="image/jpeg"/>
+    <item href="images/00004.jpeg" id="id4" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+  </spine>
+  <guide>
+    <reference href="text/part0002.html#1T141-b78438684efc4578974bd510fd7e25ae" title="目录" type="toc"/>
+    <reference href="text/part0003.html#2RHM1-89965ed8a9434884ad2e6234db8fb4fb" title="start" type="text"/>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>
