@@ -16,7 +16,36 @@ def pack_all():
         if filename.isdigit():
             pack(filename)
 
+def fix_toc(book_id):
+    _prefixs = ["OEBPS/Text/", "/OEBPS/", "/", ]
+    prefixs = []
+    for _ in _prefixs:
+        prefixs.append(book_id + "/" + _)
+
+    for prefix in prefixs:
+        opath = os.path.join(prefix, "toc.ncx")
+        if os.path.exists(opath):
+            content = ''
+            index = 1
+            nlines = []
+            with open(opath) as f:
+                content = f.read()
+                lines = content.splitlines()
+                for line in lines:
+                    print line
+                    if "playOrder" not in line:
+                        nlines.append(line)
+                    else:
+                        nline = re.sub('playOrder="\d+"','playOrder="%s"'%index,  line)
+                        nlines.append(nline)
+                        index += 1
+            content = "\n".join(nlines)
+            with open(opath+'s', 'w') as wf:
+                wf.write(content)
+
+
 def pack(book_id, output = True):
+    fix_toc(book_id)
     delegator.run('cd %s; zip -rX ../%s.epub *' % (book_id, book_id)) 
     if output:
         print book_id, "packed"

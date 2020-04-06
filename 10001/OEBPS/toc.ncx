@@ -10,162 +10,162 @@
       <text>UnKnown</text>
    </docTitle>
    <navMap>
-     <navPoint id="id3" playOrder="3">
+     <navPoint id="id3" playOrder="1">
        <navLabel>
          <text>自　序</text>
        </navLabel>
        <content src="text00002.html"/>
      </navPoint>
-     <navPoint id="id5" playOrder="5">
+     <navPoint id="id5" playOrder="2">
        <navLabel>
          <text>目录</text>
        </navLabel>
        <content src="text00004.html"/>
      </navPoint>
-     <navPoint id="id6" playOrder="6">
+     <navPoint id="id6" playOrder="3">
        <navLabel>
          <text>第一章　万历皇帝</text>
        </navLabel>
        <content src="text00005.html"/>
      </navPoint>
-     <navPoint id="id7" playOrder="7">
+     <navPoint id="id7" playOrder="4">
        <navLabel>
          <text>第二章　首辅申时行</text>
        </navLabel>
        <content src="text00006.html"/>
      </navPoint>
-     <navPoint id="id8" playOrder="8">
+     <navPoint id="id8" playOrder="5">
        <navLabel>
          <text>第三章　世间已无张居正</text>
        </navLabel>
        <content src="text00007.html"/>
      </navPoint>
-     <navPoint id="id9" playOrder="9">
+     <navPoint id="id9" playOrder="6">
        <navLabel>
          <text>第四章　活着的祖宗</text>
        </navLabel>
        <content src="text00008.html"/>
      </navPoint>
-     <navPoint id="id10" playOrder="10">
+     <navPoint id="id10" playOrder="7">
        <navLabel>
          <text>第五章　海瑞——古怪的模范官僚</text>
        </navLabel>
        <content src="text00009.html#ch1-back"/>
      </navPoint>
-     <navPoint id="id11" playOrder="11">
+     <navPoint id="id11" playOrder="8">
        <navLabel>
          <text>第六章　戚继光——孤独的将领</text>
        </navLabel>
        <content src="text00010.html"/>
      </navPoint>
-     <navPoint id="id12" playOrder="12">
+     <navPoint id="id12" playOrder="9">
        <navLabel>
          <text>第七章　李贽——自相冲突的哲学家</text>
        </navLabel>
        <content src="text00011.html"/>
      </navPoint>
-     <navPoint id="id13" playOrder="13">
+     <navPoint id="id13" playOrder="10">
        <navLabel>
          <text>参考书目</text>
        </navLabel>
        <content src="text00012.html"/>
      </navPoint>
-     <navPoint id="id14" playOrder="14">
+     <navPoint id="id14" playOrder="11">
        <navLabel>
          <text>附录一</text>
        </navLabel>
        <content src="text00013.html#sec001"/>
-     <navPoint id="id15" playOrder="15">
+     <navPoint id="id15" playOrder="12">
        <navLabel>
          <text>《神宗实录》一</text>
        </navLabel>
        <content src="text00013.html#sec001"/>
      </navPoint>
-     <navPoint id="id16" playOrder="16">
+     <navPoint id="id16" playOrder="13">
        <navLabel>
          <text>《神宗实录》二</text>
        </navLabel>
        <content src="text00014.html"/>
      </navPoint>
      </navPoint>
-     <navPoint id="id17" playOrder="17">
+     <navPoint id="id17" playOrder="14">
        <navLabel>
          <text>附录二</text>
        </navLabel>
        <content src="text00015.html#sec001"/>
-     <navPoint id="id18" playOrder="18">
+     <navPoint id="id18" playOrder="15">
        <navLabel>
          <text>《万历十五年》和我的大历史观</text>
        </navLabel>
        <content src="text00015.html#sec001"/>
      </navPoint>
-     <navPoint id="id19" playOrder="19">
+     <navPoint id="id19" playOrder="16">
        <navLabel>
          <text>1619年的辽东战役</text>
        </navLabel>
        <content src="text00016.html"/>
      </navPoint>
      </navPoint>
-     <navPoint id="id20" playOrder="20">
+     <navPoint id="id20" playOrder="17">
        <navLabel>
          <text>附录三</text>
        </navLabel>
        <content src="text00017.html#sec001"/>
-     <navPoint id="id21" playOrder="21">
+     <navPoint id="id21" playOrder="18">
        <navLabel>
          <text>英文版序言</text>
        </navLabel>
        <content src="text00017.html#sec001"/>
      </navPoint>
-     <navPoint id="id22" playOrder="22">
+     <navPoint id="id22" playOrder="19">
        <navLabel>
          <text>万历：漫长的怠政时代</text>
        </navLabel>
        <content src="text00018.html"/>
      </navPoint>
-     <navPoint id="id23" playOrder="23">
+     <navPoint id="id23" playOrder="20">
        <navLabel>
          <text>皇帝只是个牌位</text>
        </navLabel>
        <content src="text00019.html#ch1-back"/>
      </navPoint>
      </navPoint>
-     <navPoint id="id24" playOrder="24">
+     <navPoint id="id24" playOrder="21">
        <navLabel>
          <text>经典的历程——《万历十五年》中文之旅（1976——2014）</text>
        </navLabel>
        <content src="text00021.html"/>
-     <navPoint id="id25" playOrder="25">
+     <navPoint id="id25" playOrder="22">
        <navLabel>
          <text>目录</text>
        </navLabel>
        <content src="text00021.html"/>
      </navPoint>
-     <navPoint id="id26" playOrder="26">
+     <navPoint id="id26" playOrder="23">
        <navLabel>
          <text>《万历十五年》纪事</text>
        </navLabel>
        <content src="text00022.html"/>
      </navPoint>
-     <navPoint id="id27" playOrder="27">
+     <navPoint id="id27" playOrder="24">
        <navLabel>
          <text>名家推荐</text>
        </navLabel>
        <content src="text00023.html#ch1-back"/>
      </navPoint>
-     <navPoint id="id28" playOrder="28">
+     <navPoint id="id28" playOrder="25">
        <navLabel>
          <text>《万历十五年》出版始末</text>
        </navLabel>
        <content src="text00024.html"/>
      </navPoint>
-     <navPoint id="id29" playOrder="29">
+     <navPoint id="id29" playOrder="26">
        <navLabel>
          <text>两声欢呼，一声倒彩——《万历十五年》三十载印象记</text>
        </navLabel>
        <content src="text00025.html"/>
      </navPoint>
-     <navPoint id="id30" playOrder="30">
+     <navPoint id="id30" playOrder="27">
        <navLabel>
          <text>《万历十五年》的读法</text>
        </navLabel>

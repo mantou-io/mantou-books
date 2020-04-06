@@ -48,7 +48,6 @@
   </manifest>
   <spine toc="ncx">
     <itemref idref="titlepage"/>
-    <itemref idref="id14"/>
     <itemref idref="id15"/>
     <itemref idref="id16"/>
     <itemref idref="id17"/>
