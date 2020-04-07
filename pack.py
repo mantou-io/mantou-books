@@ -10,7 +10,21 @@ import os
 
 from ebooklib import epub
 
+def is_chinese(uchar):
+    if uchar >= u'\u4e00' and uchar <= u'\u9fa5':
+        return True
+    else:
+        return False
 
+def is_alpha(uchar):
+    if '0' <= uchar <= '9':
+        return True
+    if 'a' <= uchar <= 'z':
+        return True
+    if 'A' <= uchar <= 'Z':
+        return True
+    return False
+        
 def pack_all():
     for filename in os.listdir("."):
         if filename.isdigit():
@@ -43,10 +57,76 @@ def fix_toc(book_id):
             with open(opath+'s', 'w') as wf:
                 wf.write(content)
 
+def process_alpha(fname):
+    content = ''
+    ncontent = ''
+
+    with open(fname) as f:
+        content = f.read()
+        content = content.decode('utf-8')
+        index = 0
+        total = len(content)
+        while(index < (total-1)):
+            if not is_chinese(content[index]):
+                ncontent += content[index]
+                index += 1
+            else:
+                # look backward first
+                if (index > 1) and is_alpha(content[index-1]):
+                    pos = index - 2
+                    while (pos > 0 and is_alpha(content[pos])):
+                        pos -= 1
+                    # eat back : it's tricky
+                    ncontent = ncontent[:pos-index+1]
+
+                    ncontent += '<span class="alpha-r alpha">'+ content[pos+1:index] + '</span>'
+
+                ncontent += content[index]
+
+                # look afterward then
+                if is_alpha(content[index +1]):
+                    pos = index+2
+                    while(pos < total and is_alpha(content[pos])):
+                        pos += 1
+                    class_name = ''
+                    if is_chinese(content[pos]):
+                        class_name = 'alpha-r '
+                    ncontent += '<span class="alpha-l ' + class_name + 'alpha">'+ content[index+1:pos] + '</span>'
+                    if is_chinese(content[pos]):
+                        index = pos
+                        ncontent += content[index]
+                    else:
+                        index = pos - 1
+                index += 1
+
+    with open(fname, "w") as f:
+        f.write(ncontent)
+
+
+def fix_alpha(book_id):
+    alpha_path = book_id + "-alpha"
+    delegator.run('rm -rf %s' % alpha_path)
+    delegator.run('cp -a %s %s' % (book_id, alpha_path))
+
+    _prefixs = ["/OEBPS/Text/", "/OEBPS/", "/", ]
+    prefixs = []
+
+    for _ in _prefixs:
+        prefixs.append(alpha_path + _)
+
+    for prefix in prefixs:
+        if os.path.exists(prefix):
+            dpath = prefix
+            for filename in os.listdir(dpath):
+                if filename.endswith("html"):
+                    fname = os.path.join(dpath, filename)
+                    process_alpha(fname)
 
 def pack(book_id, output = True):
-    fix_toc(book_id)
-    delegator.run('cd %s; zip -rX ../%s.epub *' % (book_id, book_id)) 
+    #fix_toc(book_id)
+    fix_alpha(book_id)
+
+    delegator.run('cd %s-alpha; zip -rX ../%s.epub *' % (book_id, book_id)) 
     if output:
         print book_id, "packed"
 
