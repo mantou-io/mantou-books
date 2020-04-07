@@ -5,28 +5,23 @@
     <dc:identifier id="uuid_id" opf:scheme="uuid">a51c6934-b49d-4d97-b8f8-89835d65ccb0</dc:identifier>
     <dc:date>2017-03-16T16:00:00+00:00</dc:date>
     <meta name="calibre:timestamp" content="2019-01-30T17:36:08.501000+00:00"/>
-    <meta name="cover" content="cover"/>
     <dc:language>und</dc:language>
     <dc:title>胡适文集（第一部）</dc:title>
     <dc:contributor opf:role="bkp">calibre (3.38.0) [http://calibre-ebook.com]</dc:contributor>
     <dc:creator opf:file-as="未知" opf:role="aut">胡适</dc:creator>
-    <dc:publisher>花城出版社</dc:publisher>
+    <dc:publisher>mantou</dc:publisher>
   </metadata>
   <manifest>
-    <item href="OEBPS/Images/cover.jpg" id="cover" media-type="image/jpeg"/>
-    <item href="OEBPS/Images/8796093023444968901.jpg" id="8796093023444968901.jpg" media-type="image/jpeg"/>
     <item href="OEBPS/Text/Section0001_split_000.xhtml" id="Section0001.xhtml4" media-type="application/xhtml+xml"/>
     <item href="OEBPS/Text/Section0001_split_001.xhtml" id="Section0001.xhtml3" media-type="application/xhtml+xml"/>
     <item href="OEBPS/Text/Section0001_split_002.xhtml" id="Section0001.xhtml2" media-type="application/xhtml+xml"/>
     <item href="OEBPS/Text/Section0001_split_003.xhtml" id="Section0001.xhtml1" media-type="application/xhtml+xml"/>
     <item href="OEBPS/Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
-    <item href="OEBPS/Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
     <item href="page_styles.css" id="page_css" media-type="text/css"/>
     <item href="stylesheet.css" id="css" media-type="text/css"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
   <spine toc="ncx">
-    <itemref idref="cover.xhtml"/>
     <itemref idref="TOC.xhtml"/>
     <itemref idref="Section0001.xhtml4"/>
     <itemref idref="Section0001.xhtml3"/>
@@ -34,7 +29,5 @@
     <itemref idref="Section0001.xhtml1"/>
   </spine>
   <guide>
-    <reference href="OEBPS/Text/cover.xhtml" title="Title Page" type="other.titlepage"/>
-    <reference href="OEBPS/Text/cover.xhtml" title="封面" type="cover"/>
   </guide>
 </package>

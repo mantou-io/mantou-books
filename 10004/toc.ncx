@@ -11,12 +11,6 @@
     <text>胡适文集（第一部）</text>
   </docTitle>
   <navMap>
-    <navPoint class="chapter" id="navPoint-1" playOrder="1">
-      <navLabel>
-        <text>封面</text>
-      </navLabel>
-      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_1"/>
-    </navPoint>
     <navPoint class="chapter" id="navPoint-2" playOrder="2">
       <navLabel>
         <text>前言</text>
