@@ -66,7 +66,16 @@ def process_alpha(fname):
         content = content.decode('utf-8')
         index = 0
         total = len(content)
+        begin_it = 0
         while(index < total):
+            if not begin_it and content[index:index+4].lower() == 'body':
+                print "beginnnnn"
+                begin_it = 1
+            if not begin_it:
+                ncontent += content[index]
+                index += 1
+                continue
+
             if not is_chinese(content[index]):
                 ncontent += content[index]
                 index += 1

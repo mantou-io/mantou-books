@@ -8,9 +8,6 @@
     <meta content="1" name="dtb:depth"/>
     <meta content="0" name="dtb:totalPageCount"/>
     <meta content="0" name="dtb:maxPageNumber"/>
-    <meta content="www.cnepub.com" name="provider"/>
-    <meta content="epubBuilder present by www.cnepub.com" name="builder"/>
-    <meta content="该文档由epubBuilder生成。epubBuilder为掌上书苑（www.cnepub.com)提供的epub制作工具，仅供个人交流与学习使用。在未获得掌上书苑的商业授权前，不得用于任何商业用途。" name="right"/>
   </head>
   <docTitle>
     <text>边城</text>
@@ -19,12 +16,6 @@
     <text>沈从文</text>
   </docAuthor>
   <navMap>
-    <navPoint id="coverpage" playOrder="0">
-      <navLabel>
-        <text>封面</text>
-      </navLabel>
-      <content src="Text/coverpage.html"/>
-    </navPoint>
     <navPoint id="chapter2" playOrder="1">
       <navLabel>
         <text>题记</text>

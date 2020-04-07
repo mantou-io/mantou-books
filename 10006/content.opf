@@ -15,7 +15,6 @@
     <meta name="calibre:author_link_map" content="{&quot;白先勇&quot;: &quot;&quot;}"/>
   </metadata>
   <manifest>
-    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
     <item href="text/part0001.html" id="id15" media-type="application/xhtml+xml"/>
     <item href="text/part0002.html" id="id16" media-type="application/xhtml+xml"/>
     <item href="text/part0003.html" id="id17" media-type="application/xhtml+xml"/>
@@ -47,7 +46,6 @@
     <item href="images/00011.jpeg" id="id10" media-type="image/jpeg"/>
   </manifest>
   <spine toc="ncx">
-    <itemref idref="titlepage"/>
     <itemref idref="id15"/>
     <itemref idref="id16"/>
     <itemref idref="id17"/>
@@ -65,6 +63,5 @@
     <itemref idref="id29"/>
   </spine>
   <guide>
-    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
   </guide>
 </package>
