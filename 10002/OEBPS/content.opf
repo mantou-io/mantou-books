@@ -21,17 +21,11 @@
     <item href="Text/zw-01.xhtml" id="zw-01.xhtml" media-type="application/xhtml+xml"/>
     <item href="Styles/fonts.css" id="fonts.css" media-type="text/css"/>
     <item href="Text/fulu.xhtml" id="fulu.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Images/cover.jpg" id="cover.jpg" media-type="image/jpeg"/>
-    <item href="Images/cover~slim.jpg" id="cover_slim.jpg" media-type="image/jpeg"/>
     <item href="Images/01.jpg" id="x01.jpg" media-type="image/jpeg"/>
     <item href="Images/02.png" id="x02.png" media-type="image/png"/>
     <item href="Text/img-02.xhtml" id="img-02.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/QJ.xhtml" id="QJ.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/img-01.xhtml" id="img-01.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/copyright.xhtml" id="copyright.xhtml" media-type="application/xhtml+xml"/>
-    <item href="Text/shuoming.xhtml" id="shuoming.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/xu.xhtml" id="xu.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/zw-09.xhtml" id="zw-09.xhtml" media-type="application/xhtml+xml"/>
     <item href="Text/zw-03.xhtml" id="zw-03.xhtml" media-type="application/xhtml+xml"/>
@@ -44,10 +38,6 @@
     <item href="Fonts/fs.ttf" id="easypubfs.ttf" media-type="application/x-font-ttf"/>
   </manifest>
   <spine toc="ncx">
-    <itemref idref="cover.xhtml" properties="duokan-page-fullscreen"/>
-    <itemref idref="titlepage.xhtml"/>
-    <itemref idref="copyright.xhtml"/>
-    <itemref idref="shuoming.xhtml"/>
     <itemref idref="xu.xhtml"/>
     <itemref idref="img-01.xhtml"/>
     <itemref idref="img-02.xhtml"/>
@@ -65,7 +55,4 @@
     <itemref idref="fulu.xhtml"/>
     <itemref idref="info.xhtml"/>
   </spine>
-  <guide>
-    <reference href="Text/cover.xhtml" title="封面" type="cover"/>
-  </guide>
 </package>

@@ -66,13 +66,13 @@ def process_alpha(fname):
         content = content.decode('utf-8')
         index = 0
         total = len(content)
-        while(index < (total-1)):
+        while(index < total):
             if not is_chinese(content[index]):
                 ncontent += content[index]
                 index += 1
             else:
                 # look backward first
-                if (index > 1) and is_alpha(content[index-1]):
+                if (index > 2) and is_alpha(content[index-1]):
                     pos = index - 2
                     while (pos > 0 and is_alpha(content[pos])):
                         pos -= 1

@@ -11,115 +11,99 @@
     <text>围城</text>
   </docTitle>
   <navMap>
-    <navPoint id="navPoint-1" playOrder="1">
-      <navLabel>
-        <text>版权</text>
-      </navLabel>
-      <content src="Text/copyright.xhtml"/>
-    </navPoint>
-    <navPoint id="navPoint-2" playOrder="2">
-      <navLabel>
-        <text>说明</text>
-      </navLabel>
-      <content src="Text/shuoming.xhtml"/>
-      <navPoint id="navPoint-3" playOrder="3">
-        <navLabel>
-          <text>出版说明</text>
-        </navLabel>
-        <content src="Text/shuoming.xhtml#sigil_toc_id_1"/>
-      </navPoint>
-      <navPoint id="navPoint-4" playOrder="4">
+    <navPoint id="navPoint-2" playOrder="1">
+      <navPoint id="navPoint-4" playOrder="2">
         <navLabel>
           <text>钱锺书对《钱锺书集》的态度（代序）</text>
         </navLabel>
         <content src="Text/xu.xhtml"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-5" playOrder="5">
+    <navPoint id="navPoint-5" playOrder="3">
       <navLabel>
         <text>围城</text>
       </navLabel>
       <content src="Text/QJ.xhtml"/>
-      <navPoint id="navPoint-6" playOrder="6">
+      <navPoint id="navPoint-6" playOrder="4">
         <navLabel>
           <text>重印前记</text>
         </navLabel>
         <content src="Text/QJ.xhtml#sigil_toc_id_2"/>
       </navPoint>
-      <navPoint id="navPoint-7" playOrder="7">
+      <navPoint id="navPoint-7" playOrder="5">
         <navLabel>
           <text>序</text>
         </navLabel>
         <content src="Text/preface.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-8" playOrder="8">
+      <navPoint id="navPoint-8" playOrder="6">
         <navLabel>
           <text>一</text>
         </navLabel>
         <content src="Text/zw-01.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-9" playOrder="9">
+      <navPoint id="navPoint-9" playOrder="7">
         <navLabel>
           <text>二</text>
         </navLabel>
         <content src="Text/zw-02.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-10" playOrder="10">
+      <navPoint id="navPoint-10" playOrder="8">
         <navLabel>
           <text>三</text>
         </navLabel>
         <content src="Text/zw-03.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-11" playOrder="11">
+      <navPoint id="navPoint-11" playOrder="9">
         <navLabel>
           <text>四</text>
         </navLabel>
         <content src="Text/zw-04.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-12" playOrder="12">
+      <navPoint id="navPoint-12" playOrder="10">
         <navLabel>
           <text>五</text>
         </navLabel>
         <content src="Text/zw-05.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-13" playOrder="13">
+      <navPoint id="navPoint-13" playOrder="11">
         <navLabel>
           <text>六</text>
         </navLabel>
         <content src="Text/zw-06.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-14" playOrder="14">
+      <navPoint id="navPoint-14" playOrder="12">
         <navLabel>
           <text>七</text>
         </navLabel>
         <content src="Text/zw-07.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-15" playOrder="15">
+      <navPoint id="navPoint-15" playOrder="13">
         <navLabel>
           <text>八</text>
         </navLabel>
         <content src="Text/zw-08.xhtml"/>
       </navPoint>
-      <navPoint id="navPoint-16" playOrder="16">
+      <navPoint id="navPoint-16" playOrder="14">
         <navLabel>
           <text>九</text>
         </navLabel>
         <content src="Text/zw-09.xhtml"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-17" playOrder="17">
+    <navPoint id="navPoint-17" playOrder="15">
       <navLabel>
         <text>附录</text>
       </navLabel>
       <content src="Text/fulu.xhtml"/>
-      <navPoint id="navPoint-18" playOrder="18">
+      <navPoint id="navPoint-18" playOrder="16">
         <navLabel>
           <text>记钱锺书与《围城》</text>
         </navLabel>
         <content src="Text/fulu.xhtml#sigil_toc_id_3"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-19" playOrder="19">
+    <navPoint id="navPoint-19" playOrder="17">
       <navLabel>
         <text>说明</text>
       </navLabel>
