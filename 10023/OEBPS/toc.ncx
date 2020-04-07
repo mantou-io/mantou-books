@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+   "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:0b290818-7886-4883-9b53-378c05c54893"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="Text/cover.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>金庸作品集“三联版”序</text>
+      </navLabel>
+      <content src="Text/prologue.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>第一回 纵横钩党清流祸 峭茜风期月旦评</text>
+      </navLabel>
+      <content src="Text/Section003.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>第二回 绝世奇事传闻里 最好交情见面初</text>
+      </navLabel>
+      <content src="Text/Section006.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>第三回 符来袖里围方解 椎脱囊中事竟成</text>
+      </navLabel>
+      <content src="Text/Section009.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>第四回 无迹可寻羚挂角 忘机相对鹤梳翎</text>
+      </navLabel>
+      <content src="Text/Section012.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>第五回 金戈运启驱除会 玉匣书留想象间</text>
+      </navLabel>
+      <content src="Text/Section015.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>第六回 可知今日怜才意 即是当时种树心</text>
+      </navLabel>
+      <content src="Text/Section018.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>第七回 古来成败原关数 天下英雄大可知</text>
+      </navLabel>
+      <content src="Text/Section021.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>第八回 佳客偶逢如有约 盛名长恐见无因</text>
+      </navLabel>
+      <content src="Text/Section024.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>第九回 琢磨颇望成全璧 激烈何须到碎琴</text>
+      </navLabel>
+      <content src="Text/Section027.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>第十回 尽有狂言容数子 每从高会厕诸公</text>
+      </navLabel>
+      <content src="Text/Section030.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>第十一回 春辞小院离离影 夜受轻衫漠漠香</text>
+      </navLabel>
+      <content src="Text/Section033.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>第十二回 语带滑稽吾是戏 弊清摘发尔如神</text>
+      </navLabel>
+      <content src="Text/Section036.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>第十三回 翻覆两家天假手 兴衰一劫局更新</text>
+      </navLabel>
+      <content src="Text/Section039.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>第十四回 放逐肯消亡国恨 岁时犹动楚人哀</text>
+      </navLabel>
+      <content src="Text/Section042.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>第十五回 关心风雨经联榻 轻命江山博壮游</text>
+      </navLabel>
+      <content src="Text/Section045.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>第十六回 粉麝余香衔语燕 珮环新鬼泣啼乌</text>
+      </navLabel>
+      <content src="Text/Section048.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>第十七回 法门猛叩无方便 疑网重开有譬如</text>
+      </navLabel>
+      <content src="Text/Section051.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>第十八回 金刚宝杵卫帝释 雕篆石碣敲头陀</text>
+      </navLabel>
+      <content src="Text/Section054.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>第十九回 九州聚铁铸一字 百金立木招群魔</text>
+      </navLabel>
+      <content src="Text/Section057.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>第二十回 残碑日月看仍在 前辈风流许再攀</text>
+      </navLabel>
+      <content src="Text/Section060.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>第二十一回 金剪无声云委地 宝钗有梦燕依人</text>
+      </navLabel>
+      <content src="Text/Section063.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>第二十二回 老衲山中移漏处 佳人世外改妆时</text>
+      </navLabel>
+      <content src="Text/Section066.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>第二十三回 天生才士定多癖 君与此图皆可传</text>
+      </navLabel>
+      <content src="Text/Section069.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>第二十四回 爱河纵涸须千劫 苦海难量为一慈</text>
+      </navLabel>
+      <content src="Text/Section072.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>第二十五回 乌飞白头窜帝子 马挟红粉啼宫娥</text>
+      </navLabel>
+      <content src="Text/Section075.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>第二十六回 草木连天人骨白 关山满眼夕阳红</text>
+      </navLabel>
+      <content src="Text/Section078.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>第二十七回 滇海有人闻鬼哭 棘门此外尽儿嬉</text>
+      </navLabel>
+      <content src="Text/Section081.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>第二十八回 未免情多丝宛转 为谁辛苦窍玲珑</text>
+      </navLabel>
+      <content src="Text/Section084.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>第二十九回 卷幔微风香忽到 瞰床新月雨初收</text>
+      </navLabel>
+      <content src="Text/Section087.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>第三十回 镇将南朝偏跋扈 部兵西楚最轻剽</text>
+      </navLabel>
+      <content src="Text/Section090.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>第三十一回 罗甸一军深壁垒 滇池千顷沸波涛</text>
+      </navLabel>
+      <content src="Text/Section093.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>第三十二回 歌喉欲断从弦续 舞袖能长听客夸</text>
+      </navLabel>
+      <content src="Text/Section096.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>第三十三回 谁无痼疾难相笑 各有风流两不如</text>
+      </navLabel>
+      <content src="Text/Section099.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>第三十四回 一纸兴亡看复鹿 千年灰劫付冥鸿</text>
+      </navLabel>
+      <content src="Text/Section102.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>第三十五回 曾随东西南北路 独结冰霜雨雪缘</text>
+      </navLabel>
+      <content src="Text/Section105.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>第三十六回 犵鸟蛮花天万里 朔云边雪路千盘</text>
+      </navLabel>
+      <content src="Text/Section108.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>第三十七回 辕门谁上平蛮策 朝议先颁谕蜀文</text>
+      </navLabel>
+      <content src="Text/Section111.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>第三十八回 纵横野马群飞路 跋扈风筝一线天</text>
+      </navLabel>
+      <content src="Text/Section114.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>第三十九回 先生乐事行如栉 小子浮踪寄若萍</text>
+      </navLabel>
+      <content src="Text/Section117.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>第四十回 待兔只疑株可守 求鱼方悔木难缘</text>
+      </navLabel>
+      <content src="Text/Section120.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>第四十一回 渔阳鼓动天方醉 督亢图穷悔已迟</text>
+      </navLabel>
+      <content src="Text/Section123.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>第四十二回 九重城阙微茫外 一气风云吐纳间</text>
+      </navLabel>
+      <content src="Text/Section126.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>第四十三回 身作红云长傍日 心随碧草又迎风</text>
+      </navLabel>
+      <content src="Text/Section129.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>第四十四回 人来绝域原拚命 事到伤心每怕真</text>
+      </navLabel>
+      <content src="Text/Section132.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>第四十五回 尚余截竹为竿手 可有临渊结网心</text>
+      </navLabel>
+      <content src="Text/Section135.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>第四十六回 千里帆樯来域外 九霄风雨过城头</text>
+      </navLabel>
+      <content src="Text/Section138.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>第四十七回 云点旌旗秋出塞 风传鼓角夜临关</text>
+      </navLabel>
+      <content src="Text/Section141.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>第四十八回 都护玉门关不设 将军铜柱界重标</text>
+      </navLabel>
+      <content src="Text/Section144.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>第四十九回 好官气色车裘壮 独客心情故旧疑</text>
+      </navLabel>
+      <content src="Text/Section147.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>第五十回 鹗立云端原矫矫 鸿飞天外又冥冥</text>
+      </navLabel>
+      <content src="Text/Section150.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>附录：康熙朝的机密奏折</text>
+      </navLabel>
+      <content src="Text/Section151.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="Text/Section152.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

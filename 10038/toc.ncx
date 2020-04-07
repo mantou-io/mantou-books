@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="und">
+  <head>
+    <meta content="8828c5b3-4963-4563-8f2a-6a81c2d35e6d" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>茶馆</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>话剧卷</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_2"/>
+      <navPoint class="chapter" id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>茶馆（三幕话剧）</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>龙须沟（三幕六场话剧）</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>中篇小说卷</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_5"/>
+      <navPoint class="chapter" id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>我这一辈子</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>月牙儿</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>短篇小说卷</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_003.xhtml"/>
+      <navPoint class="chapter" id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>柳家大院</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>也是三角</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>断魂枪</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>上任</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>微神</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>老字号</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>大悲寺外</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>邻居们</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>散文卷</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_17"/>
+      <navPoint class="chapter" id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>一些印象（节选）</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>非正式的公园</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>趵突泉的欣赏</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>抬头见喜</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>又是一年芳草绿</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>养花</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>我的母亲</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>宗月大师</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>大明湖之春</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>落花生</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>我的理想家庭</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>想北平</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>可爱的成都</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>老舍年谱</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_31"/>
+    </navPoint>
+  </navMap>
+</ncx>

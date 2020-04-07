@@ -1,0 +1,2025 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta content="9b609541-fcf2-4e2a-8315-d28cf9d7081c" name="dtb:uid"/>
+    <meta content="6" name="dtb:depth"/>
+    <meta content="calibre (3.39.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>资本论(1-3)(套装共3册)</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>总目录</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>资本论（第一卷）</text>
+      </navLabel>
+      <content src="index_split_001.html"/>
+      <navPoint class="chapter" id="num_3" playOrder="3">
+        <navLabel>
+          <text>第一版序言</text>
+        </navLabel>
+        <content src="index_split_004.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_4" playOrder="4">
+        <navLabel>
+          <text>第二版跋</text>
+        </navLabel>
+        <content src="index_split_005.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_5" playOrder="5">
+        <navLabel>
+          <text>法文版序言和跋</text>
+        </navLabel>
+        <content src="index_split_006.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_6" playOrder="6">
+        <navLabel>
+          <text>第三版序言</text>
+        </navLabel>
+        <content src="index_split_007.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_7" playOrder="7">
+        <navLabel>
+          <text>英文版序言</text>
+        </navLabel>
+        <content src="index_split_008.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_8" playOrder="8">
+        <navLabel>
+          <text>第四版序言</text>
+        </navLabel>
+        <content src="index_split_009.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>第一册 资本的生产过程</text>
+        </navLabel>
+        <content src="index_split_010.html"/>
+        <navPoint class="chapter" id="num_10" playOrder="10">
+          <navLabel>
+            <text>第一篇 商品和货币</text>
+          </navLabel>
+          <content src="index_split_011.html"/>
+          <navPoint class="chapter" id="num_11" playOrder="11">
+            <navLabel>
+              <text>第一章 商品</text>
+            </navLabel>
+            <content src="index_split_012.html"/>
+            <navPoint class="chapter" id="num_12" playOrder="12">
+              <navLabel>
+                <text>1.商品的两个因素：使用价值和价值（价值实体，价值量）</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos127405"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_13" playOrder="13">
+              <navLabel>
+                <text>2.体现在商品中的劳动的二重性</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos141341"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_14" playOrder="14">
+              <navLabel>
+                <text>3.价值形式或交换价值</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos153289"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_15" playOrder="15">
+              <navLabel>
+                <text>A.简单的、个别的或偶然的价值形式</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos155485"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_16" playOrder="16">
+              <navLabel>
+                <text>（1）价值表现的两极：相对价值形式和等价形式</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos155827"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_17" playOrder="17">
+              <navLabel>
+                <text>（2）相对价值形式</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos158328"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_18" playOrder="18">
+              <navLabel>
+                <text>（3）等价形式</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos171052"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_19" playOrder="19">
+              <navLabel>
+                <text>（4）简单价值形式的总体</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos182467"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_20" playOrder="20">
+              <navLabel>
+                <text>B.总和的或扩大的价值形式</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos187895"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_21" playOrder="21">
+              <navLabel>
+                <text>（1）扩大的相对价值形式</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos188347"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_22" playOrder="22">
+              <navLabel>
+                <text>（2）特殊等价形式</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos190115"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_23" playOrder="23">
+              <navLabel>
+                <text>（3）总和的或扩大的价值形式的缺点</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos190728"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_24" playOrder="24">
+              <navLabel>
+                <text>C.一般价值形式</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos193334"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_25" playOrder="25">
+              <navLabel>
+                <text>（1）价值形式的变化了的性质</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos193548"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_26" playOrder="26">
+              <navLabel>
+                <text>（2）相对价值形式和等价形式的发展关系</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos198833"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_27" playOrder="27">
+              <navLabel>
+                <text>（3）从一般价值形式到货币形式的过渡</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos202162"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_28" playOrder="28">
+              <navLabel>
+                <text>D.货币形式</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos203398"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_29" playOrder="29">
+              <navLabel>
+                <text>4.商品的拜物教性质及其秘密</text>
+              </navLabel>
+              <content src="index_split_012.html#filepos205742"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_30" playOrder="30">
+            <navLabel>
+              <text>第二章 交换过程</text>
+            </navLabel>
+            <content src="index_split_013.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_31" playOrder="31">
+            <navLabel>
+              <text>第三章 货币或商品流通</text>
+            </navLabel>
+            <content src="index_split_014.html"/>
+            <navPoint class="chapter" id="num_32" playOrder="32">
+              <navLabel>
+                <text>1.价值尺度</text>
+              </navLabel>
+              <content src="index_split_014.html#filepos314827"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_33" playOrder="33">
+              <navLabel>
+                <text>2.流通手段</text>
+              </navLabel>
+              <content src="index_split_014.html#filepos332394"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_34" playOrder="34">
+              <navLabel>
+                <text>（a）商品的形态变化</text>
+              </navLabel>
+              <content src="index_split_014.html#filepos332463"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_35" playOrder="35">
+              <navLabel>
+                <text>（b）货币的流通</text>
+              </navLabel>
+              <content src="index_split_014.html#filepos356794"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_36" playOrder="36">
+              <navLabel>
+                <text>（c）铸币。价值符号</text>
+              </navLabel>
+              <content src="index_split_014.html#filepos375108"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_37" playOrder="37">
+              <navLabel>
+                <text>3.货币</text>
+              </navLabel>
+              <content src="index_split_014.html#filepos383662"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_38" playOrder="38">
+              <navLabel>
+                <text>（a）货币贮藏</text>
+              </navLabel>
+              <content src="index_split_014.html#filepos384473"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_39" playOrder="39">
+              <navLabel>
+                <text>（b）支付手段</text>
+              </navLabel>
+              <content src="index_split_014.html#filepos393904"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_40" playOrder="40">
+              <navLabel>
+                <text>（c）世界货币</text>
+              </navLabel>
+              <content src="index_split_014.html#filepos406686"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_41" playOrder="41">
+          <navLabel>
+            <text>第二篇 货币转化为资本</text>
+          </navLabel>
+          <content src="index_split_015.html"/>
+          <navPoint class="chapter" id="num_42" playOrder="42">
+            <navLabel>
+              <text>第四章 货币转化为资本</text>
+            </navLabel>
+            <content src="index_split_016.html"/>
+            <navPoint class="chapter" id="num_43" playOrder="43">
+              <navLabel>
+                <text>1.资本的总公式</text>
+              </navLabel>
+              <content src="index_split_016.html#filepos487795"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_44" playOrder="44">
+              <navLabel>
+                <text>2.总公式的矛盾</text>
+              </navLabel>
+              <content src="index_split_016.html#filepos506122"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_45" playOrder="45">
+              <navLabel>
+                <text>3.劳动力的买和卖</text>
+              </navLabel>
+              <content src="index_split_016.html#filepos528990"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_46" playOrder="46">
+          <navLabel>
+            <text>第三篇 绝对剩余价值的生产</text>
+          </navLabel>
+          <content src="index_split_017.html"/>
+          <navPoint class="chapter" id="num_47" playOrder="47">
+            <navLabel>
+              <text>第五章 劳动过程和价值增殖过程</text>
+            </navLabel>
+            <content src="index_split_018.html"/>
+            <navPoint class="chapter" id="num_48" playOrder="48">
+              <navLabel>
+                <text>1.劳动过程</text>
+              </navLabel>
+              <content src="index_split_018.html#filepos582421"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_49" playOrder="49">
+              <navLabel>
+                <text>2.价值增殖过程</text>
+              </navLabel>
+              <content src="index_split_018.html#filepos601461"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_50" playOrder="50">
+            <navLabel>
+              <text>第六章 不变资本和可变资本</text>
+            </navLabel>
+            <content src="index_split_019.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_51" playOrder="51">
+            <navLabel>
+              <text>第七章 剩余价值率</text>
+            </navLabel>
+            <content src="index_split_020.html"/>
+            <navPoint class="chapter" id="num_52" playOrder="52">
+              <navLabel>
+                <text>1.劳动力的剥削程度</text>
+              </navLabel>
+              <content src="index_split_020.html#filepos679472"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_53" playOrder="53">
+              <navLabel>
+                <text>2.产品价值在产品相应部分上的表现</text>
+              </navLabel>
+              <content src="index_split_020.html#filepos698752"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_54" playOrder="54">
+              <navLabel>
+                <text>3.西尼耳的“最后一小时”</text>
+              </navLabel>
+              <content src="index_split_020.html#filepos706504"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_55" playOrder="55">
+              <navLabel>
+                <text>4.剩余产品</text>
+              </navLabel>
+              <content src="index_split_020.html#filepos715517"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_56" playOrder="56">
+            <navLabel>
+              <text>第八章 工作日</text>
+            </navLabel>
+            <content src="index_split_021.html"/>
+            <navPoint class="chapter" id="num_57" playOrder="57">
+              <navLabel>
+                <text>1.工作日的界限</text>
+              </navLabel>
+              <content src="index_split_021.html#filepos736639"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_58" playOrder="58">
+              <navLabel>
+                <text>2.对剩余劳动的贪欲。工厂主和领主</text>
+              </navLabel>
+              <content src="index_split_021.html#filepos746634"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_59" playOrder="59">
+              <navLabel>
+                <text>3.在剥削上不受法律限制的英国工业部门</text>
+              </navLabel>
+              <content src="index_split_021.html#filepos763710"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_60" playOrder="60">
+              <navLabel>
+                <text>4.日工和夜工。换班制度</text>
+              </navLabel>
+              <content src="index_split_021.html#filepos793801"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_61" playOrder="61">
+              <navLabel>
+                <text>5.争取正常工作日的斗争。14世纪中叶至17世纪末叶关于延长工作日的强制性法律</text>
+              </navLabel>
+              <content src="index_split_021.html#filepos808117"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_62" playOrder="62">
+              <navLabel>
+                <text>6.争取正常工作日的斗争。对劳动时间的强制的法律限制。1833—1864年英国的工厂立法</text>
+              </navLabel>
+              <content src="index_split_021.html#filepos833642"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_63" playOrder="63">
+              <navLabel>
+                <text>7.争取正常工作日的斗争。英国工厂立法对其他国家的影响</text>
+              </navLabel>
+              <content src="index_split_021.html#filepos879167"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_64" playOrder="64">
+            <navLabel>
+              <text>第九章 剩余价值率和剩余价值量</text>
+            </navLabel>
+            <content src="index_split_023.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_65" playOrder="65">
+          <navLabel>
+            <text>第四篇 相对剩余价值的生产</text>
+          </navLabel>
+          <content src="index_split_024.html"/>
+          <navPoint class="chapter" id="num_66" playOrder="66">
+            <navLabel>
+              <text>第十章 相对剩余价值的概念</text>
+            </navLabel>
+            <content src="index_split_025.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_67" playOrder="67">
+            <navLabel>
+              <text>第十一章 协作</text>
+            </navLabel>
+            <content src="index_split_026.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_68" playOrder="68">
+            <navLabel>
+              <text>第十二章 分工和工场手工业</text>
+            </navLabel>
+            <content src="index_split_027.html"/>
+            <navPoint class="chapter" id="num_69" playOrder="69">
+              <navLabel>
+                <text>1.工场手工业的二重起源</text>
+              </navLabel>
+              <content src="index_split_027.html#filepos1112702"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_70" playOrder="70">
+              <navLabel>
+                <text>2.局部工人及其工具</text>
+              </navLabel>
+              <content src="index_split_027.html#filepos1118617"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_71" playOrder="71">
+              <navLabel>
+                <text>3.工场手工业的两种基本形式——混成的工场手工业和有机的工场手工业</text>
+              </navLabel>
+              <content src="index_split_027.html#filepos1124441"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_72" playOrder="72">
+              <navLabel>
+                <text>4.工场手工业内部的分工和社会内部的分工</text>
+              </navLabel>
+              <content src="index_split_027.html#filepos1142652"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_73" playOrder="73">
+              <navLabel>
+                <text>5.工场手工业的资本主义性质</text>
+              </navLabel>
+              <content src="index_split_027.html#filepos1158977"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_74" playOrder="74">
+            <navLabel>
+              <text>第十三章 机器和大工业</text>
+            </navLabel>
+            <content src="index_split_028.html"/>
+            <navPoint class="chapter" id="num_75" playOrder="75">
+              <navLabel>
+                <text>1.机器的发展</text>
+              </navLabel>
+              <content src="index_split_028.html#filepos1225238"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_76" playOrder="76">
+              <navLabel>
+                <text>2.机器的价值向产品的转移</text>
+              </navLabel>
+              <content src="index_split_028.html#filepos1255474"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_77" playOrder="77">
+              <navLabel>
+                <text>3.机器生产对工人的直接影响</text>
+              </navLabel>
+              <content src="index_split_028.html#filepos1272145"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_78" playOrder="78">
+              <navLabel>
+                <text>（a）资本对补充劳动力的占有。妇女劳动和儿童劳动</text>
+              </navLabel>
+              <content src="index_split_028.html#filepos1272712"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_79" playOrder="79">
+              <navLabel>
+                <text>（b）工作日的延长</text>
+              </navLabel>
+              <content src="index_split_028.html#filepos1290374"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_80" playOrder="80">
+              <navLabel>
+                <text>（c）劳动的强化</text>
+              </navLabel>
+              <content src="index_split_028.html#filepos1302784"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_81" playOrder="81">
+              <navLabel>
+                <text>4.工厂</text>
+              </navLabel>
+              <content src="index_split_028.html#filepos1323987"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_82" playOrder="82">
+              <navLabel>
+                <text>5.工人和机器之间的斗争</text>
+              </navLabel>
+              <content src="index_split_028.html#filepos1338459"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_83" playOrder="83">
+              <navLabel>
+                <text>6.关于被机器排挤的工人会得到补偿的理论</text>
+              </navLabel>
+              <content src="index_split_028.html#filepos1358385"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_84" playOrder="84">
+              <navLabel>
+                <text>7.工人随机器生产的发展而被排斥和吸引。棉纺织业的危机</text>
+              </navLabel>
+              <content src="index_split_029.html#filepos1378244"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_85" playOrder="85">
+              <navLabel>
+                <text>8.大工业所引起的工场手工业、手工业和家庭劳动的革命</text>
+              </navLabel>
+              <content src="index_split_029.html#filepos1401258"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_86" playOrder="86">
+              <navLabel>
+                <text>（a）以手工业和分工为基础的协作的消灭</text>
+              </navLabel>
+              <content src="index_split_029.html#filepos1401387"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_87" playOrder="87">
+              <navLabel>
+                <text>（b）工厂制度对于工场手工业和家庭劳动的反作用</text>
+              </navLabel>
+              <content src="index_split_029.html#filepos1404814"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_88" playOrder="88">
+              <navLabel>
+                <text>（c）现代工场手工业</text>
+              </navLabel>
+              <content src="index_split_029.html#filepos1408243"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_89" playOrder="89">
+              <navLabel>
+                <text>（d）现代家庭劳动</text>
+              </navLabel>
+              <content src="index_split_029.html#filepos1414871"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_90" playOrder="90">
+              <navLabel>
+                <text>（e）现代工场手工业和家庭劳动向大工业的过渡。这一革命由于工厂法在这两种生产方式中的实行而加速</text>
+              </navLabel>
+              <content src="index_split_029.html#filepos1425602"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_91" playOrder="91">
+              <navLabel>
+                <text>9.工厂立法（卫生条款和教育条款）。它在英国的普遍实行</text>
+              </navLabel>
+              <content src="index_split_029.html#filepos1448010"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_92" playOrder="92">
+              <navLabel>
+                <text>10.大工业和农业</text>
+              </navLabel>
+              <content src="index_split_029.html#filepos1497470"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_93" playOrder="93">
+          <navLabel>
+            <text>第五篇 绝对剩余价值和相对剩余价值的生产</text>
+          </navLabel>
+          <content src="index_split_031.html"/>
+          <navPoint class="chapter" id="num_94" playOrder="94">
+            <navLabel>
+              <text>第十四章 绝对剩余价值和相对剩余价值</text>
+            </navLabel>
+            <content src="index_split_032.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_95" playOrder="95">
+            <navLabel>
+              <text>第十五章 劳动力价格和剩余价值的量的变化</text>
+            </navLabel>
+            <content src="index_split_033.html"/>
+            <navPoint class="chapter" id="num_96" playOrder="96">
+              <navLabel>
+                <text>Ⅰ .工作日的长度和劳动强度不变（已定），劳动生产力可变</text>
+              </navLabel>
+              <content src="index_split_033.html#filepos1710889"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_97" playOrder="97">
+              <navLabel>
+                <text>Ⅱ.工作日和劳动生产力不变，劳动强度可变</text>
+              </navLabel>
+              <content src="index_split_033.html#filepos1719982"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_98" playOrder="98">
+              <navLabel>
+                <text>Ⅲ.劳动生产力和劳动强度不变，工作日可变</text>
+              </navLabel>
+              <content src="index_split_033.html#filepos1723462"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_99" playOrder="99">
+              <navLabel>
+                <text>Ⅳ.劳动的持续时间、劳动生产力和劳动强度同时变化</text>
+              </navLabel>
+              <content src="index_split_033.html#filepos1726514"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_100" playOrder="100">
+            <navLabel>
+              <text>第十六章 剩余价值率的各种公式</text>
+            </navLabel>
+            <content src="index_split_034.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_101" playOrder="101">
+          <navLabel>
+            <text>第六篇 工资</text>
+          </navLabel>
+          <content src="index_split_035.html"/>
+          <navPoint class="chapter" id="num_102" playOrder="102">
+            <navLabel>
+              <text>第十七章 劳动力的价值或价格转化为工资</text>
+            </navLabel>
+            <content src="index_split_036.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_103" playOrder="103">
+            <navLabel>
+              <text>第十八章 计时工资</text>
+            </navLabel>
+            <content src="index_split_037.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_104" playOrder="104">
+            <navLabel>
+              <text>第十九章 计件工资</text>
+            </navLabel>
+            <content src="index_split_038.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_105" playOrder="105">
+            <navLabel>
+              <text>第二十章 工资的国民差异</text>
+            </navLabel>
+            <content src="index_split_039.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_106" playOrder="106">
+          <navLabel>
+            <text>第七篇 资本的积累过程</text>
+          </navLabel>
+          <content src="index_split_040.html"/>
+          <navPoint class="chapter" id="num_107" playOrder="107">
+            <navLabel>
+              <text>第二十一章 简单再生产</text>
+            </navLabel>
+            <content src="index_split_041.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_108" playOrder="108">
+            <navLabel>
+              <text>第二十二章 剩余价值转化为资本</text>
+            </navLabel>
+            <content src="index_split_042.html"/>
+            <navPoint class="chapter" id="num_109" playOrder="109">
+              <navLabel>
+                <text>1.规模扩大的资本主义生产过程。商品生产所有权规律转变为资本主义占有规律</text>
+              </navLabel>
+              <content src="index_split_042.html#filepos1891741"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_110" playOrder="110">
+              <navLabel>
+                <text>2.政治经济学关于规模扩大的再生产的错误见解</text>
+              </navLabel>
+              <content src="index_split_042.html#filepos1913443"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_111" playOrder="111">
+              <navLabel>
+                <text>3.剩余价值分为资本和收入。节欲论</text>
+              </navLabel>
+              <content src="index_split_042.html#filepos1919916"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_112" playOrder="112">
+              <navLabel>
+                <text>4.几种同剩余价值分为资本和收入的比例无关但决定积累量的情况：劳动力的剥削程度；劳动生产力；所使用的资本和所消费的资本之间差额的扩大；预付资本的量</text>
+              </navLabel>
+              <content src="index_split_042.html#filepos1936290"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_113" playOrder="113">
+              <navLabel>
+                <text>5.所谓劳动基金</text>
+              </navLabel>
+              <content src="index_split_042.html#filepos1957141"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_114" playOrder="114">
+            <navLabel>
+              <text>第二十三章 资本主义积累的一般规律</text>
+            </navLabel>
+            <content src="index_split_043.html"/>
+            <navPoint class="chapter" id="num_115" playOrder="115">
+              <navLabel>
+                <text>1.在资本构成不变时，对劳动力的需求随积累的增长而增长</text>
+              </navLabel>
+              <content src="index_split_043.html#filepos2006601"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_116" playOrder="116">
+              <navLabel>
+                <text>2.在积累和伴随积累的积聚的进程中资本可变部分相对减少</text>
+              </navLabel>
+              <content src="index_split_043.html#filepos2022759"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_117" playOrder="117">
+              <navLabel>
+                <text>3.相对过剩人口或产业后备军的累进生产</text>
+              </navLabel>
+              <content src="index_split_043.html#filepos2039429"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_118" playOrder="118">
+              <navLabel>
+                <text>4.相对过剩人口的各种存在形式。资本主义积累的一般规律</text>
+              </navLabel>
+              <content src="index_split_043.html#filepos2064137"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_119" playOrder="119">
+              <navLabel>
+                <text>5.资本主义积累一般规律的例证</text>
+              </navLabel>
+              <content src="index_split_043.html#filepos2080515"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_120" playOrder="120">
+              <navLabel>
+                <text>（a）1846—1866年的英格兰</text>
+              </navLabel>
+              <content src="index_split_043.html#filepos2080611"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_121" playOrder="121">
+              <navLabel>
+                <text>（b）不列颠工业工人阶级中报酬微薄的阶层</text>
+              </navLabel>
+              <content src="index_split_043.html#filepos2092840"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_122" playOrder="122">
+              <navLabel>
+                <text>（c）流动人口</text>
+              </navLabel>
+              <content src="index_split_043.html#filepos2115565"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_123" playOrder="123">
+              <navLabel>
+                <text>（d）危机对工人阶级中报酬最优厚的部分的影响</text>
+              </navLabel>
+              <content src="index_split_043.html#filepos2125311"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_124" playOrder="124">
+              <navLabel>
+                <text>（e）不列颠的农业无产阶级</text>
+              </navLabel>
+              <content src="index_split_043.html#filepos2136900"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_125" playOrder="125">
+              <navLabel>
+                <text>（f）爱尔兰</text>
+              </navLabel>
+              <content src="index_split_043.html#filepos2185713"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_126" playOrder="126">
+            <navLabel>
+              <text>第二十四章 所谓原始积累</text>
+            </navLabel>
+            <content src="index_split_045.html"/>
+            <navPoint class="chapter" id="num_127" playOrder="127">
+              <navLabel>
+                <text>1.原始积累的秘密</text>
+              </navLabel>
+              <content src="index_split_045.html#filepos2299803"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_128" playOrder="128">
+              <navLabel>
+                <text>2.对农村居民土地的剥夺</text>
+              </navLabel>
+              <content src="index_split_045.html#filepos2307193"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_129" playOrder="129">
+              <navLabel>
+                <text>3.15世纪末以来惩治被剥夺者的血腥立法。压低工资的法律</text>
+              </navLabel>
+              <content src="index_split_045.html#filepos2338202"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_130" playOrder="130">
+              <navLabel>
+                <text>4.资本主义租地农场主的产生</text>
+              </navLabel>
+              <content src="index_split_045.html#filepos2354427"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_131" playOrder="131">
+              <navLabel>
+                <text>5.农业革命对工业的反作用。工业资本的国内市场的形成</text>
+              </navLabel>
+              <content src="index_split_045.html#filepos2358025"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_132" playOrder="132">
+              <navLabel>
+                <text>6.工业资本家的产生</text>
+              </navLabel>
+              <content src="index_split_045.html#filepos2366347"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_133" playOrder="133">
+              <navLabel>
+                <text>7.资本主义积累的历史趋势</text>
+              </navLabel>
+              <content src="index_split_045.html#filepos2390794"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_134" playOrder="134">
+            <navLabel>
+              <text>第二十五章现代殖民理论</text>
+            </navLabel>
+            <content src="index_split_046.html"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_135" playOrder="135">
+        <navLabel>
+          <text>人名索引</text>
+        </navLabel>
+        <content src="index_split_047.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_136" playOrder="136">
+        <navLabel>
+          <text>文学作品和神话中的人物索引</text>
+        </navLabel>
+        <content src="index_split_048.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_137" playOrder="137">
+        <navLabel>
+          <text>文献索引</text>
+        </navLabel>
+        <content src="index_split_049.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_138" playOrder="138">
+        <navLabel>
+          <text>其他作者的著作</text>
+        </navLabel>
+        <content src="index_split_050.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_139" playOrder="139">
+        <navLabel>
+          <text>报刊索引</text>
+        </navLabel>
+        <content src="index_split_051.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_140" playOrder="140">
+        <navLabel>
+          <text>名目索引</text>
+        </navLabel>
+        <content src="index_split_052.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_141" playOrder="141">
+      <navLabel>
+        <text>资本论（第二卷）</text>
+      </navLabel>
+      <content src="index_split_053.html"/>
+      <navPoint class="chapter" id="num_142" playOrder="142">
+        <navLabel>
+          <text>序言</text>
+        </navLabel>
+        <content src="index_split_056.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_143" playOrder="143">
+        <navLabel>
+          <text>第二版序言</text>
+        </navLabel>
+        <content src="index_split_057.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_144" playOrder="144">
+        <navLabel>
+          <text>第二册 资本的流通过程</text>
+        </navLabel>
+        <content src="index_split_058.html"/>
+        <navPoint class="chapter" id="num_145" playOrder="145">
+          <navLabel>
+            <text>第一篇 资本形态变化及其循环</text>
+          </navLabel>
+          <content src="index_split_059.html"/>
+          <navPoint class="chapter" id="num_146" playOrder="146">
+            <navLabel>
+              <text>第一章 货币资本的循环</text>
+            </navLabel>
+            <content src="index_split_060.html"/>
+            <navPoint class="chapter" id="num_147" playOrder="147">
+              <navLabel>
+                <text>Ⅰ.第一阶段 G—W</text>
+              </navLabel>
+              <content src="index_split_061.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_148" playOrder="148">
+              <navLabel>
+                <text>Ⅱ.第二阶段 生产资本的职能</text>
+              </navLabel>
+              <content src="index_split_062.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_149" playOrder="149">
+              <navLabel>
+                <text>Ⅲ.第三阶段 W′—G′</text>
+              </navLabel>
+              <content src="index_split_063.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_150" playOrder="150">
+              <navLabel>
+                <text>Ⅳ.总循环</text>
+              </navLabel>
+              <content src="index_split_064.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_151" playOrder="151">
+            <navLabel>
+              <text>第二章 生产资本的循环</text>
+            </navLabel>
+            <content src="index_split_065.html"/>
+            <navPoint class="chapter" id="num_152" playOrder="152">
+              <navLabel>
+                <text>Ⅰ . 简单再生产</text>
+              </navLabel>
+              <content src="index_split_066.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_153" playOrder="153">
+              <navLabel>
+                <text>Ⅱ.积累和规模扩大的再生产</text>
+              </navLabel>
+              <content src="index_split_067.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_154" playOrder="154">
+              <navLabel>
+                <text>Ⅲ.货币积累</text>
+              </navLabel>
+              <content src="index_split_068.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_155" playOrder="155">
+              <navLabel>
+                <text>Ⅳ.准备金</text>
+              </navLabel>
+              <content src="index_split_069.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_156" playOrder="156">
+            <navLabel>
+              <text>第三章 商品资本的循环</text>
+            </navLabel>
+            <content src="index_split_070.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_157" playOrder="157">
+            <navLabel>
+              <text>第四章 循环过程的三个公式</text>
+            </navLabel>
+            <content src="index_split_071.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_158" playOrder="158">
+            <navLabel>
+              <text>第五章 流通时间</text>
+            </navLabel>
+            <content src="index_split_072.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_159" playOrder="159">
+            <navLabel>
+              <text>第六章 流通费用</text>
+            </navLabel>
+            <content src="index_split_073.html"/>
+            <navPoint class="chapter" id="num_160" playOrder="160">
+              <navLabel>
+                <text>Ⅰ.纯粹的流通费用</text>
+              </navLabel>
+              <content src="index_split_074.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_161" playOrder="161">
+              <navLabel>
+                <text>1.买卖时间</text>
+              </navLabel>
+              <content src="index_split_075.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_162" playOrder="162">
+              <navLabel>
+                <text>2.簿记</text>
+              </navLabel>
+              <content src="index_split_076.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_163" playOrder="163">
+              <navLabel>
+                <text>3.货币</text>
+              </navLabel>
+              <content src="index_split_077.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_164" playOrder="164">
+              <navLabel>
+                <text>Ⅱ.保管费用</text>
+              </navLabel>
+              <content src="index_split_078.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_165" playOrder="165">
+              <navLabel>
+                <text>1.储备形成一般</text>
+              </navLabel>
+              <content src="index_split_079.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_166" playOrder="166">
+              <navLabel>
+                <text>2.真正的商品储备</text>
+              </navLabel>
+              <content src="index_split_080.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_167" playOrder="167">
+              <navLabel>
+                <text>Ⅲ.运输费用</text>
+              </navLabel>
+              <content src="index_split_081.html"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_168" playOrder="168">
+          <navLabel>
+            <text>第二篇 资本周转</text>
+          </navLabel>
+          <content src="index_split_082.html"/>
+          <navPoint class="chapter" id="num_169" playOrder="169">
+            <navLabel>
+              <text>第七章 周转时间和周转次数</text>
+            </navLabel>
+            <content src="index_split_083.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_170" playOrder="170">
+            <navLabel>
+              <text>第八章 固定资本和流动资本</text>
+            </navLabel>
+            <content src="index_split_084.html"/>
+            <navPoint class="chapter" id="num_171" playOrder="171">
+              <navLabel>
+                <text>Ⅰ.形式区别</text>
+              </navLabel>
+              <content src="index_split_085.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_172" playOrder="172">
+              <navLabel>
+                <text>Ⅱ.固定资本的组成部分、补偿、修理和积累</text>
+              </navLabel>
+              <content src="index_split_086.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_173" playOrder="173">
+            <navLabel>
+              <text>第九章 预付资本的总周转。周转的周期</text>
+            </navLabel>
+            <content src="index_split_087.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_174" playOrder="174">
+            <navLabel>
+              <text>第十章 关于固定资本和流动资本的理论。重农学派和亚当·斯密</text>
+            </navLabel>
+            <content src="index_split_088.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_175" playOrder="175">
+            <navLabel>
+              <text>第十一章 关于固定资本和流动资本的理论。李 嘉图</text>
+            </navLabel>
+            <content src="index_split_089.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_176" playOrder="176">
+            <navLabel>
+              <text>第十二章 劳动期间</text>
+            </navLabel>
+            <content src="index_split_090.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_177" playOrder="177">
+            <navLabel>
+              <text>第十三章 生产时间</text>
+            </navLabel>
+            <content src="index_split_091.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_178" playOrder="178">
+            <navLabel>
+              <text>第十四章 流通时间</text>
+            </navLabel>
+            <content src="index_split_092.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_179" playOrder="179">
+            <navLabel>
+              <text>第十五章 周转时间对预付资本量的影响</text>
+            </navLabel>
+            <content src="index_split_093.html"/>
+            <navPoint class="chapter" id="num_180" playOrder="180">
+              <navLabel>
+                <text>Ⅰ.劳动期间和流通期间相等</text>
+              </navLabel>
+              <content src="index_split_094.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_181" playOrder="181">
+              <navLabel>
+                <text>Ⅱ.劳动期间大于流通期间</text>
+              </navLabel>
+              <content src="index_split_095.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_182" playOrder="182">
+              <navLabel>
+                <text>Ⅲ.劳动期间小于流通期间</text>
+              </navLabel>
+              <content src="index_split_096.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_183" playOrder="183">
+              <navLabel>
+                <text>Ⅳ.结论</text>
+              </navLabel>
+              <content src="index_split_097.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_184" playOrder="184">
+              <navLabel>
+                <text>Ⅴ.价格变动的影响</text>
+              </navLabel>
+              <content src="index_split_098.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_185" playOrder="185">
+            <navLabel>
+              <text>第十六章 可变资本的周转</text>
+            </navLabel>
+            <content src="index_split_099.html"/>
+            <navPoint class="chapter" id="num_186" playOrder="186">
+              <navLabel>
+                <text>Ⅰ.年剩余价值率</text>
+              </navLabel>
+              <content src="index_split_100.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_187" playOrder="187">
+              <navLabel>
+                <text>Ⅱ.单个可变资本的周转</text>
+              </navLabel>
+              <content src="index_split_101.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_188" playOrder="188">
+              <navLabel>
+                <text>Ⅲ.从社会的角度考察的可变资本的周转</text>
+              </navLabel>
+              <content src="index_split_102.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_189" playOrder="189">
+            <navLabel>
+              <text>第十七章 剩余价值的流通</text>
+            </navLabel>
+            <content src="index_split_103.html"/>
+            <navPoint class="chapter" id="num_190" playOrder="190">
+              <navLabel>
+                <text>Ⅰ.简单再生产</text>
+              </navLabel>
+              <content src="index_split_104.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_191" playOrder="191">
+              <navLabel>
+                <text>Ⅱ.积累和扩大再生产</text>
+              </navLabel>
+              <content src="index_split_105.html"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_192" playOrder="192">
+          <navLabel>
+            <text>第三篇 社会总资本的再生产和流通</text>
+          </navLabel>
+          <content src="index_split_106.html"/>
+          <navPoint class="chapter" id="num_193" playOrder="193">
+            <navLabel>
+              <text>第十八章 导言</text>
+            </navLabel>
+            <content src="index_split_107.html"/>
+            <navPoint class="chapter" id="num_194" playOrder="194">
+              <navLabel>
+                <text>Ⅰ.研究的对象</text>
+              </navLabel>
+              <content src="index_split_108.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_195" playOrder="195">
+              <navLabel>
+                <text>Ⅱ.货币资本的作用</text>
+              </navLabel>
+              <content src="index_split_109.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_196" playOrder="196">
+            <navLabel>
+              <text>第十九章 前人对这个问题的阐述</text>
+            </navLabel>
+            <content src="index_split_110.html"/>
+            <navPoint class="chapter" id="num_197" playOrder="197">
+              <navLabel>
+                <text>Ⅰ . 重农学派</text>
+              </navLabel>
+              <content src="index_split_111.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_198" playOrder="198">
+              <navLabel>
+                <text>Ⅱ.亚当·斯密</text>
+              </navLabel>
+              <content src="index_split_112.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_199" playOrder="199">
+              <navLabel>
+                <text>1.斯密的一般观点</text>
+              </navLabel>
+              <content src="index_split_113.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_200" playOrder="200">
+              <navLabel>
+                <text>2 .斯密把交换价值分解为v＋m</text>
+              </navLabel>
+              <content src="index_split_114.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_201" playOrder="201">
+              <navLabel>
+                <text>3.不变资本部分</text>
+              </navLabel>
+              <content src="index_split_115.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_202" playOrder="202">
+              <navLabel>
+                <text>4.亚·斯密所说的资本和收入</text>
+              </navLabel>
+              <content src="index_split_116.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_203" playOrder="203">
+              <navLabel>
+                <text>5.总结</text>
+              </navLabel>
+              <content src="index_split_117.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_204" playOrder="204">
+              <navLabel>
+                <text>Ⅲ.以后的经济学家</text>
+              </navLabel>
+              <content src="index_split_118.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_205" playOrder="205">
+            <navLabel>
+              <text>第二十章 简单再生产</text>
+            </navLabel>
+            <content src="index_split_119.html"/>
+            <navPoint class="chapter" id="num_206" playOrder="206">
+              <navLabel>
+                <text>Ⅰ.问题的提出</text>
+              </navLabel>
+              <content src="index_split_120.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_207" playOrder="207">
+              <navLabel>
+                <text>Ⅱ.社会生产的两个部类</text>
+              </navLabel>
+              <content src="index_split_121.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_208" playOrder="208">
+              <navLabel>
+                <text>Ⅲ.两个部类之间的交换：Ⅰ（v＋m）和Ⅱc的交换</text>
+              </navLabel>
+              <content src="index_split_122.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_209" playOrder="209">
+              <navLabel>
+                <text>Ⅳ.第Ⅱ部类内部的交换。必要生活资料和奢侈品</text>
+              </navLabel>
+              <content src="index_split_123.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_210" playOrder="210">
+              <navLabel>
+                <text>Ⅴ.货币流通在交换中的中介作用</text>
+              </navLabel>
+              <content src="index_split_124.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_211" playOrder="211">
+              <navLabel>
+                <text>Ⅵ.第Ⅰ部类的不变资本</text>
+              </navLabel>
+              <content src="index_split_125.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_212" playOrder="212">
+              <navLabel>
+                <text>Ⅶ.两个部类的可变资本和剩余价值</text>
+              </navLabel>
+              <content src="index_split_126.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_213" playOrder="213">
+              <navLabel>
+                <text>Ⅷ.两个部类的不变资本</text>
+              </navLabel>
+              <content src="index_split_127.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_214" playOrder="214">
+              <navLabel>
+                <text>Ⅸ.对于亚·斯密、施托尔希和拉姆赛的回顾</text>
+              </navLabel>
+              <content src="index_split_128.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_215" playOrder="215">
+              <navLabel>
+                <text>Ⅹ.资本和收入：可变资本和工资</text>
+              </navLabel>
+              <content src="index_split_129.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_216" playOrder="216">
+              <navLabel>
+                <text>Ⅺ.固定资本的补偿</text>
+              </navLabel>
+              <content src="index_split_130.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_217" playOrder="217">
+              <navLabel>
+                <text>1.损耗的价值部分在货币形式上的补偿</text>
+              </navLabel>
+              <content src="index_split_131.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_218" playOrder="218">
+              <navLabel>
+                <text>2.固定资本的实物补偿</text>
+              </navLabel>
+              <content src="index_split_132.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_219" playOrder="219">
+              <navLabel>
+                <text>3.结论</text>
+              </navLabel>
+              <content src="index_split_133.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_220" playOrder="220">
+              <navLabel>
+                <text>Ⅻ .货币材料的再生产</text>
+              </navLabel>
+              <content src="index_split_134.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_221" playOrder="221">
+              <navLabel>
+                <text>ⅩⅢ.德斯杜特·德·特拉西的再生产理论</text>
+              </navLabel>
+              <content src="index_split_135.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_222" playOrder="222">
+            <navLabel>
+              <text>第二十一章 积累和扩大再生产</text>
+            </navLabel>
+            <content src="index_split_136.html"/>
+            <navPoint class="chapter" id="num_223" playOrder="223">
+              <navLabel>
+                <text>Ⅰ.第Ⅰ部类的积累</text>
+              </navLabel>
+              <content src="index_split_137.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_224" playOrder="224">
+              <navLabel>
+                <text>1.货币贮藏</text>
+              </navLabel>
+              <content src="index_split_138.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_225" playOrder="225">
+              <navLabel>
+                <text>2.追加的不变资本</text>
+              </navLabel>
+              <content src="index_split_139.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_226" playOrder="226">
+              <navLabel>
+                <text>3.追加的可变资本</text>
+              </navLabel>
+              <content src="index_split_140.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_227" playOrder="227">
+              <navLabel>
+                <text>Ⅱ.第Ⅱ部类的积累</text>
+              </navLabel>
+              <content src="index_split_141.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_228" playOrder="228">
+              <navLabel>
+                <text>Ⅲ.用公式来说明积累</text>
+              </navLabel>
+              <content src="index_split_142.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_229" playOrder="229">
+              <navLabel>
+                <text>1.第一例</text>
+              </navLabel>
+              <content src="index_split_143.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_230" playOrder="230">
+              <navLabel>
+                <text>2.第二例</text>
+              </navLabel>
+              <content src="index_split_144.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_231" playOrder="231">
+              <navLabel>
+                <text>3.积累时Ⅱc的交换</text>
+              </navLabel>
+              <content src="index_split_145.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_232" playOrder="232">
+              <navLabel>
+                <text>Ⅳ.补充说明</text>
+              </navLabel>
+              <content src="index_split_146.html"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_233" playOrder="233">
+      <navLabel>
+        <text>资本论（第三卷）</text>
+      </navLabel>
+      <content src="index_split_147.html"/>
+      <navPoint class="chapter" id="num_234" playOrder="234">
+        <navLabel>
+          <text>序言</text>
+        </navLabel>
+        <content src="index_split_150.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_235" playOrder="235">
+        <navLabel>
+          <text>第三册 资本主义生产的总过程（上）</text>
+        </navLabel>
+        <content src="index_split_151.html"/>
+        <navPoint class="chapter" id="num_236" playOrder="236">
+          <navLabel>
+            <text>第一篇 剩余价值转化为利润和剩余价值率转化为利润率</text>
+          </navLabel>
+          <content src="index_split_152.html"/>
+          <navPoint class="chapter" id="num_237" playOrder="237">
+            <navLabel>
+              <text>第一章 成本价格和利润</text>
+            </navLabel>
+            <content src="index_split_152.html#filepos4316715"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_238" playOrder="238">
+            <navLabel>
+              <text>第二章 利润率</text>
+            </navLabel>
+            <content src="index_split_153.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_239" playOrder="239">
+            <navLabel>
+              <text>第三章 利润率和剩余价值率的关系</text>
+            </navLabel>
+            <content src="index_split_154.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_240" playOrder="240">
+            <navLabel>
+              <text>第四章 周转对利润率的影响</text>
+            </navLabel>
+            <content src="index_split_155.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_241" playOrder="241">
+            <navLabel>
+              <text>第五章 不变资本使用上的节约</text>
+            </navLabel>
+            <content src="index_split_156.html"/>
+            <navPoint class="chapter" id="num_242" playOrder="242">
+              <navLabel>
+                <text>Ⅰ.概 论</text>
+              </navLabel>
+              <content src="index_split_156.html#filepos4446842"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_243" playOrder="243">
+              <navLabel>
+                <text>Ⅱ.靠牺牲工人而实现的劳动条件的节约</text>
+              </navLabel>
+              <content src="index_split_157.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_244" playOrder="244">
+              <navLabel>
+                <text>Ⅲ.动力生产、动力传送和建筑物的节约</text>
+              </navLabel>
+              <content src="index_split_158.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_245" playOrder="245">
+              <navLabel>
+                <text>Ⅳ.生产排泄物的利用</text>
+              </navLabel>
+              <content src="index_split_159.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_246" playOrder="246">
+              <navLabel>
+                <text>Ⅴ.由于发明而产生的节约</text>
+              </navLabel>
+              <content src="index_split_160.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_247" playOrder="247">
+            <navLabel>
+              <text>第六章 价格变动的影响</text>
+            </navLabel>
+            <content src="index_split_161.html"/>
+            <navPoint class="chapter" id="num_248" playOrder="248">
+              <navLabel>
+                <text>Ⅰ.原料价格的波动及其对利润率的直接影响</text>
+              </navLabel>
+              <content src="index_split_161.html#filepos4512670"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_249" playOrder="249">
+              <navLabel>
+                <text>Ⅱ.资本的增值和贬值、游离和束缚</text>
+              </navLabel>
+              <content src="index_split_162.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_250" playOrder="250">
+              <navLabel>
+                <text>Ⅲ.一般的例证：1861—1865年的棉业危机</text>
+              </navLabel>
+              <content src="index_split_163.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_251" playOrder="251">
+            <navLabel>
+              <text>第七章 补充说明</text>
+            </navLabel>
+            <content src="index_split_164.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_252" playOrder="252">
+          <navLabel>
+            <text>第二篇 利润转化为平均利润</text>
+          </navLabel>
+          <content src="index_split_165.html"/>
+          <navPoint class="chapter" id="num_253" playOrder="253">
+            <navLabel>
+              <text>第八章 不同生产部门的资本的不同构成和由此引起的利润率的差别</text>
+            </navLabel>
+            <content src="index_split_165.html#filepos4604077"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_254" playOrder="254">
+            <navLabel>
+              <text>第九章 一般利润率（平均利润率）的形成和商品价值转化为生产价格</text>
+            </navLabel>
+            <content src="index_split_166.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_255" playOrder="255">
+            <navLabel>
+              <text>第十章 一般利润率通过竞争而平均化。市场价格和市场价值。超额利润</text>
+            </navLabel>
+            <content src="index_split_167.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_256" playOrder="256">
+            <navLabel>
+              <text>第十一章 工资的一般变动对生产价格的影响</text>
+            </navLabel>
+            <content src="index_split_168.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_257" playOrder="257">
+            <navLabel>
+              <text>第十二章 补充说明</text>
+            </navLabel>
+            <content src="index_split_169.html"/>
+            <navPoint class="chapter" id="num_258" playOrder="258">
+              <navLabel>
+                <text>Ⅰ.引起生产价格变化的原因</text>
+              </navLabel>
+              <content src="index_split_169.html#filepos4756220"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_259" playOrder="259">
+              <navLabel>
+                <text>Ⅱ.中等构成的商品的生产价格</text>
+              </navLabel>
+              <content src="index_split_170.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_260" playOrder="260">
+              <navLabel>
+                <text>Ⅲ.资本家的补偿理由</text>
+              </navLabel>
+              <content src="index_split_171.html"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_261" playOrder="261">
+          <navLabel>
+            <text>第三篇 利润率趋向下降的规律</text>
+          </navLabel>
+          <content src="index_split_172.html"/>
+          <navPoint class="chapter" id="num_262" playOrder="262">
+            <navLabel>
+              <text>第十三章 规律本身</text>
+            </navLabel>
+            <content src="index_split_172.html#filepos4770092"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_263" playOrder="263">
+            <navLabel>
+              <text>第十四章 起反作用的各种原因</text>
+            </navLabel>
+            <content src="index_split_173.html"/>
+            <navPoint class="chapter" id="num_264" playOrder="264">
+              <navLabel>
+                <text>Ⅰ.劳动剥削程度的提高</text>
+              </navLabel>
+              <content src="index_split_174.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_265" playOrder="265">
+              <navLabel>
+                <text>Ⅱ.工资被压低到劳动力的价值以下</text>
+              </navLabel>
+              <content src="index_split_175.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_266" playOrder="266">
+              <navLabel>
+                <text>Ⅲ.不变资本各要素变得便宜</text>
+              </navLabel>
+              <content src="index_split_176.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_267" playOrder="267">
+              <navLabel>
+                <text>Ⅳ.相对过剩人口</text>
+              </navLabel>
+              <content src="index_split_177.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_268" playOrder="268">
+              <navLabel>
+                <text>Ⅴ.对外贸易</text>
+              </navLabel>
+              <content src="index_split_178.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_269" playOrder="269">
+              <navLabel>
+                <text>Ⅵ.股份资本的增加</text>
+              </navLabel>
+              <content src="index_split_179.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_270" playOrder="270">
+            <navLabel>
+              <text>第十五章 规律的内部矛盾的展开</text>
+            </navLabel>
+            <content src="index_split_180.html"/>
+            <navPoint class="chapter" id="num_271" playOrder="271">
+              <navLabel>
+                <text>Ⅰ.概 论</text>
+              </navLabel>
+              <content src="index_split_180.html#filepos4843031"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_272" playOrder="272">
+              <navLabel>
+                <text>Ⅱ.生产扩大和价值增殖之间的冲突</text>
+              </navLabel>
+              <content src="index_split_181.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_273" playOrder="273">
+              <navLabel>
+                <text>Ⅲ.人口过剩时的资本过剩</text>
+              </navLabel>
+              <content src="index_split_182.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_274" playOrder="274">
+              <navLabel>
+                <text>Ⅳ . 补充说明</text>
+              </navLabel>
+              <content src="index_split_183.html"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_275" playOrder="275">
+          <navLabel>
+            <text>第四篇 商品资本和货币资本转化为商品经营资本和货币经营资本（商人资本）</text>
+          </navLabel>
+          <content src="index_split_184.html"/>
+          <navPoint class="chapter" id="num_276" playOrder="276">
+            <navLabel>
+              <text>第十六章 商品经营资本</text>
+            </navLabel>
+            <content src="index_split_184.html#filepos4905918"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_277" playOrder="277">
+            <navLabel>
+              <text>第十七章 商业利润</text>
+            </navLabel>
+            <content src="index_split_185.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_278" playOrder="278">
+            <navLabel>
+              <text>第十八章 商人资本的周转。价格</text>
+            </navLabel>
+            <content src="index_split_186.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_279" playOrder="279">
+            <navLabel>
+              <text>第十九章 货币经营资本</text>
+            </navLabel>
+            <content src="index_split_187.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_280" playOrder="280">
+            <navLabel>
+              <text>第二十章 关于商人资本的历史考察</text>
+            </navLabel>
+            <content src="index_split_188.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_281" playOrder="281">
+          <navLabel>
+            <text>第五篇 利润分为利息和企业主收入。生息资本</text>
+          </navLabel>
+          <content src="index_split_189.html"/>
+          <navPoint class="chapter" id="num_282" playOrder="282">
+            <navLabel>
+              <text>第二十一章 生息资本</text>
+            </navLabel>
+            <content src="index_split_189.html#filepos5082128"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_283" playOrder="283">
+            <navLabel>
+              <text>第二十二章 利润的分割。利息率。“自然”利息率</text>
+            </navLabel>
+            <content src="index_split_190.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_284" playOrder="284">
+            <navLabel>
+              <text>第二十三章 利息和企业主收入</text>
+            </navLabel>
+            <content src="index_split_191.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_285" playOrder="285">
+            <navLabel>
+              <text>第二十四章 资本关系在生息资本形式上的外表化</text>
+            </navLabel>
+            <content src="index_split_192.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_286" playOrder="286">
+            <navLabel>
+              <text>第二十五章 信用和虚拟资本</text>
+            </navLabel>
+            <content src="index_split_193.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_287" playOrder="287">
+            <navLabel>
+              <text>第二十六章 货币资本的积累，它对利息率的影响</text>
+            </navLabel>
+            <content src="index_split_194.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_288" playOrder="288">
+            <navLabel>
+              <text>第二十七章 信用在资本主义生产中的作用</text>
+            </navLabel>
+            <content src="index_split_195.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_289" playOrder="289">
+            <navLabel>
+              <text>第二十八章 流通手段和资本。图克和富拉顿的见解</text>
+            </navLabel>
+            <content src="index_split_196.html"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+      <navPoint class="chapter" id="num_290" playOrder="290">
+        <navLabel>
+          <text>资本主义生产的总过程（下）</text>
+        </navLabel>
+        <content src="index_split_197.html"/>
+        <navPoint class="chapter" id="num_291" playOrder="291">
+          <navLabel>
+            <text>第五篇 利润分为利息和企业主收入。生息资本（续）</text>
+          </navLabel>
+          <content src="index_split_198.html"/>
+          <navPoint class="chapter" id="num_292" playOrder="292">
+            <navLabel>
+              <text>第二十九章 银行资本的组成部分</text>
+            </navLabel>
+            <content src="index_split_198.html#filepos5417600"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_293" playOrder="293">
+            <navLabel>
+              <text>第三十章 货币资本和现实资本。Ⅰ</text>
+            </navLabel>
+            <content src="index_split_199.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_294" playOrder="294">
+            <navLabel>
+              <text>第三十一章 货币资本和现实资本。Ⅱ（续）</text>
+            </navLabel>
+            <content src="index_split_200.html"/>
+            <navPoint class="chapter" id="num_295" playOrder="295">
+              <navLabel>
+                <text>1.货币转化为借贷资本</text>
+              </navLabel>
+              <content src="index_split_201.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_296" playOrder="296">
+              <navLabel>
+                <text>2.资本或收入转化为货币，这种货币再转化为借贷资本</text>
+              </navLabel>
+              <content src="index_split_202.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_297" playOrder="297">
+            <navLabel>
+              <text>第三十二章 货币资本和现实资本。Ⅲ（续完）</text>
+            </navLabel>
+            <content src="index_split_203.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_298" playOrder="298">
+            <navLabel>
+              <text>第三十三章 信用制度下的流通手段</text>
+            </navLabel>
+            <content src="index_split_204.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_299" playOrder="299">
+            <navLabel>
+              <text>第三十四章 通货原理和1844年英国的银行立法</text>
+            </navLabel>
+            <content src="index_split_205.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_300" playOrder="300">
+            <navLabel>
+              <text>第三十五章 贵金属和汇兑率</text>
+            </navLabel>
+            <content src="index_split_206.html"/>
+            <navPoint class="chapter" id="num_301" playOrder="301">
+              <navLabel>
+                <text>Ⅰ.金贮藏的变动</text>
+              </navLabel>
+              <content src="index_split_206.html#filepos5669647"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_302" playOrder="302">
+              <navLabel>
+                <text>Ⅱ.汇 兑 率</text>
+              </navLabel>
+              <content src="index_split_207.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_303" playOrder="303">
+            <navLabel>
+              <text>第三十六章 资本主义以前的状态</text>
+            </navLabel>
+            <content src="index_split_208.html"/>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_304" playOrder="304">
+          <navLabel>
+            <text>第六篇 超额利润转化为地租</text>
+          </navLabel>
+          <content src="index_split_209.html"/>
+          <navPoint class="chapter" id="num_305" playOrder="305">
+            <navLabel>
+              <text>第三十七 章导论</text>
+            </navLabel>
+            <content src="index_split_209.html#filepos5790262"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_306" playOrder="306">
+            <navLabel>
+              <text>第三十八章 级差地租：概论</text>
+            </navLabel>
+            <content src="index_split_210.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_307" playOrder="307">
+            <navLabel>
+              <text>第三十九章 级差地租的第一形式（级差地租Ⅰ）</text>
+            </navLabel>
+            <content src="index_split_211.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_308" playOrder="308">
+            <navLabel>
+              <text>第四十章 级差地租的第二形式（级差地租Ⅱ）</text>
+            </navLabel>
+            <content src="index_split_212.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_309" playOrder="309">
+            <navLabel>
+              <text>第四十一章 级差地租Ⅱ——第一种情况：生产价格不变</text>
+            </navLabel>
+            <content src="index_split_213.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_310" playOrder="310">
+            <navLabel>
+              <text>第四十二章 级差地租Ⅱ——第二种情况：生产价格下降</text>
+            </navLabel>
+            <content src="index_split_214.html"/>
+            <navPoint class="chapter" id="num_311" playOrder="311">
+              <navLabel>
+                <text>Ⅰ.追加投资的生产率不变</text>
+              </navLabel>
+              <content src="index_split_215.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_312" playOrder="312">
+              <navLabel>
+                <text>Ⅱ.追加资本的生产率降低</text>
+              </navLabel>
+              <content src="index_split_216.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_313" playOrder="313">
+              <navLabel>
+                <text>Ⅲ .追加资本的生产率提高</text>
+              </navLabel>
+              <content src="index_split_217.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_314" playOrder="314">
+            <navLabel>
+              <text>第四十三章 级差地租Ⅱ——第三种情况：生产价格上涨。结论</text>
+            </navLabel>
+            <content src="index_split_218.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_315" playOrder="315">
+            <navLabel>
+              <text>第四十四章 最坏耕地也有级差地租</text>
+            </navLabel>
+            <content src="index_split_219.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_316" playOrder="316">
+            <navLabel>
+              <text>第四十五章 绝对地租</text>
+            </navLabel>
+            <content src="index_split_220.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_317" playOrder="317">
+            <navLabel>
+              <text>第四十六章 建筑地段的地租。矿山地租。土地价格</text>
+            </navLabel>
+            <content src="index_split_221.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_318" playOrder="318">
+            <navLabel>
+              <text>第四十七章 资本主义地租的起源</text>
+            </navLabel>
+            <content src="index_split_222.html"/>
+            <navPoint class="chapter" id="num_319" playOrder="319">
+              <navLabel>
+                <text>Ⅰ.导 论</text>
+              </navLabel>
+              <content src="index_split_222.html#filepos6177459"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_320" playOrder="320">
+              <navLabel>
+                <text>Ⅱ.劳动地租</text>
+              </navLabel>
+              <content src="index_split_223.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_321" playOrder="321">
+              <navLabel>
+                <text>Ⅲ .产品地租</text>
+              </navLabel>
+              <content src="index_split_224.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_322" playOrder="322">
+              <navLabel>
+                <text>Ⅳ.货 币 地 租</text>
+              </navLabel>
+              <content src="index_split_225.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_323" playOrder="323">
+              <navLabel>
+                <text>Ⅴ.分成制和农民的小块土地所有制</text>
+              </navLabel>
+              <content src="index_split_226.html"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+        <navPoint class="chapter" id="num_324" playOrder="324">
+          <navLabel>
+            <text>第七篇 各种收入及其源泉</text>
+          </navLabel>
+          <content src="index_split_227.html"/>
+          <navPoint class="chapter" id="num_325" playOrder="325">
+            <navLabel>
+              <text>第四十八章 三位一体的公式</text>
+            </navLabel>
+            <content src="index_split_227.html#filepos6256318"/>
+            <navPoint class="chapter" id="num_326" playOrder="326">
+              <navLabel>
+                <text>Ⅰ</text>
+              </navLabel>
+              <content src="index_split_227.html#filepos6256430"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_327" playOrder="327">
+              <navLabel>
+                <text>Ⅱ</text>
+              </navLabel>
+              <content src="index_split_228.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_328" playOrder="328">
+              <navLabel>
+                <text>Ⅲ</text>
+              </navLabel>
+              <content src="index_split_229.html"/>
+            </navPoint>
+          </navPoint>
+          <navPoint class="chapter" id="num_329" playOrder="329">
+            <navLabel>
+              <text>第四十九章 关于生产过程的分析</text>
+            </navLabel>
+            <content src="index_split_230.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_330" playOrder="330">
+            <navLabel>
+              <text>第五十章 竞争的假象</text>
+            </navLabel>
+            <content src="index_split_231.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_331" playOrder="331">
+            <navLabel>
+              <text>第五十一章 分配关系和生产关系</text>
+            </navLabel>
+            <content src="index_split_232.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_332" playOrder="332">
+            <navLabel>
+              <text>第五十二章 阶级</text>
+            </navLabel>
+            <content src="index_split_233.html"/>
+          </navPoint>
+          <navPoint class="chapter" id="num_333" playOrder="333">
+            <navLabel>
+              <text>弗·恩格斯《资本论》第三册增补</text>
+            </navLabel>
+            <content src="index_split_234.html"/>
+            <navPoint class="chapter" id="num_334" playOrder="334">
+              <navLabel>
+                <text>Ⅰ.价值规律和利润率</text>
+              </navLabel>
+              <content src="index_split_235.html"/>
+            </navPoint>
+            <navPoint class="chapter" id="num_335" playOrder="335">
+              <navLabel>
+                <text>Ⅱ.交 易 所</text>
+              </navLabel>
+              <content src="index_split_236.html"/>
+            </navPoint>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

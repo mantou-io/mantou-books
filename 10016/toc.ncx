@@ -1,0 +1,1419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="und">
+  <head>
+    <meta content="83cb7bab-9654-4498-afbe-6e5c1108df21" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>人间词话</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>导读 斯人若彩虹，遇上方知有</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>上卷 人间词话 （王国维手定稿）</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_3"/>
+      <navPoint class="chapter" id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>十</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>十一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>十二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>十三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>十四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>十五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>十六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>十七</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>十八</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>十九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>二十</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>二十一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>二十二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>二十三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>二十四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>二十五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>二十六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>二十七</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>二十八</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>二十九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>三十</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>三十一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>三十二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>三十三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>三十四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_37"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>三十五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>三十六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>三十七</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>三十八</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>三十九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>四十</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_43"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>四十一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_44"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>四十二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_45"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>四十三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_46"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>四十四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>四十五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>四十六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_49"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>四十七</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_50"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>四十八</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_51"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>四十九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_52"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>五十</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_53"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>五十一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_54"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>五十二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_55"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>五十三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_56"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>五十四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_57"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>五十五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_58"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>五十六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_59"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>五十七</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_60"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>五十八</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_61"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>五十九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_62"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>六十</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_63"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>六十一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_64"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>六十二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_65"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>六十三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_66"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>六十四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_67"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>下卷 人间词话未刊稿 （五十则）</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_68"/>
+      <navPoint class="chapter" id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_69"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_70"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_71"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_72"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_73"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_74"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_75"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_76"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_77"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>十</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_78"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>十一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_79"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>十二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_80"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>十三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_81"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>十四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_82"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>十五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_83"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>十六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_84"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>十七</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_85"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>十八</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_86"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>十九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_87"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>二十</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_88"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-89" playOrder="89">
+        <navLabel>
+          <text>二十一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_89"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-90" playOrder="90">
+        <navLabel>
+          <text>二十二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_90"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-91" playOrder="91">
+        <navLabel>
+          <text>二十三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_91"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-92" playOrder="92">
+        <navLabel>
+          <text>二十四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_92"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-93" playOrder="93">
+        <navLabel>
+          <text>二十五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_93"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-94" playOrder="94">
+        <navLabel>
+          <text>二十六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_94"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-95" playOrder="95">
+        <navLabel>
+          <text>二十七</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_95"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-96" playOrder="96">
+        <navLabel>
+          <text>二十八</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_96"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-97" playOrder="97">
+        <navLabel>
+          <text>二十九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_97"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-98" playOrder="98">
+        <navLabel>
+          <text>三十</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_98"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>三十一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_99"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-100" playOrder="100">
+        <navLabel>
+          <text>三十二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_100"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-101" playOrder="101">
+        <navLabel>
+          <text>三十三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_101"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-102" playOrder="102">
+        <navLabel>
+          <text>三十四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_102"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-103" playOrder="103">
+        <navLabel>
+          <text>三十五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_103"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-104" playOrder="104">
+        <navLabel>
+          <text>三十六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_104"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-105" playOrder="105">
+        <navLabel>
+          <text>三十七</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_105"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-106" playOrder="106">
+        <navLabel>
+          <text>三十八</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_106"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-107" playOrder="107">
+        <navLabel>
+          <text>三十九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_107"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-108" playOrder="108">
+        <navLabel>
+          <text>四十</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_108"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-109" playOrder="109">
+        <navLabel>
+          <text>四十一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_109"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-110" playOrder="110">
+        <navLabel>
+          <text>四十二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_110"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-111" playOrder="111">
+        <navLabel>
+          <text>四十三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_111"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-112" playOrder="112">
+        <navLabel>
+          <text>四十四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_112"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-113" playOrder="113">
+        <navLabel>
+          <text>四十五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_113"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-114" playOrder="114">
+        <navLabel>
+          <text>四十六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_114"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-115" playOrder="115">
+        <navLabel>
+          <text>四十七</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_115"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-116" playOrder="116">
+        <navLabel>
+          <text>四十八</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_116"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-117" playOrder="117">
+        <navLabel>
+          <text>四十九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_117"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-118" playOrder="118">
+        <navLabel>
+          <text>五十</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_118"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-119" playOrder="119">
+      <navLabel>
+        <text>附录一 人间词话删稿（十二则）</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_119"/>
+      <navPoint class="chapter" id="navPoint-120" playOrder="120">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_120"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-121" playOrder="121">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_121"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-122" playOrder="122">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_122"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-123" playOrder="123">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_123"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-124" playOrder="124">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_124"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-125" playOrder="125">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_125"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-126" playOrder="126">
+        <navLabel>
+          <text>七</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_126"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-127" playOrder="127">
+        <navLabel>
+          <text>八</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_127"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-128" playOrder="128">
+        <navLabel>
+          <text>九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_128"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-129" playOrder="129">
+        <navLabel>
+          <text>十</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_129"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-130" playOrder="130">
+        <navLabel>
+          <text>十一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_130"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-131" playOrder="131">
+        <navLabel>
+          <text>十二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_131"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-132" playOrder="132">
+      <navLabel>
+        <text>附录二 白香词谱（清·舒梦兰编纂）</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_132"/>
+      <navPoint class="chapter" id="navPoint-133" playOrder="133">
+        <navLabel>
+          <text>一 忆江南 怀旧</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_133"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-134" playOrder="134">
+        <navLabel>
+          <text>二 捣练子 秋闺</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_134"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-135" playOrder="135">
+        <navLabel>
+          <text>三 忆王孙 春词</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_135"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-136" playOrder="136">
+        <navLabel>
+          <text>四 调笑令 宫词</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_136"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-137" playOrder="137">
+        <navLabel>
+          <text>五 如梦令 春景</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_137"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-138" playOrder="138">
+        <navLabel>
+          <text>六 长相思 别情</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_138"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-139" playOrder="139">
+        <navLabel>
+          <text>七 相见欢 秋闺</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_139"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-140" playOrder="140">
+        <navLabel>
+          <text>八 醉太平 闺情</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_140"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-141" playOrder="141">
+        <navLabel>
+          <text>九 生查子 元夕</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_141"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-142" playOrder="142">
+        <navLabel>
+          <text>十 昭君怨 春怨</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_142"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-143" playOrder="143">
+        <navLabel>
+          <text>十一 点绛唇 闺情</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_143"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-144" playOrder="144">
+        <navLabel>
+          <text>十二 菩萨蛮 闺情</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_144"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-145" playOrder="145">
+        <navLabel>
+          <text>十三 卜算子 别意</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_145"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-146" playOrder="146">
+        <navLabel>
+          <text>十四 减字木兰花 春情</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_146"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-147" playOrder="147">
+        <navLabel>
+          <text>十五 丑奴儿 春暮</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_147"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-148" playOrder="148">
+        <navLabel>
+          <text>十六 谒金门 春闺</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_148"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-149" playOrder="149">
+        <navLabel>
+          <text>十七 诉衷情 眉意</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_149"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-150" playOrder="150">
+        <navLabel>
+          <text>十八 好事近 初夏</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_150"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-151" playOrder="151">
+        <navLabel>
+          <text>十九 忆秦娥 秋思</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_151"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-152" playOrder="152">
+        <navLabel>
+          <text>二十 更漏子 本意</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_152"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-153" playOrder="153">
+        <navLabel>
+          <text>二十一 荆州亭 题柱</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_153"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>二十二 清平乐 晚春</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_154"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-155" playOrder="155">
+        <navLabel>
+          <text>二十三 误佳期 闺怨</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_155"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-156" playOrder="156">
+        <navLabel>
+          <text>二十四 阮郎归 踏青</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_156"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-157" playOrder="157">
+        <navLabel>
+          <text>二十五 画堂春 本意</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_157"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>二十六 摊破浣溪沙 秋恨</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_158"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-159" playOrder="159">
+        <navLabel>
+          <text>二十七 人月圆 有感</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_159"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-160" playOrder="160">
+        <navLabel>
+          <text>二十八 桃源忆故人 冬景</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_160"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-161" playOrder="161">
+        <navLabel>
+          <text>二十九 眼儿媚 秋闺</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_161"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-162" playOrder="162">
+        <navLabel>
+          <text>三十 贺圣朝 留别</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_162"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-163" playOrder="163">
+        <navLabel>
+          <text>三十一 柳梢青 纪游</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_163"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>三十二 西江月 佳人</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_164"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-165" playOrder="165">
+        <navLabel>
+          <text>三十三 惜分飞 本意</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_165"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-166" playOrder="166">
+        <navLabel>
+          <text>三十四 南歌子 闺情</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_166"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-167" playOrder="167">
+        <navLabel>
+          <text>三十五 醉花阴 重九</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_167"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-168" playOrder="168">
+        <navLabel>
+          <text>三十六 浪淘沙 怀旧</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_168"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-169" playOrder="169">
+        <navLabel>
+          <text>三十七 鹧鸪天 别情</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_169"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-170" playOrder="170">
+        <navLabel>
+          <text>三十八 虞美人 感旧</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_170"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-171" playOrder="171">
+        <navLabel>
+          <text>三十九 南乡子 春闺</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_171"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-172" playOrder="172">
+        <navLabel>
+          <text>四十 鹊桥仙 七夕</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_172"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-173" playOrder="173">
+        <navLabel>
+          <text>四十一 一斛珠 香口</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_173"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-174" playOrder="174">
+        <navLabel>
+          <text>四十二 踏莎行 春暮</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_174"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-175" playOrder="175">
+        <navLabel>
+          <text>四十三 临江仙 妓席</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_175"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-176" playOrder="176">
+        <navLabel>
+          <text>四十四 蝶恋花 春景</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_176"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-177" playOrder="177">
+        <navLabel>
+          <text>四十五 一剪梅 春思</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_177"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-178" playOrder="178">
+        <navLabel>
+          <text>四十六 河传 赠妓</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_178"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-179" playOrder="179">
+        <navLabel>
+          <text>四十七 渔家傲 秋思</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_179"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-180" playOrder="180">
+        <navLabel>
+          <text>四十八 苏幕遮 怀旧</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_180"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-181" playOrder="181">
+        <navLabel>
+          <text>四十九 锦缠道 春游</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_181"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-182" playOrder="182">
+        <navLabel>
+          <text>五十 清玉案 春暮</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_182"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>五十一 感皇恩 入京</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_183"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-184" playOrder="184">
+        <navLabel>
+          <text>五十二 解佩令 自题词集</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_184"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-185" playOrder="185">
+        <navLabel>
+          <text>五十三 天仙子 送春</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_185"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-186" playOrder="186">
+        <navLabel>
+          <text>五十四 千秋岁 夏景</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_186"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-187" playOrder="187">
+        <navLabel>
+          <text>五十五 离亭燕 怀古</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_187"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-188" playOrder="188">
+        <navLabel>
+          <text>五十六 何满子 秋怨</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_188"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-189" playOrder="189">
+        <navLabel>
+          <text>五十七 风入松 春园</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_189"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-190" playOrder="190">
+        <navLabel>
+          <text>五十八 祝英台近 春晚</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_190"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-191" playOrder="191">
+        <navLabel>
+          <text>五十九 御街行 离怀</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_191"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-192" playOrder="192">
+        <navLabel>
+          <text>六十 蓦山溪 别意</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_192"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-193" playOrder="193">
+        <navLabel>
+          <text>六十一 洞仙歌 夏夜</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_193"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-194" playOrder="194">
+        <navLabel>
+          <text>六十二 潇湘夜雨 灯花</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_194"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-195" playOrder="195">
+        <navLabel>
+          <text>六十三 满江红 金陵怀古</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_195"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-196" playOrder="196">
+        <navLabel>
+          <text>六十四 玉漏迟 咏怀</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_196"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-197" playOrder="197">
+        <navLabel>
+          <text>六十五 水调歌头 中秋</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_197"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-198" playOrder="198">
+        <navLabel>
+          <text>六十六 满庭芳 春游</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_198"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-199" playOrder="199">
+        <navLabel>
+          <text>六十七 凤凰台上忆吹箫 别</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_199"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-200" playOrder="200">
+        <navLabel>
+          <text>六十八 烛影摇红 惜春</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_200"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-201" playOrder="201">
+        <navLabel>
+          <text>六十九 暗香 咏红豆</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_201"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-202" playOrder="202">
+        <navLabel>
+          <text>七十 声声慢 秋情</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_202"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-203" playOrder="203">
+        <navLabel>
+          <text>七十一 双双燕 本意</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_203"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-204" playOrder="204">
+        <navLabel>
+          <text>七十二 昼夜乐 忆别</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_204"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-205" playOrder="205">
+        <navLabel>
+          <text>七十三 琐窗寒 寒食</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_205"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-206" playOrder="206">
+        <navLabel>
+          <text>七十四 瑶台聚八仙 寄兴</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_206"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-207" playOrder="207">
+        <navLabel>
+          <text>七十五 陌上花 有怀</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_207"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-208" playOrder="208">
+        <navLabel>
+          <text>七十六 解语花 元宵</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_208"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-209" playOrder="209">
+        <navLabel>
+          <text>七十七 换巢鸾凤 春情</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_209"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-210" playOrder="210">
+        <navLabel>
+          <text>七十八 念奴娇 石头城</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_210"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-211" playOrder="211">
+        <navLabel>
+          <text>七十九 东风第一枝 忆梅</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_211"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-212" playOrder="212">
+        <navLabel>
+          <text>八十 庆春泽 纪恨</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_212"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-213" playOrder="213">
+        <navLabel>
+          <text>八十一 桂枝香 金陵怀古</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_213"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-214" playOrder="214">
+        <navLabel>
+          <text>八十二 翠楼吟 美人魂</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_214"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-215" playOrder="215">
+        <navLabel>
+          <text>八十三 瑞鹤仙 风怀</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_215"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-216" playOrder="216">
+        <navLabel>
+          <text>八十四 水龙吟 白莲</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_216"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-217" playOrder="217">
+        <navLabel>
+          <text>八十五 齐天乐 蟋蟀</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_217"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-218" playOrder="218">
+        <navLabel>
+          <text>八十六 雨霖铃 秋别</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_218"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-219" playOrder="219">
+        <navLabel>
+          <text>八十七 喜迁莺 闰元宵</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_219"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-220" playOrder="220">
+        <navLabel>
+          <text>八十八 绮罗香 红叶</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_220"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-221" playOrder="221">
+        <navLabel>
+          <text>八十九 永遇乐 绿荫</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_221"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-222" playOrder="222">
+        <navLabel>
+          <text>九十 南浦 春暮</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_222"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-223" playOrder="223">
+        <navLabel>
+          <text>九十一 望海潮 凯旋舟次</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_223"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-224" playOrder="224">
+        <navLabel>
+          <text>九十二 夺锦标 七夕</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_224"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-225" playOrder="225">
+        <navLabel>
+          <text>九十三 薄幸 春情</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_225"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-226" playOrder="226">
+        <navLabel>
+          <text>九十四 疏影 梅影</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_226"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-227" playOrder="227">
+        <navLabel>
+          <text>九十五 过秦楼 秋夜</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_227"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-228" playOrder="228">
+        <navLabel>
+          <text>九十六 沁园春 有感。</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_228"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-229" playOrder="229">
+        <navLabel>
+          <text>九十七 摸鱼儿 送春</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_229"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-230" playOrder="230">
+        <navLabel>
+          <text>九十八 贺新郎 春归</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_230"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-231" playOrder="231">
+        <navLabel>
+          <text>九十九 春风袅娜 游丝</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_231"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-232" playOrder="232">
+        <navLabel>
+          <text>一百 多丽 西湖</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_232"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-233" playOrder="233">
+      <navLabel>
+        <text>王国维年谱</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_233"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-234" playOrder="234">
+      <navLabel>
+        <text>编校后记</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_234"/>
+    </navPoint>
+  </navMap>
+</ncx>

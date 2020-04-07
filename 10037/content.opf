@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:date>2017-11-30T16:00:00+00:00</dc:date>
+    <dc:title>梁实秋小全集·雅舍小品</dc:title>
+    <dc:language>und</dc:language>
+    <dc:identifier opf:scheme="ISBN">9787220104176</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">43359b98-5110-4008-ad96-b239a84e15b4</dc:identifier>
+    <dc:publisher>四川人民出版社</dc:publisher>
+    <dc:creator opf:file-as="未知" opf:role="aut">梁实秋, ePUBw.COM</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (3.38.0) [http://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2019-01-29T15:25:21.698000+00:00"/>
+  </metadata>
+  <manifest>
+    <item href="OEBPS/Images/image_299e681e07234b3db2f5a8400c3321fc.jpg" id="image_299e681e07234b3db2f5a8400c3321fc.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_51e31d4679cb4670b56ea744d19a0052.jpg" id="image_51e31d4679cb4670b56ea744d19a0052.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/pic_c440b5b9f0a747878324aa12741579cc.jpg" id="pic_c440b5b9f0a747878324aa12741579cc.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Text/Section0001_split_000.xhtml" id="Section0001.xhtml2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_001.xhtml" id="Section0001.xhtml1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Section0001.xhtml2"/>
+    <itemref idref="Section0001.xhtml1"/>
+  </spine>
+  <guide>
+  </guide>
+</package>

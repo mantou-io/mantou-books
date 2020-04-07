@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta content="57a2ae66-b7b5-4174-a9ea-e2e276737f39" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.40.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>德米安：埃米尔·辛克莱的彷徨少年时</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="index_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>中译本序</text>
+      </navLabel>
+      <content src="index_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>赫尔曼·黑塞</text>
+      </navLabel>
+      <content src="index_split_002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>前言</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>一、 两个世界</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>二、该隐</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>三、强盗</text>
+      </navLabel>
+      <content src="index_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>四、贝雅特丽齐</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>五、鸟从蛋里挣脱出来</text>
+      </navLabel>
+      <content src="index_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>六、雅各的搏斗</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>七、夏娃太太</text>
+      </navLabel>
+      <content src="index_split_010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>八、结尾的开端</text>
+      </navLabel>
+      <content src="index_split_011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>黒塞给一个年轻的《梦系青春》(原名《德米安》）女读者的信</text>
+      </navLabel>
+      <content src="index_split_012.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

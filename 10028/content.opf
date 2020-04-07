@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata">
+    <meta name="calibre:timestamp" content="2018-05-31T01:28:06.016000+00:00"/>
+    <dc:rights>本电子书由epubBuilder制作生成，欢迎访问http://www.cnepub.com分享交流海量电子书。
+epubBuilder仅供交流使用，未经授权，不得用于商业用途。</dc:rights>
+    <dc:identifier opf:scheme="MOBI-ASIN">9913931d-0ba7-43dd-8a5b-2a9bb43b95d4</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">57a2ae66-b7b5-4174-a9ea-e2e276737f39</dc:identifier>
+    <dc:subject>外国文学</dc:subject>
+    <dc:language>zh</dc:language>
+    <dc:publisher>epub掌上书苑</dc:publisher>
+    <dc:date>2012-05-30T16:00:00+00:00</dc:date>
+    <dc:creator opf:file-as="未知" opf:role="aut">赫尔曼?黑塞</dc:creator>
+    <dc:title>德米安：埃米尔·辛克莱的彷徨少年时</dc:title>
+    <dc:description>&lt;p class="description"&gt;《德米安：埃米尔·辛克莱的彷徨少年时》是黑塞的代表作之一，讲述少年辛克莱寻找通向自身之路的艰辛历程。出生并成长于“光明世界”的辛克莱，偶然发现截然不同的“另一个世界”，那里的纷乱和黑暗，使他焦虑困惑，并陷入谎言带来的灾难之中。这时，一个名叫德米安的少年出现，将他带出沼泽地，从此他开始走向孤独寻找自我的前路。之后的若干年，“德米安”以不同的身份面目出现，在他每一次孤独寻找、艰难抉择的时候，成为他的引路人……&lt;/p&gt;</dc:description>
+    <dc:contributor opf:role="bkp">calibre (2.40.0) [http://calibre-ebook.com]</dc:contributor>
+  </metadata>
+  <manifest>
+    <item href="index_split_000.html" id="id114" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id113" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id112" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_split_010.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_split_011.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_split_012.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_split_013.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id114"/>
+    <itemref idref="id113"/>
+    <itemref idref="id112"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id19"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+  </spine>
+  <guide>
+    <reference href="index_split_013.html#filepos327161" title="Table of Contents" type="toc"/>
+  </guide>
+</package>

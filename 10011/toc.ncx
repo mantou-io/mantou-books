@@ -1,0 +1,1893 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="9e445b83-f2fa-4c6d-b56f-9349472b1138" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (0.7.40)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>莎士比亚全集</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Table of Contents</text>
+      </navLabel>
+      <content src="OPS/TableOfContents.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>《莎士比亚全集》 朱生豪译</text>
+      </navLabel>
+      <content src="OPS/000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>莎士比亚全集·作者简介</text>
+      </navLabel>
+      <content src="OPS/010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>莎士比亚全集·前言</text>
+      </navLabel>
+      <content src="OPS/020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>第一卷·暴风雨</text>
+      </navLabel>
+      <content src="OPS/110a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/110b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/111.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/112.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/113.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/114.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/115.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/116.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>第一卷·维洛那二绅士</text>
+      </navLabel>
+      <content src="OPS/120a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/120b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/121.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/122.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/123.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/124.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/125.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/126.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>第一卷·温莎的风流娘儿们</text>
+      </navLabel>
+      <content src="OPS/130a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/130b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/131.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/132.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/133.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/134.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/135.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/136.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>第一卷·一报还一报</text>
+      </navLabel>
+      <content src="OPS/140a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/140b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/141.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/142.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/143.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/144.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/145.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>第一卷·错误的喜剧</text>
+      </navLabel>
+      <content src="OPS/150a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/150b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/151.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/152.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/153.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/154.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/155.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>第一卷·无事生非</text>
+      </navLabel>
+      <content src="OPS/160a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/160b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/161.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/162.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/163.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/164.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/165.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/166.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>第一卷·爱的徒劳</text>
+      </navLabel>
+      <content src="OPS/170a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/170b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/171.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/172.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/173.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/174.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/175.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/176.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-59" playOrder="59">
+      <navLabel>
+        <text>第一卷·仲夏夜之梦</text>
+      </navLabel>
+      <content src="OPS/180a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-60" playOrder="60">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/180b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-61" playOrder="61">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/181.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/182.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-63" playOrder="63">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/183.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/184.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-65" playOrder="65">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/185.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-66" playOrder="66">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/186.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-67" playOrder="67">
+      <navLabel>
+        <text>第二卷·威尼斯商人</text>
+      </navLabel>
+      <content src="OPS/210a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-68" playOrder="68">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/210b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/211.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/212.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-71" playOrder="71">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/213.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/214.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/215.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-74" playOrder="74">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/216.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-75" playOrder="75">
+      <navLabel>
+        <text>第二卷·皆大欢喜</text>
+      </navLabel>
+      <content src="OPS/220a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/220b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-77" playOrder="77">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/221.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/222.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/223.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-80" playOrder="80">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/224.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/225.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-82" playOrder="82">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/226.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-83" playOrder="83">
+      <navLabel>
+        <text>第二卷·驯悍记</text>
+      </navLabel>
+      <content src="OPS/230a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/230b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>序幕</text>
+      </navLabel>
+      <content src="OPS/230c.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/231.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-87" playOrder="87">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/232.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-88" playOrder="88">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/233.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-89" playOrder="89">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/234.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-90" playOrder="90">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/235.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-91" playOrder="91">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/236.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-92" playOrder="92">
+      <navLabel>
+        <text>第二卷·终成眷属</text>
+      </navLabel>
+      <content src="OPS/240a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-93" playOrder="93">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/240b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-94" playOrder="94">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/241.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-95" playOrder="95">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/242.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-96" playOrder="96">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/243.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-97" playOrder="97">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/244.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/245.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-99" playOrder="99">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/246.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-100" playOrder="100">
+      <navLabel>
+        <text>第二卷·第十二夜</text>
+      </navLabel>
+      <content src="OPS/250a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-101" playOrder="101">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/250b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-102" playOrder="102">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/251.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-103" playOrder="103">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/252.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-104" playOrder="104">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/253.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-105" playOrder="105">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/254.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-106" playOrder="106">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/255.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-107" playOrder="107">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/256.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-108" playOrder="108">
+      <navLabel>
+        <text>第二卷·冬天的故事</text>
+      </navLabel>
+      <content src="OPS/260a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-109" playOrder="109">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/260b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-110" playOrder="110">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/261.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-111" playOrder="111">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/262.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-112" playOrder="112">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/263.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-113" playOrder="113">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/264.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-114" playOrder="114">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/265.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-115" playOrder="115">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/266.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-116" playOrder="116">
+      <navLabel>
+        <text>第二卷·约翰王</text>
+      </navLabel>
+      <content src="OPS/270a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-117" playOrder="117">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/270b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-118" playOrder="118">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/271.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-119" playOrder="119">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/272.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-120" playOrder="120">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/273.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-121" playOrder="121">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/274.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-122" playOrder="122">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/275.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-123" playOrder="123">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/276.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-124" playOrder="124">
+      <navLabel>
+        <text>第三卷·理查二世</text>
+      </navLabel>
+      <content src="OPS/310a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-125" playOrder="125">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/310b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-126" playOrder="126">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/311.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-127" playOrder="127">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/312.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-128" playOrder="128">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/313.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-129" playOrder="129">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/314.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-130" playOrder="130">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/315.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-131" playOrder="131">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/316.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-132" playOrder="132">
+      <navLabel>
+        <text>第三卷·亨利四世上篇</text>
+      </navLabel>
+      <content src="OPS/320a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-133" playOrder="133">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/320b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-134" playOrder="134">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/321.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-135" playOrder="135">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/322.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-136" playOrder="136">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/323.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-137" playOrder="137">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/324.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-138" playOrder="138">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/325.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-139" playOrder="139">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/326.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-140" playOrder="140">
+      <navLabel>
+        <text>第三卷·亨利四世下篇</text>
+      </navLabel>
+      <content src="OPS/330a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-141" playOrder="141">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/330b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-142" playOrder="142">
+      <navLabel>
+        <text>楔子</text>
+      </navLabel>
+      <content src="OPS/330c.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-143" playOrder="143">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/331.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-144" playOrder="144">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/332.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-145" playOrder="145">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/333.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-146" playOrder="146">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/334.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-147" playOrder="147">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/335.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-148" playOrder="148">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/336.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-149" playOrder="149">
+      <navLabel>
+        <text>第三卷·亨利五世</text>
+      </navLabel>
+      <content src="OPS/340a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-150" playOrder="150">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/340b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-151" playOrder="151">
+      <navLabel>
+        <text>开场白</text>
+      </navLabel>
+      <content src="OPS/340c.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-152" playOrder="152">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/341.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-153" playOrder="153">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/342.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-154" playOrder="154">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/343.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-155" playOrder="155">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/344.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-156" playOrder="156">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/345.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-157" playOrder="157">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/346.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-158" playOrder="158">
+      <navLabel>
+        <text>第三卷·亨利六世上篇</text>
+      </navLabel>
+      <content src="OPS/350a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-159" playOrder="159">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/350b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-160" playOrder="160">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/351.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-161" playOrder="161">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/352.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-162" playOrder="162">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/353.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-163" playOrder="163">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/354.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-164" playOrder="164">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/355.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-165" playOrder="165">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/356.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-166" playOrder="166">
+      <navLabel>
+        <text>第三卷·亨利六世中篇</text>
+      </navLabel>
+      <content src="OPS/360a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-167" playOrder="167">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/360b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-168" playOrder="168">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/361.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-169" playOrder="169">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/362.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-170" playOrder="170">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/363.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-171" playOrder="171">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/364.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-172" playOrder="172">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/365.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-173" playOrder="173">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/366.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-174" playOrder="174">
+      <navLabel>
+        <text>第三卷·亨利六世下篇</text>
+      </navLabel>
+      <content src="OPS/370a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-175" playOrder="175">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/370b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-176" playOrder="176">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/371.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-177" playOrder="177">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/372.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-178" playOrder="178">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/373.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-179" playOrder="179">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/374.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-180" playOrder="180">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/375.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-181" playOrder="181">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/376.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-182" playOrder="182">
+      <navLabel>
+        <text>第四卷·理查三世</text>
+      </navLabel>
+      <content src="OPS/410a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-183" playOrder="183">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/410b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-184" playOrder="184">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/411.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-185" playOrder="185">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/412.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-186" playOrder="186">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/413.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-187" playOrder="187">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/414.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-188" playOrder="188">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/415.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-189" playOrder="189">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/416.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-190" playOrder="190">
+      <navLabel>
+        <text>第四卷·亨利八世</text>
+      </navLabel>
+      <content src="OPS/420a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-191" playOrder="191">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/420b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-192" playOrder="192">
+      <navLabel>
+        <text>开场白</text>
+      </navLabel>
+      <content src="OPS/420c.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-193" playOrder="193">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/421.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-194" playOrder="194">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/422.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-195" playOrder="195">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/423.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-196" playOrder="196">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/424.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-197" playOrder="197">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/425.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-198" playOrder="198">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/426.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-199" playOrder="199">
+      <navLabel>
+        <text>第四卷·特洛伊罗斯与克瑞西达</text>
+      </navLabel>
+      <content src="OPS/430a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-200" playOrder="200">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/430b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-201" playOrder="201">
+      <navLabel>
+        <text>开场白</text>
+      </navLabel>
+      <content src="OPS/430c.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-202" playOrder="202">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/431.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-203" playOrder="203">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/432.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-204" playOrder="204">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/433.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-205" playOrder="205">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/434.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-206" playOrder="206">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/435.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-207" playOrder="207">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/436.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-208" playOrder="208">
+      <navLabel>
+        <text>第四卷·科利奥兰纳斯</text>
+      </navLabel>
+      <content src="OPS/440a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-209" playOrder="209">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/440b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-210" playOrder="210">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/441.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-211" playOrder="211">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/442.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-212" playOrder="212">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/443.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-213" playOrder="213">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/444.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-214" playOrder="214">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/445.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-215" playOrder="215">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/446.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-216" playOrder="216">
+      <navLabel>
+        <text>第四卷·泰特斯·安德洛尼克斯</text>
+      </navLabel>
+      <content src="OPS/450a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-217" playOrder="217">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/450b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-218" playOrder="218">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/451.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-219" playOrder="219">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/452.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-220" playOrder="220">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/453.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-221" playOrder="221">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/454.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-222" playOrder="222">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/455.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-223" playOrder="223">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/456.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-224" playOrder="224">
+      <navLabel>
+        <text>第四卷·罗密欧与朱丽叶</text>
+      </navLabel>
+      <content src="OPS/460a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-225" playOrder="225">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/460b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-226" playOrder="226">
+      <navLabel>
+        <text>开场诗</text>
+      </navLabel>
+      <content src="OPS/460c.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-227" playOrder="227">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/461.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-228" playOrder="228">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/462.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-229" playOrder="229">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/463.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-230" playOrder="230">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/464.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-231" playOrder="231">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/465.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-232" playOrder="232">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/466.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-233" playOrder="233">
+      <navLabel>
+        <text>第五卷·雅典的泰门</text>
+      </navLabel>
+      <content src="OPS/510a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-234" playOrder="234">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/510b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-235" playOrder="235">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/511.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-236" playOrder="236">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/512.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-237" playOrder="237">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/513.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-238" playOrder="238">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/514.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-239" playOrder="239">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/515.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-240" playOrder="240">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/516.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-241" playOrder="241">
+      <navLabel>
+        <text>第五卷·裘力斯·凯撒</text>
+      </navLabel>
+      <content src="OPS/520a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-242" playOrder="242">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/520b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-243" playOrder="243">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/521.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-244" playOrder="244">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/522.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-245" playOrder="245">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/523.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-246" playOrder="246">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/524.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-247" playOrder="247">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/525.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-248" playOrder="248">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/526.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-249" playOrder="249">
+      <navLabel>
+        <text>第五卷·麦克白</text>
+      </navLabel>
+      <content src="OPS/530a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-250" playOrder="250">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/530b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-251" playOrder="251">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/531.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-252" playOrder="252">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/532.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-253" playOrder="253">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/533.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-254" playOrder="254">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/534.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-255" playOrder="255">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/535.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-256" playOrder="256">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/536.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-257" playOrder="257">
+      <navLabel>
+        <text>第五卷·哈姆雷特</text>
+      </navLabel>
+      <content src="OPS/540a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-258" playOrder="258">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/540b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-259" playOrder="259">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/541.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-260" playOrder="260">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/542.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-261" playOrder="261">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/543.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-262" playOrder="262">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/544.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-263" playOrder="263">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/545.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-264" playOrder="264">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/546.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-265" playOrder="265">
+      <navLabel>
+        <text>第五卷·李尔王</text>
+      </navLabel>
+      <content src="OPS/550a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-266" playOrder="266">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/550b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-267" playOrder="267">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/551.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-268" playOrder="268">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/552.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-269" playOrder="269">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/553.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-270" playOrder="270">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/554.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-271" playOrder="271">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/555.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-272" playOrder="272">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/556.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-273" playOrder="273">
+      <navLabel>
+        <text>第五卷·奥瑟罗</text>
+      </navLabel>
+      <content src="OPS/560a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-274" playOrder="274">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/560b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-275" playOrder="275">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/561.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-276" playOrder="276">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/562.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-277" playOrder="277">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/563.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-278" playOrder="278">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/564.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-279" playOrder="279">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/565.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-280" playOrder="280">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/566.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-281" playOrder="281">
+      <navLabel>
+        <text>第六卷·安东尼与克莉奥佩特拉</text>
+      </navLabel>
+      <content src="OPS/610a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-282" playOrder="282">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/610b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-283" playOrder="283">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/611.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-284" playOrder="284">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/612.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-285" playOrder="285">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/613.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-286" playOrder="286">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/614.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-287" playOrder="287">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/615.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-288" playOrder="288">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/616.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-289" playOrder="289">
+      <navLabel>
+        <text>第六卷·辛白林</text>
+      </navLabel>
+      <content src="OPS/620a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-290" playOrder="290">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/620b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-291" playOrder="291">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/621.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-292" playOrder="292">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/622.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-293" playOrder="293">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/623.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-294" playOrder="294">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/624.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-295" playOrder="295">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/625.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-296" playOrder="296">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/626.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-297" playOrder="297">
+      <navLabel>
+        <text>第六卷·泰尔亲王配力克里斯</text>
+      </navLabel>
+      <content src="OPS/630a.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-298" playOrder="298">
+      <navLabel>
+        <text>剧中人物</text>
+      </navLabel>
+      <content src="OPS/630b.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-299" playOrder="299">
+      <navLabel>
+        <text>第一幕</text>
+      </navLabel>
+      <content src="OPS/631.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-300" playOrder="300">
+      <navLabel>
+        <text>第二幕</text>
+      </navLabel>
+      <content src="OPS/632.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-301" playOrder="301">
+      <navLabel>
+        <text>第三幕</text>
+      </navLabel>
+      <content src="OPS/633.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-302" playOrder="302">
+      <navLabel>
+        <text>第四幕</text>
+      </navLabel>
+      <content src="OPS/634.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-303" playOrder="303">
+      <navLabel>
+        <text>第五幕</text>
+      </navLabel>
+      <content src="OPS/635.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-304" playOrder="304">
+      <navLabel>
+        <text>注释</text>
+      </navLabel>
+      <content src="OPS/636.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-305" playOrder="305">
+      <navLabel>
+        <text>第六卷·莎士比亚诗选</text>
+      </navLabel>
+      <content src="OPS/640.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-306" playOrder="306">
+      <navLabel>
+        <text>十四行诗</text>
+      </navLabel>
+      <content src="OPS/641_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-307" playOrder="307">
+      <navLabel>
+        <text>爱情的礼赞</text>
+      </navLabel>
+      <content src="OPS/642.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-308" playOrder="308">
+      <navLabel>
+        <text>凤凰和斑鸠</text>
+      </navLabel>
+      <content src="OPS/643.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-309" playOrder="309">
+      <navLabel>
+        <text>鲁克丽丝受辱记</text>
+      </navLabel>
+      <content src="OPS/644_split_000.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-310" playOrder="310">
+      <navLabel>
+        <text>情女怨</text>
+      </navLabel>
+      <content src="OPS/645.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-311" playOrder="311">
+      <navLabel>
+        <text>维纳斯与阿都尼</text>
+      </navLabel>
+      <content src="OPS/646.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-312" playOrder="312">
+      <navLabel>
+        <text>乐曲杂咏</text>
+      </navLabel>
+      <content src="OPS/647.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-313" playOrder="313">
+      <navLabel>
+        <text>**附录：剧中歌谣与台词</text>
+      </navLabel>
+      <content src="OPS/648.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

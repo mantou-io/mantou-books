@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="und">
+  <head>
+    <meta content="108614db-8e11-4057-a6ae-656d39a4f874" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>国富论</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>人物序 亚当·斯密：他发现了“看不见的手”</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>译者导读</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>｜第一篇｜论劳动生产力提高的原因，以及论劳动产品在不同阶层的人中间自然分配的顺序</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_4"/>
+      <navPoint class="chapter" id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>第一章 论劳动分工</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>第二章 论引起劳动分工的原因</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>第三章 论劳动分工受限于市场规模</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>第四章 论货币的起源和功用</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>第五章 论商品的真实价格和名义价格，或论其用劳动表示的价格和用货币表示的价格</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>第六章 论商品价格的组成部分</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>第七章 论商品的自然价格和市场价格</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>第八章 论劳动工资</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>第九章 论资本利润</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>第十章 论地租</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>｜第二篇｜论存货的性质、积累和使用</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_001.xhtml"/>
+      <navPoint class="chapter" id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>引言</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>第一章 论存货的分类</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>第二章 论资本积累，或论生产性与非生产性劳动</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>第三章 论资本的各种用途</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>｜第三篇｜论不同国家中不同的财富增长过程</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_20"/>
+      <navPoint class="chapter" id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>第一章 论财富的自然增长过程</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>第二章 城镇商业如何促进乡村的改良</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>｜第四篇｜论政治经济学体系</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_23"/>
+      <navPoint class="chapter" id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>引言</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>第一章 关于重商主义体系的结论</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>第二章 论重农主义体系，或论将土地产物看作一国收入和财富的唯一或主要来源的各种政治经济学体系</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>｜第五篇｜论君主或国家的收入</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_27"/>
+      <navPoint class="chapter" id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>第一章 论君主或国家的支出</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>第二章 论社会一般收入或公共收入的来源</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

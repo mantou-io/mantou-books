@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="und">
+  <head>
+    <meta content="8bacb4d5-5456-4795-9658-3d055fa76505" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>梦的解析</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>译者前言</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>第一版序言</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>第二版序言</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>第三版序言</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>第四版序言</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>第五版序言</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>第六版序言</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>第八版序言</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>英文第三版（修订版）序言</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>第一章　与梦的问题相关的科学文献</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_001.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>第二章　梦的解析方法：对一个梦例的分析</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_11"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>第三章　梦是欲望达成</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_12"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>第四章　梦的伪装</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_002.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>第五章　梦的材料和源头</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_14"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>第六章　梦的工作</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_003.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>第七章　梦的过程的心理学</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_005.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>附录一　论梦（1901年）</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_006.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>附录二　论梦的解析理论和实践（1923年）</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_006.xhtml#sigil_toc_id_18"/>
+    </navPoint>
+  </navMap>
+</ncx>

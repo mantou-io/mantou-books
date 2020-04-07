@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="未知" opf:role="aut">【法】夏尔·波德莱尔, 郑克鲁, ePUBw.COM</dc:creator>
+    <dc:publisher>湖南文艺出版社</dc:publisher>
+    <meta name="calibre:timestamp" content="2020-02-04T12:33:36.560000+00:00"/>
+    <dc:contributor opf:role="bkp">calibre (3.44.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:language>und</dc:language>
+    <dc:identifier opf:scheme="ISBN">9787540485245</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e32e28d4-bb16-47fc-8f42-3338b10a8b46</dc:identifier>
+    <dc:title>恶之花</dc:title>
+    <dc:date>2018-05-31T16:00:00+00:00</dc:date>
+  </metadata>
+  <manifest>
+    <item href="OEBPS/Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Section0001.xhtml"/>
+  </spine>
+  <guide>
+  </guide>
+</package>

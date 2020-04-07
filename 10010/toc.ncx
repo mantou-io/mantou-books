@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="und">
+  <head>
+    <meta content="1fd57623-fb7c-4dcf-80d3-f7a94dbc69d1" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>老残游记（果麦经典）</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>老残游记</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_1"/>
+      <navPoint class="chapter" id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>自序</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>第一回 土不制水历年成患 风能鼓浪到处可危</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>第二回 历山山下古帝遗踪 明湖湖边美人绝调</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>第三回 金线东来寻黑虎 布帆西去访苍鹰</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>第四回 宫保爱才求贤若渴 太尊治盗疾恶如仇</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>第五回 烈妇有心殉节 乡人无意逢殃</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>第六回 万家流血顶染猩红 一席谈心辩生狐白</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>第七回 借箸代筹一县策 纳楹闲访百城书</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>第八回 桃花山月下遇虎 柏树峪雪中访贤</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>第九回 一客吟诗负手面壁 三人品茗促膝谈心</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>第十回 骊龙双珠光照琴瑟 犀牛一角声叶箜篌</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>第十一回 疫鼠传殃成害马 痸犬流灾化毒龙</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>第十二回 寒风冻塞黄河水 暖气催成白雪辞</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>第十三回 娓娓青灯女儿酸语 滔滔黄水观察嘉谟</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>第十四回 大县若蛙半浮水面 小船如蚁分送馒头</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>第十五回 烈焰有声惊二翠 严刑无度逼孤孀</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>第十六回 六千金买得凌迟罪 一封书驱走丧门星</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>第十七回 铁炮一声公堂解索 瑶琴三叠旅舍衔环</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_19"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>第十八回 白太守谈笑释奇冤 铁先生风霜访大案</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>第十九回 齐东村重摇铁串铃 济南府巧设金钱套</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>第二十回 浪子金银伐性斧 道人冰雪返魂香</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>老残游记续集</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_23"/>
+      <navPoint class="chapter" id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>自序</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>第一回 元机旅店传龙语 素壁丹青绘马鸣</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>第二回 宋公子蹂躏优昙花 德夫人怜惜灵芝草</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>第三回 阳偶阴奇参大道 男欢女悦证初禅</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>第四回 九转成丹破壁飞 七年返本归家坐</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>第五回 俏逸云除欲除尽 德慧生救人救澈</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>第六回 斗姥宫中逸云说法 观音庵里环翠离尘</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>第七回 银汉浮槎仰瞻月姊 森罗宝殿伏见阎王</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>第八回 血肉飞腥油锅炼骨 语言积恶石磨研魂</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>第九回 德业积成阴世富 善缘发动化身香</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>老残游记外编卷一（残稿）</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_34"/>
+      <navPoint class="chapter" id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>刘鹗（1857.10—1909.8）</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_35"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

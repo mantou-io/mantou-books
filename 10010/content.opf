@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="未知" opf:role="aut">【清】刘鹗, ePUBw.COM</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (3.38.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>三秦出版社</dc:publisher>
+    <dc:language>und</dc:language>
+    <dc:title>老残游记（果麦经典）</dc:title>
+    <dc:date>2016-09-28T16:00:00+00:00</dc:date>
+    <meta name="calibre:timestamp" content="2019-01-30T16:36:47.974000+00:00"/>
+    <dc:identifier opf:scheme="ISBN">9787551812665</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">1fd57623-fb7c-4dcf-80d3-f7a94dbc69d1</dc:identifier>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="OEBPS/Images/image_464cdd31c3d5495daa5b88bf7d86af2b.jpg" id="image_464cdd31c3d5495daa5b88bf7d86af2b.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_858ac3c6aa1744d998d6bc3c5a1e0ea7.jpg" id="image_858ac3c6aa1744d998d6bc3c5a1e0ea7.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_9ee030ed03db4b84b496f7946805b98d.jpg" id="image_9ee030ed03db4b84b496f7946805b98d.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_9f170bb68a50471bab577df23f140990.jpg" id="image_9f170bb68a50471bab577df23f140990.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_aa607352ef55412da8ef32f2706997c5.jpg" id="image_aa607352ef55412da8ef32f2706997c5.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_da83c526fa734bdfa2bf43628b12f379.jpg" id="image_da83c526fa734bdfa2bf43628b12f379.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Text/Section0001_split_000.xhtml" id="Section0001.xhtml3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_001.xhtml" id="Section0001.xhtml2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_002.xhtml" id="Section0001.xhtml1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Section0001.xhtml3"/>
+    <itemref idref="Section0001.xhtml2"/>
+    <itemref idref="Section0001.xhtml1"/>
+  </spine>
+  <guide>
+  </guide>
+</package>

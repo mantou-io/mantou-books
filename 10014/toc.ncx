@@ -1,0 +1,519 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="und">
+  <head>
+    <meta content="be92b6c6-e2ac-4994-9d4b-ba9b50217792" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>生活的艺术</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>自序</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>第一章  醒觉</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_3"/>
+      <navPoint class="chapter" id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>一　人生之研究</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>二　一个准科学公式</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>三　以放浪者为理想的人</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>第二章  关于人类的观念</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_7"/>
+      <navPoint class="chapter" id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>一　基督徒、希腊人、中国人</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>二　与尘世结不解缘</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>三　一个生物学的观念</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>四　诗样的人生</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>第三章  我们的动物性遗产</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_12"/>
+      <navPoint class="chapter" id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>一　猴子的故事</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>二　猴子般的形象</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>三　论不免一死</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>四　论肚子</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>五　论强壮的肌肉</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_17"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>六　论灵心</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>第四章  论近人情</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_19"/>
+      <navPoint class="chapter" id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>一　论人类的尊严</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>二　近乎戏弄的好奇：人类文明的勃兴</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_21"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>三　论梦想</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>四　论幽默感</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_23"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>五　论任性与不可捉摸</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>六　个人主义</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_25"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>第五章  谁最会享受人生</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_26"/>
+      <navPoint class="chapter" id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>一　发现自己：庄子</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>二　情智勇：孟子</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>三　玩世、愚钝、潜隐：老子</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_29"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>四　“中庸哲学”：子思</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>五　爱好人生者：陶渊明</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_31"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>第六章  生命的享受</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_32"/>
+      <navPoint class="chapter" id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>一　快乐问题</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_33"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>二　人类的快乐属于感觉</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>三　金圣叹之不亦快哉三十三则</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_35"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>四　对唯物主义的误解</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>五　心灵的欢乐怎样</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_37"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>第七章  悠闲的重要</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_38"/>
+      <navPoint class="chapter" id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>一　人类是唯一在工作的动物</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_39"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>二　中国的悠闲理论</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>三　悠闲生活的崇尚</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_41"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>四　尘世是唯一的天堂</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>五　运气是什么</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>六　美国三大恶习</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_44"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>第八章  家庭之乐</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_45"/>
+      <navPoint class="chapter" id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>一　趋近生物观念</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_46"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>二　独身主义——文明的畸形产物</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>三　性的吸引</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>四　中国式家庭理想</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_49"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>五　乐享余年</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_50"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>第九章  生活的享受</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_51"/>
+      <navPoint class="chapter" id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>一　安卧眠床</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_52"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>二　坐在椅中</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_53"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>三　谈话</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_54"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>四　茶和交友</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_55"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>五　淡巴菰和香</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_56"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>六　酒令</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_57"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>七　食品和药物</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_58"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>八　几件奇特的西俗</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_59"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>九　西装的不合人性</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_60"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>十　房屋和内部布置</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_61"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>第十章  享受大自然</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_62"/>
+      <navPoint class="chapter" id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>一　乐园已经丧失了吗</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_63"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>二　论宏大</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>三　两个中国女子</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_65"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>四　论石与树</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_66"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>五　论花和折枝花</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_67"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>六　袁中郎的瓶花</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_68"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>七　张潮的警句</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_69"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-70" playOrder="70">
+      <navLabel>
+        <text>第十一章  旅行的享受</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_70"/>
+      <navPoint class="chapter" id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>一　论游览</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_71"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>二　《冥寥子游》</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_72"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-73" playOrder="73">
+      <navLabel>
+        <text>第十二章  文化的享受</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_73"/>
+      <navPoint class="chapter" id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>一　智识上的鉴别力</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_74"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>二　以艺术为游戏和个性</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_75"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>三　读书的艺术</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_76"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>四　写作的艺术</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_77"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-78" playOrder="78">
+      <navLabel>
+        <text>第十三章  与上帝的关系</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_78"/>
+      <navPoint class="chapter" id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>一　宗教的恢复</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_79"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>二　我为什么是一个异教徒</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_80"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-81" playOrder="81">
+      <navLabel>
+        <text>第十四章  思想的艺术</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_81"/>
+      <navPoint class="chapter" id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>一　合于人情的思想之必要</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_82"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>二　回向常识</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_83"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>三　近情</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_84"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,662 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p class="MsoNormal" align="center" style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: SimSun; margin-top: 0in; margin-bottom: 0.0001pt; text-align: center; "&gt;&lt;b&gt;&lt;span lang="ZH-CN" style="font-size: 24pt; font-family: KaiTi_GB2312; color: red; "&gt;莎士比亚全集&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style="font-size: 24pt; font-family: KaiTi_GB2312; color: red; "&gt;&lt;p&gt;&lt;/p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="MsoNormal" align="center" style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: SimSun; margin-top: 0in; margin-bottom: 0.0001pt; text-align: center; "&gt;&lt;span style="font-size: 14pt; "&gt;&lt;span&gt; &lt;/span&gt;&lt;b&gt;&lt;span lang="ZH-CN"&gt;朱生豪译&lt;/span&gt;&lt;p&gt;&lt;/p&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoNormal" align="center" style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: SimSun; margin-top: 0in; margin-bottom: 0.0001pt; text-align: center; "&gt;&lt;span lang="ZH-CN" style="font-size: 14pt; "&gt;人民文学出版社&lt;/span&gt;&lt;span style="font-size: 14pt; "&gt;6&lt;span lang="ZH-CN"&gt;卷本&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:language>en</dc:language>
+    <dc:creator opf:file-as="莎士比亚" opf:role="aut">莎士比亚</dc:creator>
+    <meta name="calibre:timestamp" content="2011-01-16T05:10:40.725000+00:00"/>
+    <dc:title>莎士比亚全集</dc:title>
+    <meta name="cover" content="cover1"/>
+    <dc:date>2011-01-15T08:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (0.7.40) [http://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">9e445b83-f2fa-4c6d-b56f-9349472b1138</dc:identifier>
+    <dc:subject>外国文学</dc:subject>
+  </metadata>
+  <manifest>
+    <item href="OPS/000.html" id="000" media-type="application/xhtml+xml"/>
+    <item href="OPS/010.html" id="010" media-type="application/xhtml+xml"/>
+    <item href="OPS/020.html" id="020" media-type="application/xhtml+xml"/>
+    <item href="OPS/110a.html" id="110a" media-type="application/xhtml+xml"/>
+    <item href="OPS/110b.html" id="110b" media-type="application/xhtml+xml"/>
+    <item href="OPS/111.html" id="111" media-type="application/xhtml+xml"/>
+    <item href="OPS/112.html" id="112" media-type="application/xhtml+xml"/>
+    <item href="OPS/113.html" id="113" media-type="application/xhtml+xml"/>
+    <item href="OPS/114.html" id="114" media-type="application/xhtml+xml"/>
+    <item href="OPS/115.html" id="115" media-type="application/xhtml+xml"/>
+    <item href="OPS/116.html" id="116" media-type="application/xhtml+xml"/>
+    <item href="OPS/120a.html" id="120a" media-type="application/xhtml+xml"/>
+    <item href="OPS/120b.html" id="120b" media-type="application/xhtml+xml"/>
+    <item href="OPS/121.html" id="121" media-type="application/xhtml+xml"/>
+    <item href="OPS/122.html" id="122" media-type="application/xhtml+xml"/>
+    <item href="OPS/123.html" id="123" media-type="application/xhtml+xml"/>
+    <item href="OPS/124.html" id="124" media-type="application/xhtml+xml"/>
+    <item href="OPS/125.html" id="125" media-type="application/xhtml+xml"/>
+    <item href="OPS/126.html" id="126" media-type="application/xhtml+xml"/>
+    <item href="OPS/130a.html" id="130a" media-type="application/xhtml+xml"/>
+    <item href="OPS/130b.html" id="130b" media-type="application/xhtml+xml"/>
+    <item href="OPS/131.html" id="131" media-type="application/xhtml+xml"/>
+    <item href="OPS/132.html" id="132" media-type="application/xhtml+xml"/>
+    <item href="OPS/133.html" id="133" media-type="application/xhtml+xml"/>
+    <item href="OPS/134.html" id="134" media-type="application/xhtml+xml"/>
+    <item href="OPS/135.html" id="135" media-type="application/xhtml+xml"/>
+    <item href="OPS/136.html" id="136" media-type="application/xhtml+xml"/>
+    <item href="OPS/140a.html" id="140a" media-type="application/xhtml+xml"/>
+    <item href="OPS/140b.html" id="140b" media-type="application/xhtml+xml"/>
+    <item href="OPS/141.html" id="141" media-type="application/xhtml+xml"/>
+    <item href="OPS/142.html" id="142" media-type="application/xhtml+xml"/>
+    <item href="OPS/143.html" id="143" media-type="application/xhtml+xml"/>
+    <item href="OPS/144.html" id="144" media-type="application/xhtml+xml"/>
+    <item href="OPS/145.html" id="145" media-type="application/xhtml+xml"/>
+    <item href="OPS/150a.html" id="150a" media-type="application/xhtml+xml"/>
+    <item href="OPS/150b.html" id="150b" media-type="application/xhtml+xml"/>
+    <item href="OPS/151.html" id="151" media-type="application/xhtml+xml"/>
+    <item href="OPS/152.html" id="152" media-type="application/xhtml+xml"/>
+    <item href="OPS/153.html" id="153" media-type="application/xhtml+xml"/>
+    <item href="OPS/154.html" id="154" media-type="application/xhtml+xml"/>
+    <item href="OPS/155.html" id="155" media-type="application/xhtml+xml"/>
+    <item href="OPS/160a.html" id="160a" media-type="application/xhtml+xml"/>
+    <item href="OPS/160b.html" id="160b" media-type="application/xhtml+xml"/>
+    <item href="OPS/161.html" id="161" media-type="application/xhtml+xml"/>
+    <item href="OPS/162.html" id="162" media-type="application/xhtml+xml"/>
+    <item href="OPS/163.html" id="163" media-type="application/xhtml+xml"/>
+    <item href="OPS/164.html" id="164" media-type="application/xhtml+xml"/>
+    <item href="OPS/165.html" id="165" media-type="application/xhtml+xml"/>
+    <item href="OPS/166.html" id="166" media-type="application/xhtml+xml"/>
+    <item href="OPS/170a.html" id="170a" media-type="application/xhtml+xml"/>
+    <item href="OPS/170b.html" id="170b" media-type="application/xhtml+xml"/>
+    <item href="OPS/171.html" id="171" media-type="application/xhtml+xml"/>
+    <item href="OPS/172.html" id="172" media-type="application/xhtml+xml"/>
+    <item href="OPS/173.html" id="173" media-type="application/xhtml+xml"/>
+    <item href="OPS/174.html" id="174" media-type="application/xhtml+xml"/>
+    <item href="OPS/175.html" id="175" media-type="application/xhtml+xml"/>
+    <item href="OPS/176.html" id="176" media-type="application/xhtml+xml"/>
+    <item href="OPS/180a.html" id="180a" media-type="application/xhtml+xml"/>
+    <item href="OPS/180b.html" id="180b" media-type="application/xhtml+xml"/>
+    <item href="OPS/181.html" id="181" media-type="application/xhtml+xml"/>
+    <item href="OPS/182.html" id="182" media-type="application/xhtml+xml"/>
+    <item href="OPS/183.html" id="183" media-type="application/xhtml+xml"/>
+    <item href="OPS/184.html" id="184" media-type="application/xhtml+xml"/>
+    <item href="OPS/185.html" id="185" media-type="application/xhtml+xml"/>
+    <item href="OPS/186.html" id="186" media-type="application/xhtml+xml"/>
+    <item href="OPS/210a.html" id="210a" media-type="application/xhtml+xml"/>
+    <item href="OPS/210b.html" id="210b" media-type="application/xhtml+xml"/>
+    <item href="OPS/211.html" id="211" media-type="application/xhtml+xml"/>
+    <item href="OPS/212.html" id="212" media-type="application/xhtml+xml"/>
+    <item href="OPS/213.html" id="213" media-type="application/xhtml+xml"/>
+    <item href="OPS/214.html" id="214" media-type="application/xhtml+xml"/>
+    <item href="OPS/215.html" id="215" media-type="application/xhtml+xml"/>
+    <item href="OPS/216.html" id="216" media-type="application/xhtml+xml"/>
+    <item href="OPS/220a.html" id="220a" media-type="application/xhtml+xml"/>
+    <item href="OPS/220b.html" id="220b" media-type="application/xhtml+xml"/>
+    <item href="OPS/221.html" id="221" media-type="application/xhtml+xml"/>
+    <item href="OPS/222.html" id="222" media-type="application/xhtml+xml"/>
+    <item href="OPS/223.html" id="223" media-type="application/xhtml+xml"/>
+    <item href="OPS/224.html" id="224" media-type="application/xhtml+xml"/>
+    <item href="OPS/225.html" id="225" media-type="application/xhtml+xml"/>
+    <item href="OPS/226.html" id="226" media-type="application/xhtml+xml"/>
+    <item href="OPS/230a.html" id="230a" media-type="application/xhtml+xml"/>
+    <item href="OPS/230b.html" id="230b" media-type="application/xhtml+xml"/>
+    <item href="OPS/230c.html" id="230c" media-type="application/xhtml+xml"/>
+    <item href="OPS/231.html" id="231" media-type="application/xhtml+xml"/>
+    <item href="OPS/232.html" id="232" media-type="application/xhtml+xml"/>
+    <item href="OPS/233.html" id="233" media-type="application/xhtml+xml"/>
+    <item href="OPS/234.html" id="234" media-type="application/xhtml+xml"/>
+    <item href="OPS/235.html" id="235" media-type="application/xhtml+xml"/>
+    <item href="OPS/236.html" id="236" media-type="application/xhtml+xml"/>
+    <item href="OPS/240a.html" id="240a" media-type="application/xhtml+xml"/>
+    <item href="OPS/240b.html" id="240b" media-type="application/xhtml+xml"/>
+    <item href="OPS/241.html" id="241" media-type="application/xhtml+xml"/>
+    <item href="OPS/242.html" id="242" media-type="application/xhtml+xml"/>
+    <item href="OPS/243.html" id="243" media-type="application/xhtml+xml"/>
+    <item href="OPS/244.html" id="244" media-type="application/xhtml+xml"/>
+    <item href="OPS/245.html" id="245" media-type="application/xhtml+xml"/>
+    <item href="OPS/246.html" id="246" media-type="application/xhtml+xml"/>
+    <item href="OPS/250a.html" id="250a" media-type="application/xhtml+xml"/>
+    <item href="OPS/250b.html" id="250b" media-type="application/xhtml+xml"/>
+    <item href="OPS/251.html" id="251" media-type="application/xhtml+xml"/>
+    <item href="OPS/252.html" id="252" media-type="application/xhtml+xml"/>
+    <item href="OPS/253.html" id="253" media-type="application/xhtml+xml"/>
+    <item href="OPS/254.html" id="254" media-type="application/xhtml+xml"/>
+    <item href="OPS/255.html" id="255" media-type="application/xhtml+xml"/>
+    <item href="OPS/256.html" id="256" media-type="application/xhtml+xml"/>
+    <item href="OPS/260a.html" id="260a" media-type="application/xhtml+xml"/>
+    <item href="OPS/260b.html" id="260b" media-type="application/xhtml+xml"/>
+    <item href="OPS/261.html" id="261" media-type="application/xhtml+xml"/>
+    <item href="OPS/262.html" id="262" media-type="application/xhtml+xml"/>
+    <item href="OPS/263.html" id="263" media-type="application/xhtml+xml"/>
+    <item href="OPS/264.html" id="264" media-type="application/xhtml+xml"/>
+    <item href="OPS/265.html" id="265" media-type="application/xhtml+xml"/>
+    <item href="OPS/266.html" id="266" media-type="application/xhtml+xml"/>
+    <item href="OPS/270a.html" id="270a" media-type="application/xhtml+xml"/>
+    <item href="OPS/270b.html" id="270b" media-type="application/xhtml+xml"/>
+    <item href="OPS/271.html" id="271" media-type="application/xhtml+xml"/>
+    <item href="OPS/272.html" id="272" media-type="application/xhtml+xml"/>
+    <item href="OPS/273.html" id="273" media-type="application/xhtml+xml"/>
+    <item href="OPS/274.html" id="274" media-type="application/xhtml+xml"/>
+    <item href="OPS/275.html" id="275" media-type="application/xhtml+xml"/>
+    <item href="OPS/276.html" id="276" media-type="application/xhtml+xml"/>
+    <item href="OPS/310a.html" id="310a" media-type="application/xhtml+xml"/>
+    <item href="OPS/310b.html" id="310b" media-type="application/xhtml+xml"/>
+    <item href="OPS/311.html" id="311" media-type="application/xhtml+xml"/>
+    <item href="OPS/312.html" id="312" media-type="application/xhtml+xml"/>
+    <item href="OPS/313.html" id="313" media-type="application/xhtml+xml"/>
+    <item href="OPS/314.html" id="314" media-type="application/xhtml+xml"/>
+    <item href="OPS/315.html" id="315" media-type="application/xhtml+xml"/>
+    <item href="OPS/316.html" id="316" media-type="application/xhtml+xml"/>
+    <item href="OPS/320a.html" id="320a" media-type="application/xhtml+xml"/>
+    <item href="OPS/320b.html" id="320b" media-type="application/xhtml+xml"/>
+    <item href="OPS/321.html" id="321" media-type="application/xhtml+xml"/>
+    <item href="OPS/322.html" id="322" media-type="application/xhtml+xml"/>
+    <item href="OPS/323.html" id="323" media-type="application/xhtml+xml"/>
+    <item href="OPS/324.html" id="324" media-type="application/xhtml+xml"/>
+    <item href="OPS/325.html" id="325" media-type="application/xhtml+xml"/>
+    <item href="OPS/326.html" id="326" media-type="application/xhtml+xml"/>
+    <item href="OPS/330a.html" id="330a" media-type="application/xhtml+xml"/>
+    <item href="OPS/330b.html" id="330b" media-type="application/xhtml+xml"/>
+    <item href="OPS/330c.html" id="330c" media-type="application/xhtml+xml"/>
+    <item href="OPS/331.html" id="331" media-type="application/xhtml+xml"/>
+    <item href="OPS/332.html" id="332" media-type="application/xhtml+xml"/>
+    <item href="OPS/333.html" id="333" media-type="application/xhtml+xml"/>
+    <item href="OPS/334.html" id="334" media-type="application/xhtml+xml"/>
+    <item href="OPS/335.html" id="335" media-type="application/xhtml+xml"/>
+    <item href="OPS/336.html" id="336" media-type="application/xhtml+xml"/>
+    <item href="OPS/340a.html" id="340a" media-type="application/xhtml+xml"/>
+    <item href="OPS/340b.html" id="340b" media-type="application/xhtml+xml"/>
+    <item href="OPS/340c.html" id="340c" media-type="application/xhtml+xml"/>
+    <item href="OPS/341.html" id="341" media-type="application/xhtml+xml"/>
+    <item href="OPS/342.html" id="342" media-type="application/xhtml+xml"/>
+    <item href="OPS/343.html" id="343" media-type="application/xhtml+xml"/>
+    <item href="OPS/344.html" id="344" media-type="application/xhtml+xml"/>
+    <item href="OPS/345.html" id="345" media-type="application/xhtml+xml"/>
+    <item href="OPS/346.html" id="346" media-type="application/xhtml+xml"/>
+    <item href="OPS/350a.html" id="350a" media-type="application/xhtml+xml"/>
+    <item href="OPS/350b.html" id="350b" media-type="application/xhtml+xml"/>
+    <item href="OPS/351.html" id="351" media-type="application/xhtml+xml"/>
+    <item href="OPS/352.html" id="352" media-type="application/xhtml+xml"/>
+    <item href="OPS/353.html" id="353" media-type="application/xhtml+xml"/>
+    <item href="OPS/354.html" id="354" media-type="application/xhtml+xml"/>
+    <item href="OPS/355.html" id="355" media-type="application/xhtml+xml"/>
+    <item href="OPS/356.html" id="356" media-type="application/xhtml+xml"/>
+    <item href="OPS/360a.html" id="360a" media-type="application/xhtml+xml"/>
+    <item href="OPS/360b.html" id="360b" media-type="application/xhtml+xml"/>
+    <item href="OPS/361.html" id="361" media-type="application/xhtml+xml"/>
+    <item href="OPS/362.html" id="362" media-type="application/xhtml+xml"/>
+    <item href="OPS/363.html" id="363" media-type="application/xhtml+xml"/>
+    <item href="OPS/364.html" id="364" media-type="application/xhtml+xml"/>
+    <item href="OPS/365.html" id="365" media-type="application/xhtml+xml"/>
+    <item href="OPS/366.html" id="366" media-type="application/xhtml+xml"/>
+    <item href="OPS/370a.html" id="370a" media-type="application/xhtml+xml"/>
+    <item href="OPS/370b.html" id="370b" media-type="application/xhtml+xml"/>
+    <item href="OPS/371.html" id="371" media-type="application/xhtml+xml"/>
+    <item href="OPS/372.html" id="372" media-type="application/xhtml+xml"/>
+    <item href="OPS/373.html" id="373" media-type="application/xhtml+xml"/>
+    <item href="OPS/374.html" id="374" media-type="application/xhtml+xml"/>
+    <item href="OPS/375.html" id="375" media-type="application/xhtml+xml"/>
+    <item href="OPS/376.html" id="376" media-type="application/xhtml+xml"/>
+    <item href="OPS/410a.html" id="410a" media-type="application/xhtml+xml"/>
+    <item href="OPS/410b.html" id="410b" media-type="application/xhtml+xml"/>
+    <item href="OPS/411.html" id="411" media-type="application/xhtml+xml"/>
+    <item href="OPS/412.html" id="412" media-type="application/xhtml+xml"/>
+    <item href="OPS/413.html" id="413" media-type="application/xhtml+xml"/>
+    <item href="OPS/414.html" id="414" media-type="application/xhtml+xml"/>
+    <item href="OPS/415.html" id="415" media-type="application/xhtml+xml"/>
+    <item href="OPS/416.html" id="416" media-type="application/xhtml+xml"/>
+    <item href="OPS/420a.html" id="420a" media-type="application/xhtml+xml"/>
+    <item href="OPS/420b.html" id="420b" media-type="application/xhtml+xml"/>
+    <item href="OPS/420c.html" id="420c" media-type="application/xhtml+xml"/>
+    <item href="OPS/421.html" id="421" media-type="application/xhtml+xml"/>
+    <item href="OPS/422.html" id="422" media-type="application/xhtml+xml"/>
+    <item href="OPS/423.html" id="423" media-type="application/xhtml+xml"/>
+    <item href="OPS/424.html" id="424" media-type="application/xhtml+xml"/>
+    <item href="OPS/425.html" id="425" media-type="application/xhtml+xml"/>
+    <item href="OPS/426.html" id="426" media-type="application/xhtml+xml"/>
+    <item href="OPS/430a.html" id="430a" media-type="application/xhtml+xml"/>
+    <item href="OPS/430b.html" id="430b" media-type="application/xhtml+xml"/>
+    <item href="OPS/430c.html" id="430c" media-type="application/xhtml+xml"/>
+    <item href="OPS/431.html" id="431" media-type="application/xhtml+xml"/>
+    <item href="OPS/432.html" id="432" media-type="application/xhtml+xml"/>
+    <item href="OPS/433.html" id="433" media-type="application/xhtml+xml"/>
+    <item href="OPS/434.html" id="434" media-type="application/xhtml+xml"/>
+    <item href="OPS/435.html" id="435" media-type="application/xhtml+xml"/>
+    <item href="OPS/436.html" id="436" media-type="application/xhtml+xml"/>
+    <item href="OPS/440a.html" id="440a" media-type="application/xhtml+xml"/>
+    <item href="OPS/440b.html" id="440b" media-type="application/xhtml+xml"/>
+    <item href="OPS/441.html" id="441" media-type="application/xhtml+xml"/>
+    <item href="OPS/442.html" id="442" media-type="application/xhtml+xml"/>
+    <item href="OPS/443.html" id="443" media-type="application/xhtml+xml"/>
+    <item href="OPS/444.html" id="444" media-type="application/xhtml+xml"/>
+    <item href="OPS/445.html" id="445" media-type="application/xhtml+xml"/>
+    <item href="OPS/446.html" id="446" media-type="application/xhtml+xml"/>
+    <item href="OPS/450a.html" id="450a" media-type="application/xhtml+xml"/>
+    <item href="OPS/450b.html" id="450b" media-type="application/xhtml+xml"/>
+    <item href="OPS/451.html" id="451" media-type="application/xhtml+xml"/>
+    <item href="OPS/452.html" id="452" media-type="application/xhtml+xml"/>
+    <item href="OPS/453.html" id="453" media-type="application/xhtml+xml"/>
+    <item href="OPS/454.html" id="454" media-type="application/xhtml+xml"/>
+    <item href="OPS/455.html" id="455" media-type="application/xhtml+xml"/>
+    <item href="OPS/456.html" id="456" media-type="application/xhtml+xml"/>
+    <item href="OPS/460a.html" id="460a" media-type="application/xhtml+xml"/>
+    <item href="OPS/460b.html" id="460b" media-type="application/xhtml+xml"/>
+    <item href="OPS/460c.html" id="460c" media-type="application/xhtml+xml"/>
+    <item href="OPS/461.html" id="461" media-type="application/xhtml+xml"/>
+    <item href="OPS/462.html" id="462" media-type="application/xhtml+xml"/>
+    <item href="OPS/463.html" id="463" media-type="application/xhtml+xml"/>
+    <item href="OPS/464.html" id="464" media-type="application/xhtml+xml"/>
+    <item href="OPS/465.html" id="465" media-type="application/xhtml+xml"/>
+    <item href="OPS/466.html" id="466" media-type="application/xhtml+xml"/>
+    <item href="OPS/510a.html" id="510a" media-type="application/xhtml+xml"/>
+    <item href="OPS/510b.html" id="510b" media-type="application/xhtml+xml"/>
+    <item href="OPS/511.html" id="511" media-type="application/xhtml+xml"/>
+    <item href="OPS/512.html" id="512" media-type="application/xhtml+xml"/>
+    <item href="OPS/513.html" id="513" media-type="application/xhtml+xml"/>
+    <item href="OPS/514.html" id="514" media-type="application/xhtml+xml"/>
+    <item href="OPS/515.html" id="515" media-type="application/xhtml+xml"/>
+    <item href="OPS/516.html" id="516" media-type="application/xhtml+xml"/>
+    <item href="OPS/520a.html" id="520a" media-type="application/xhtml+xml"/>
+    <item href="OPS/520b.html" id="520b" media-type="application/xhtml+xml"/>
+    <item href="OPS/521.html" id="521" media-type="application/xhtml+xml"/>
+    <item href="OPS/522.html" id="522" media-type="application/xhtml+xml"/>
+    <item href="OPS/523.html" id="523" media-type="application/xhtml+xml"/>
+    <item href="OPS/524.html" id="524" media-type="application/xhtml+xml"/>
+    <item href="OPS/525.html" id="525" media-type="application/xhtml+xml"/>
+    <item href="OPS/526.html" id="526" media-type="application/xhtml+xml"/>
+    <item href="OPS/530a.html" id="530a" media-type="application/xhtml+xml"/>
+    <item href="OPS/530b.html" id="530b" media-type="application/xhtml+xml"/>
+    <item href="OPS/531.html" id="531" media-type="application/xhtml+xml"/>
+    <item href="OPS/532.html" id="532" media-type="application/xhtml+xml"/>
+    <item href="OPS/533.html" id="533" media-type="application/xhtml+xml"/>
+    <item href="OPS/534.html" id="534" media-type="application/xhtml+xml"/>
+    <item href="OPS/535.html" id="535" media-type="application/xhtml+xml"/>
+    <item href="OPS/536.html" id="536" media-type="application/xhtml+xml"/>
+    <item href="OPS/540a.html" id="540a" media-type="application/xhtml+xml"/>
+    <item href="OPS/540b.html" id="540b" media-type="application/xhtml+xml"/>
+    <item href="OPS/541.html" id="541" media-type="application/xhtml+xml"/>
+    <item href="OPS/542.html" id="542" media-type="application/xhtml+xml"/>
+    <item href="OPS/543.html" id="543" media-type="application/xhtml+xml"/>
+    <item href="OPS/544.html" id="544" media-type="application/xhtml+xml"/>
+    <item href="OPS/545.html" id="545" media-type="application/xhtml+xml"/>
+    <item href="OPS/546.html" id="546" media-type="application/xhtml+xml"/>
+    <item href="OPS/550a.html" id="550a" media-type="application/xhtml+xml"/>
+    <item href="OPS/550b.html" id="550b" media-type="application/xhtml+xml"/>
+    <item href="OPS/551.html" id="551" media-type="application/xhtml+xml"/>
+    <item href="OPS/552.html" id="552" media-type="application/xhtml+xml"/>
+    <item href="OPS/553.html" id="553" media-type="application/xhtml+xml"/>
+    <item href="OPS/554.html" id="554" media-type="application/xhtml+xml"/>
+    <item href="OPS/555.html" id="555" media-type="application/xhtml+xml"/>
+    <item href="OPS/556.html" id="556" media-type="application/xhtml+xml"/>
+    <item href="OPS/560a.html" id="560a" media-type="application/xhtml+xml"/>
+    <item href="OPS/560b.html" id="560b" media-type="application/xhtml+xml"/>
+    <item href="OPS/561.html" id="561" media-type="application/xhtml+xml"/>
+    <item href="OPS/562.html" id="562" media-type="application/xhtml+xml"/>
+    <item href="OPS/563.html" id="563" media-type="application/xhtml+xml"/>
+    <item href="OPS/564.html" id="564" media-type="application/xhtml+xml"/>
+    <item href="OPS/565.html" id="565" media-type="application/xhtml+xml"/>
+    <item href="OPS/566.html" id="566" media-type="application/xhtml+xml"/>
+    <item href="OPS/610a.html" id="610a" media-type="application/xhtml+xml"/>
+    <item href="OPS/610b.html" id="610b" media-type="application/xhtml+xml"/>
+    <item href="OPS/611.html" id="611" media-type="application/xhtml+xml"/>
+    <item href="OPS/612.html" id="612" media-type="application/xhtml+xml"/>
+    <item href="OPS/613.html" id="613" media-type="application/xhtml+xml"/>
+    <item href="OPS/614.html" id="614" media-type="application/xhtml+xml"/>
+    <item href="OPS/615.html" id="615" media-type="application/xhtml+xml"/>
+    <item href="OPS/616.html" id="616" media-type="application/xhtml+xml"/>
+    <item href="OPS/620a.html" id="620a" media-type="application/xhtml+xml"/>
+    <item href="OPS/620b.html" id="620b" media-type="application/xhtml+xml"/>
+    <item href="OPS/621.html" id="621" media-type="application/xhtml+xml"/>
+    <item href="OPS/622.html" id="622" media-type="application/xhtml+xml"/>
+    <item href="OPS/623.html" id="623" media-type="application/xhtml+xml"/>
+    <item href="OPS/624.html" id="624" media-type="application/xhtml+xml"/>
+    <item href="OPS/625.html" id="625" media-type="application/xhtml+xml"/>
+    <item href="OPS/626.html" id="626" media-type="application/xhtml+xml"/>
+    <item href="OPS/630a.html" id="630a" media-type="application/xhtml+xml"/>
+    <item href="OPS/630b.html" id="630b" media-type="application/xhtml+xml"/>
+    <item href="OPS/631.html" id="631" media-type="application/xhtml+xml"/>
+    <item href="OPS/632.html" id="632" media-type="application/xhtml+xml"/>
+    <item href="OPS/633.html" id="633" media-type="application/xhtml+xml"/>
+    <item href="OPS/634.html" id="634" media-type="application/xhtml+xml"/>
+    <item href="OPS/635.html" id="635" media-type="application/xhtml+xml"/>
+    <item href="OPS/636.html" id="636" media-type="application/xhtml+xml"/>
+    <item href="OPS/640.html" id="640" media-type="application/xhtml+xml"/>
+    <item href="OPS/641_split_000.html" id="6416" media-type="application/xhtml+xml"/>
+    <item href="OPS/641_split_001.html" id="6415" media-type="application/xhtml+xml"/>
+    <item href="OPS/641_split_002.html" id="6414" media-type="application/xhtml+xml"/>
+    <item href="OPS/641_split_003.html" id="6413" media-type="application/xhtml+xml"/>
+    <item href="OPS/641_split_004.html" id="6412" media-type="application/xhtml+xml"/>
+    <item href="OPS/641_split_005.html" id="6411" media-type="application/xhtml+xml"/>
+    <item href="OPS/642.html" id="642" media-type="application/xhtml+xml"/>
+    <item href="OPS/643.html" id="643" media-type="application/xhtml+xml"/>
+    <item href="OPS/644_split_000.html" id="6442" media-type="application/xhtml+xml"/>
+    <item href="OPS/644_split_001.html" id="6441" media-type="application/xhtml+xml"/>
+    <item href="OPS/645.html" id="645" media-type="application/xhtml+xml"/>
+    <item href="OPS/646.html" id="646" media-type="application/xhtml+xml"/>
+    <item href="OPS/647.html" id="647" media-type="application/xhtml+xml"/>
+    <item href="OPS/648.html" id="648" media-type="application/xhtml+xml"/>
+    <item href="OPS/TableOfContents.html" id="TableOfContents" media-type="application/xhtml+xml"/>
+    <item href="OPS/image002.jpg" id="added" media-type="image/jpeg"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+  <spine toc="ncx">
+    <itemref idref="TableOfContents"/>
+    <itemref idref="000"/>
+    <itemref idref="010"/>
+    <itemref idref="020"/>
+    <itemref idref="110a"/>
+    <itemref idref="110b"/>
+    <itemref idref="111"/>
+    <itemref idref="112"/>
+    <itemref idref="113"/>
+    <itemref idref="114"/>
+    <itemref idref="115"/>
+    <itemref idref="116"/>
+    <itemref idref="120a"/>
+    <itemref idref="120b"/>
+    <itemref idref="121"/>
+    <itemref idref="122"/>
+    <itemref idref="123"/>
+    <itemref idref="124"/>
+    <itemref idref="125"/>
+    <itemref idref="126"/>
+    <itemref idref="130a"/>
+    <itemref idref="130b"/>
+    <itemref idref="131"/>
+    <itemref idref="132"/>
+    <itemref idref="133"/>
+    <itemref idref="134"/>
+    <itemref idref="135"/>
+    <itemref idref="136"/>
+    <itemref idref="140a"/>
+    <itemref idref="140b"/>
+    <itemref idref="141"/>
+    <itemref idref="142"/>
+    <itemref idref="143"/>
+    <itemref idref="144"/>
+    <itemref idref="145"/>
+    <itemref idref="150a"/>
+    <itemref idref="150b"/>
+    <itemref idref="151"/>
+    <itemref idref="152"/>
+    <itemref idref="153"/>
+    <itemref idref="154"/>
+    <itemref idref="155"/>
+    <itemref idref="160a"/>
+    <itemref idref="160b"/>
+    <itemref idref="161"/>
+    <itemref idref="162"/>
+    <itemref idref="163"/>
+    <itemref idref="164"/>
+    <itemref idref="165"/>
+    <itemref idref="166"/>
+    <itemref idref="170a"/>
+    <itemref idref="170b"/>
+    <itemref idref="171"/>
+    <itemref idref="172"/>
+    <itemref idref="173"/>
+    <itemref idref="174"/>
+    <itemref idref="175"/>
+    <itemref idref="176"/>
+    <itemref idref="180a"/>
+    <itemref idref="180b"/>
+    <itemref idref="181"/>
+    <itemref idref="182"/>
+    <itemref idref="183"/>
+    <itemref idref="184"/>
+    <itemref idref="185"/>
+    <itemref idref="186"/>
+    <itemref idref="210a"/>
+    <itemref idref="210b"/>
+    <itemref idref="211"/>
+    <itemref idref="212"/>
+    <itemref idref="213"/>
+    <itemref idref="214"/>
+    <itemref idref="215"/>
+    <itemref idref="216"/>
+    <itemref idref="220a"/>
+    <itemref idref="220b"/>
+    <itemref idref="221"/>
+    <itemref idref="222"/>
+    <itemref idref="223"/>
+    <itemref idref="224"/>
+    <itemref idref="225"/>
+    <itemref idref="226"/>
+    <itemref idref="230a"/>
+    <itemref idref="230b"/>
+    <itemref idref="230c"/>
+    <itemref idref="231"/>
+    <itemref idref="232"/>
+    <itemref idref="233"/>
+    <itemref idref="234"/>
+    <itemref idref="235"/>
+    <itemref idref="236"/>
+    <itemref idref="240a"/>
+    <itemref idref="240b"/>
+    <itemref idref="241"/>
+    <itemref idref="242"/>
+    <itemref idref="243"/>
+    <itemref idref="244"/>
+    <itemref idref="245"/>
+    <itemref idref="246"/>
+    <itemref idref="250a"/>
+    <itemref idref="250b"/>
+    <itemref idref="251"/>
+    <itemref idref="252"/>
+    <itemref idref="253"/>
+    <itemref idref="254"/>
+    <itemref idref="255"/>
+    <itemref idref="256"/>
+    <itemref idref="260a"/>
+    <itemref idref="260b"/>
+    <itemref idref="261"/>
+    <itemref idref="262"/>
+    <itemref idref="263"/>
+    <itemref idref="264"/>
+    <itemref idref="265"/>
+    <itemref idref="266"/>
+    <itemref idref="270a"/>
+    <itemref idref="270b"/>
+    <itemref idref="271"/>
+    <itemref idref="272"/>
+    <itemref idref="273"/>
+    <itemref idref="274"/>
+    <itemref idref="275"/>
+    <itemref idref="276"/>
+    <itemref idref="310a"/>
+    <itemref idref="310b"/>
+    <itemref idref="311"/>
+    <itemref idref="312"/>
+    <itemref idref="313"/>
+    <itemref idref="314"/>
+    <itemref idref="315"/>
+    <itemref idref="316"/>
+    <itemref idref="320a"/>
+    <itemref idref="320b"/>
+    <itemref idref="321"/>
+    <itemref idref="322"/>
+    <itemref idref="323"/>
+    <itemref idref="324"/>
+    <itemref idref="325"/>
+    <itemref idref="326"/>
+    <itemref idref="330a"/>
+    <itemref idref="330b"/>
+    <itemref idref="330c"/>
+    <itemref idref="331"/>
+    <itemref idref="332"/>
+    <itemref idref="333"/>
+    <itemref idref="334"/>
+    <itemref idref="335"/>
+    <itemref idref="336"/>
+    <itemref idref="340a"/>
+    <itemref idref="340b"/>
+    <itemref idref="340c"/>
+    <itemref idref="341"/>
+    <itemref idref="342"/>
+    <itemref idref="343"/>
+    <itemref idref="344"/>
+    <itemref idref="345"/>
+    <itemref idref="346"/>
+    <itemref idref="350a"/>
+    <itemref idref="350b"/>
+    <itemref idref="351"/>
+    <itemref idref="352"/>
+    <itemref idref="353"/>
+    <itemref idref="354"/>
+    <itemref idref="355"/>
+    <itemref idref="356"/>
+    <itemref idref="360a"/>
+    <itemref idref="360b"/>
+    <itemref idref="361"/>
+    <itemref idref="362"/>
+    <itemref idref="363"/>
+    <itemref idref="364"/>
+    <itemref idref="365"/>
+    <itemref idref="366"/>
+    <itemref idref="370a"/>
+    <itemref idref="370b"/>
+    <itemref idref="371"/>
+    <itemref idref="372"/>
+    <itemref idref="373"/>
+    <itemref idref="374"/>
+    <itemref idref="375"/>
+    <itemref idref="376"/>
+    <itemref idref="410a"/>
+    <itemref idref="410b"/>
+    <itemref idref="411"/>
+    <itemref idref="412"/>
+    <itemref idref="413"/>
+    <itemref idref="414"/>
+    <itemref idref="415"/>
+    <itemref idref="416"/>
+    <itemref idref="420a"/>
+    <itemref idref="420b"/>
+    <itemref idref="420c"/>
+    <itemref idref="421"/>
+    <itemref idref="422"/>
+    <itemref idref="423"/>
+    <itemref idref="424"/>
+    <itemref idref="425"/>
+    <itemref idref="426"/>
+    <itemref idref="430a"/>
+    <itemref idref="430b"/>
+    <itemref idref="430c"/>
+    <itemref idref="431"/>
+    <itemref idref="432"/>
+    <itemref idref="433"/>
+    <itemref idref="434"/>
+    <itemref idref="435"/>
+    <itemref idref="436"/>
+    <itemref idref="440a"/>
+    <itemref idref="440b"/>
+    <itemref idref="441"/>
+    <itemref idref="442"/>
+    <itemref idref="443"/>
+    <itemref idref="444"/>
+    <itemref idref="445"/>
+    <itemref idref="446"/>
+    <itemref idref="450a"/>
+    <itemref idref="450b"/>
+    <itemref idref="451"/>
+    <itemref idref="452"/>
+    <itemref idref="453"/>
+    <itemref idref="454"/>
+    <itemref idref="455"/>
+    <itemref idref="456"/>
+    <itemref idref="460a"/>
+    <itemref idref="460b"/>
+    <itemref idref="460c"/>
+    <itemref idref="461"/>
+    <itemref idref="462"/>
+    <itemref idref="463"/>
+    <itemref idref="464"/>
+    <itemref idref="465"/>
+    <itemref idref="466"/>
+    <itemref idref="510a"/>
+    <itemref idref="510b"/>
+    <itemref idref="511"/>
+    <itemref idref="512"/>
+    <itemref idref="513"/>
+    <itemref idref="514"/>
+    <itemref idref="515"/>
+    <itemref idref="516"/>
+    <itemref idref="520a"/>
+    <itemref idref="520b"/>
+    <itemref idref="521"/>
+    <itemref idref="522"/>
+    <itemref idref="523"/>
+    <itemref idref="524"/>
+    <itemref idref="525"/>
+    <itemref idref="526"/>
+    <itemref idref="530a"/>
+    <itemref idref="530b"/>
+    <itemref idref="531"/>
+    <itemref idref="532"/>
+    <itemref idref="533"/>
+    <itemref idref="534"/>
+    <itemref idref="535"/>
+    <itemref idref="536"/>
+    <itemref idref="540a"/>
+    <itemref idref="540b"/>
+    <itemref idref="541"/>
+    <itemref idref="542"/>
+    <itemref idref="543"/>
+    <itemref idref="544"/>
+    <itemref idref="545"/>
+    <itemref idref="546"/>
+    <itemref idref="550a"/>
+    <itemref idref="550b"/>
+    <itemref idref="551"/>
+    <itemref idref="552"/>
+    <itemref idref="553"/>
+    <itemref idref="554"/>
+    <itemref idref="555"/>
+    <itemref idref="556"/>
+    <itemref idref="560a"/>
+    <itemref idref="560b"/>
+    <itemref idref="561"/>
+    <itemref idref="562"/>
+    <itemref idref="563"/>
+    <itemref idref="564"/>
+    <itemref idref="565"/>
+    <itemref idref="566"/>
+    <itemref idref="610a"/>
+    <itemref idref="610b"/>
+    <itemref idref="611"/>
+    <itemref idref="612"/>
+    <itemref idref="613"/>
+    <itemref idref="614"/>
+    <itemref idref="615"/>
+    <itemref idref="616"/>
+    <itemref idref="620a"/>
+    <itemref idref="620b"/>
+    <itemref idref="621"/>
+    <itemref idref="622"/>
+    <itemref idref="623"/>
+    <itemref idref="624"/>
+    <itemref idref="625"/>
+    <itemref idref="626"/>
+    <itemref idref="630a"/>
+    <itemref idref="630b"/>
+    <itemref idref="631"/>
+    <itemref idref="632"/>
+    <itemref idref="633"/>
+    <itemref idref="634"/>
+    <itemref idref="635"/>
+    <itemref idref="636"/>
+    <itemref idref="640"/>
+    <itemref idref="6416"/>
+    <itemref idref="6415"/>
+    <itemref idref="6414"/>
+    <itemref idref="6413"/>
+    <itemref idref="6412"/>
+    <itemref idref="6411"/>
+    <itemref idref="642"/>
+    <itemref idref="643"/>
+    <itemref idref="6442"/>
+    <itemref idref="6441"/>
+    <itemref idref="645"/>
+    <itemref idref="646"/>
+    <itemref idref="647"/>
+    <itemref idref="648"/>
+  </spine>
+  <guide>
+    <reference href="OPS/TableOfContents.html" type="toc" title="Table of Contents"/>
+  </guide>
+</package>

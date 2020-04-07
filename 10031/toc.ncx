@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="und">
+  <head>
+    <meta content="657a8633-08ee-4e78-a6c2-c87be5213ecc" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>红顶商人胡雪岩珍藏版大全集（套装共6册）</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>红顶商人胡雪岩</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_2"/>
+      <navPoint class="chapter" id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>楔子</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_3"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>第一章 胡雪岩资助王有龄进京捐官</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_000.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>第二章 王有龄打通层层关节，起步官场</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>第三章 王有龄上任即遇大麻烦，胡雪岩谋划完美解决方案</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_001.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>第四章 难倒百官的棘手事，胡雪岩火速办妥</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>第五章 公款过手做本钱，胡雪岩的融资之道</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_002.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>第六章 靠山王有龄把官做实，胡雪岩把生意做活</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>第七章 闲谈在他听来是商机，胡雪岩谋划开丝行</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_003.xhtml#sigil_toc_id_10"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>第八章 胡雪岩钱庄开张，向心腹亲授“官商之道”</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>第九章 上下打点，在湖州撞上一位最佳合伙人</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_004.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>第十章 时局动乱，押上全部身家的一次商业预判</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_005.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>第十一章 王有龄仕途遭遇生死劫，胡雪岩巧妙化解</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_005.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>红顶商人胡雪岩 2：信誉即生意</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_006.xhtml"/>
+      <navPoint class="chapter" id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>第一章 用十万银子做五十万银子的生意</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_006.xhtml#sigil_toc_id_16"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>第二章 官场、洋行、江湖联手，才是大生意</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_007.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>第三章 胡雪岩义兄接任海运局一把手，为军火押运开门路</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_007.xhtml#sigil_toc_id_18"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>第四章 胡雪岩的心腹陈世龙，湖州之行遭遇意外风波</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_008.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>第五章 胡雪岩公事家事一把抓，三天之内事事妥帖</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_008.xhtml#sigil_toc_id_20"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>第六章 结亲也能结出商机，胡雪岩谋划药材生意</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_009.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>第七章 为结交战略合作伙伴，胡雪岩在赌场设局做人情</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_009.xhtml#sigil_toc_id_22"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>第八章 市面骤起大变故，胡雪岩多方周旋渡过危机</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_010.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>第九章 帮靠山找更大的靠山，胡雪岩层层加固官场关系</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_010.xhtml#sigil_toc_id_24"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>红顶商人胡雪岩 3：人情是最重要的投资</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_011.xhtml"/>
+      <navPoint class="chapter" id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>第一章 温柔乡里的反思，胡雪岩看破商业大趋势</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_011.xhtml#sigil_toc_id_26"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>第二章 结交贵人，胡雪岩奉上生平最重一份大礼</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_011.xhtml#sigil_toc_id_27"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>第三章 找靠山不如立靠山，胡雪岩密谋调任大事</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_011.xhtml#sigil_toc_id_28"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>第四章 苏州之行，赔了“夫人”赢了前程</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_012.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>第五章 结束与洋商的对峙观望，胡雪岩准备卖丝</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_012.xhtml#sigil_toc_id_30"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>第六章 生意被劫匪盯上，胡雪岩谋划招安之计</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_013.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>第七章 步步凶险，胡雪岩涉足江湖化解危机</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_013.xhtml#sigil_toc_id_32"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>第八章 众望所归，胡雪岩担起为漕帮谋生路的大任</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_014.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>第九章 中外生丝生意大战，胡雪岩大获全胜</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_014.xhtml#sigil_toc_id_34"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>红顶商人胡雪岩 4：时局中的商机</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_015.xhtml"/>
+      <navPoint class="chapter" id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>第一章 杭州被围，胡雪岩冒死筹粮救济饥民</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_015.xhtml#sigil_toc_id_36"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>第二章 浩劫难逃，胡雪岩与王有龄的生死诀别</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_016.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>第三章 运粮计划失败，胡雪岩大病一场转道宁波</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_016.xhtml#sigil_toc_id_38"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>第四章 重返上海，胡雪岩意图东山再起</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_017.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>第五章 胜在胆略，胡雪岩想做太平军的生意</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_017.xhtml#sigil_toc_id_40"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>第六章 结识左宗棠，开启巨商之路</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_018.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>第七章 左宗棠委以重任，胡雪岩筹粮筹饷办船厂</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_018.xhtml#sigil_toc_id_42"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>第八章 左宗棠筹划西征，胡雪岩步入事业巅峰</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_019.xhtml"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>红顶商人胡雪岩 5：隐患埋于巅峰</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_019.xhtml#sigil_toc_id_44"/>
+      <navPoint class="chapter" id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>前 记</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_020.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>第一章 进京结交众权贵，胡雪岩帮左宗棠借洋款</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_020.xhtml#sigil_toc_id_46"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>第二章 胡雪岩算盘落空，商场劲敌盛宣怀逆势崛起</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_020.xhtml#sigil_toc_id_47"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>第三章 为保护民族手工业，胡雪岩对抗新式缫丝厂</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_020.xhtml#sigil_toc_id_48"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>第四章 步入圈套，胡雪岩的典当生意隐患重重</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_021.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>第五章 胡雪岩事业的贤内助——螺蛳太太</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_021.xhtml#sigil_toc_id_50"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>第六章 胡雪岩宴请四方，荣华背后危机四伏</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_022.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>第七章 帮左宗棠购置军火，胡雪岩商场树敌</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_022.xhtml#sigil_toc_id_52"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>第八章 身陷政治斗争，胡雪岩遭李鸿章暗中算计</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_023.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>第九章 市面巨变，胡雪岩钱庄资金周转无力</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_023.xhtml#sigil_toc_id_54"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>红顶商人胡雪岩 6：悲凉醒世大结局</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001_split_023.xhtml#sigil_toc_id_55"/>
+      <navPoint class="chapter" id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>第一章 最后一步救命棋，胡雪岩收购新式缫丝厂</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_023.xhtml#sigil_toc_id_56"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>第二章 危机暴起，胡雪岩钱庄遭遇挤兑风潮</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_024.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>第三章 平息风潮，胡雪岩稳住阵脚筹对策</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_024.xhtml#sigil_toc_id_58"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>第四章 情势巨变，胡雪岩着手破产清算</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_025.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>第五章 查封典当，局中设局斗心斗智</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_025.xhtml#sigil_toc_id_60"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>第六章 大势已去，胡雪岩革职散家</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_026.xhtml"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>第七章 人去楼空，一代商圣成旧梦</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_026.xhtml#sigil_toc_id_62"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>第八章 宝物遭人掠取，一线生路变绝路</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_026.xhtml#sigil_toc_id_63"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>后 记</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001_split_026.xhtml#sigil_toc_id_64"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

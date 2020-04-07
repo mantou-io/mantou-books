@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+   <head>
+      <meta name="dtb:uid" content="bookid"/>
+      <meta name="dtb:depth" content="0"/>
+      <meta name="dtb:totalPageCount" content="0"/>
+      <meta name="dtb:maxPageNumber" content="0"/>
+   </head>
+   <docTitle>
+      <text>UnKnown</text>
+   </docTitle>
+   <navMap>
+     <navPoint id="id1" playOrder="1">
+       <navLabel>
+         <text>扉页</text>
+       </navLabel>
+       <content src="text00000.html"/>
+     </navPoint>
+     <navPoint id="id2" playOrder="2">
+       <navLabel>
+         <text>出版人的话</text>
+       </navLabel>
+       <content src="text00001.html"/>
+     </navPoint>
+     <navPoint id="id3" playOrder="3">
+       <navLabel>
+         <text>《中国现代小说史》再版序言</text>
+       </navLabel>
+       <content src="text00002.html"/>
+     </navPoint>
+     <navPoint id="id4" playOrder="4">
+       <navLabel>
+         <text>重读夏志清教授《中国现代小说史》</text>
+       </navLabel>
+       <content src="text00003.html"/>
+     <navPoint id="id5" playOrder="5">
+       <navLabel>
+         <text>一</text>
+       </navLabel>
+       <content src="text00003.html#ncx0_3_1"/>
+     </navPoint>
+     <navPoint id="id6" playOrder="6">
+       <navLabel>
+         <text>二</text>
+       </navLabel>
+       <content src="text00003.html#ncx0_3_2"/>
+     </navPoint>
+     <navPoint id="id7" playOrder="7">
+       <navLabel>
+         <text>三</text>
+       </navLabel>
+       <content src="text00003.html#ncx0_3_3"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id8" playOrder="8">
+       <navLabel>
+         <text>作者中译本序</text>
+       </navLabel>
+       <content src="text00004.html#ncx0_4_1"/>
+     <navPoint id="id9" playOrder="9">
+       <navLabel>
+         <text>一</text>
+       </navLabel>
+       <content src="text00004.html#ncx0_4_1"/>
+     </navPoint>
+     <navPoint id="id10" playOrder="10">
+       <navLabel>
+         <text>二</text>
+       </navLabel>
+       <content src="text00004.html#ncx0_4_2"/>
+     </navPoint>
+     <navPoint id="id11" playOrder="11">
+       <navLabel>
+         <text>三</text>
+       </navLabel>
+       <content src="text00004.html#ncx0_4_3"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id12" playOrder="12">
+       <navLabel>
+         <text>经典之作</text>
+       </navLabel>
+       <content src="text00005.html#ncx0_5_1"/>
+     <navPoint id="id13" playOrder="13">
+       <navLabel>
+         <text>一</text>
+       </navLabel>
+       <content src="text00005.html#ncx0_5_1"/>
+     </navPoint>
+     <navPoint id="id14" playOrder="14">
+       <navLabel>
+         <text>二</text>
+       </navLabel>
+       <content src="text00005.html#ncx0_5_2"/>
+     </navPoint>
+     <navPoint id="id15" playOrder="15">
+       <navLabel>
+         <text>三</text>
+       </navLabel>
+       <content src="text00005.html#ncx0_5_3"/>
+     </navPoint>
+     <navPoint id="id16" playOrder="16">
+       <navLabel>
+         <text>四</text>
+       </navLabel>
+       <content src="text00005.html#ncx0_5_4"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id17" playOrder="17">
+       <navLabel>
+         <text>第一编 初期</text>
+       </navLabel>
+       <content src="text00007.html"/>
+     <navPoint id="id18" playOrder="18">
+       <navLabel>
+         <text>第一章 文学革命</text>
+       </navLabel>
+       <content src="text00007.html"/>
+     </navPoint>
+     <navPoint id="id19" playOrder="19">
+       <navLabel>
+         <text>第二章 鲁迅（1881—1936）</text>
+       </navLabel>
+       <content src="text00008.html"/>
+     </navPoint>
+     <navPoint id="id20" playOrder="20">
+       <navLabel>
+         <text>第三章 文学研究会及其他</text>
+       </navLabel>
+       <content src="text00009.html"/>
+     <navPoint id="id21" playOrder="21">
+       <navLabel>
+         <text>叶绍钧（一八九四—）</text>
+       </navLabel>
+       <content src="text00009.html#ncx1_3_1"/>
+     </navPoint>
+     <navPoint id="id22" playOrder="22">
+       <navLabel>
+         <text>冰心与凌叔华</text>
+       </navLabel>
+       <content src="text00009.html#ncx1_3_2"/>
+     </navPoint>
+     <navPoint id="id23" playOrder="23">
+       <navLabel>
+         <text>许地山（一八九三—一九四一）</text>
+       </navLabel>
+       <content src="text00009.html#ncx1_3_3"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id24" playOrder="24">
+       <navLabel>
+         <text>第四章 创造社</text>
+       </navLabel>
+       <content src="text00010.html"/>
+     <navPoint id="id25" playOrder="25">
+       <navLabel>
+         <text>郁达夫（一八九六—一九四五）</text>
+       </navLabel>
+       <content src="text00010.html#ncx1_4_1"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id26" playOrder="26">
+       <navLabel>
+         <text>第二编 成长的十年</text>
+       </navLabel>
+       <content src="text00012.html"/>
+     <navPoint id="id27" playOrder="27">
+       <navLabel>
+         <text>第五章 三十年代的左派作家和独立作家</text>
+       </navLabel>
+       <content src="text00012.html"/>
+     </navPoint>
+     <navPoint id="id28" playOrder="28">
+       <navLabel>
+         <text>第六章 茅盾（1896—）</text>
+       </navLabel>
+       <content src="text00013.html"/>
+     </navPoint>
+     <navPoint id="id29" playOrder="29">
+       <navLabel>
+         <text>第七章 老舍（1899—1966）</text>
+       </navLabel>
+       <content src="text00014.html"/>
+     </navPoint>
+     <navPoint id="id30" playOrder="30">
+       <navLabel>
+         <text>第八章 沈从文（1902—）</text>
+       </navLabel>
+       <content src="text00015.html"/>
+     </navPoint>
+     <navPoint id="id31" playOrder="31">
+       <navLabel>
+         <text>第九章 张天翼（1906—）</text>
+       </navLabel>
+       <content src="text00016.html"/>
+     </navPoint>
+     <navPoint id="id32" playOrder="32">
+       <navLabel>
+         <text>第十章 巴金（1904—）</text>
+       </navLabel>
+       <content src="text00017.html"/>
+     </navPoint>
+     <navPoint id="id33" playOrder="33">
+       <navLabel>
+         <text>第十一章 第一个阶段的共产小说</text>
+       </navLabel>
+       <content src="text00018.html"/>
+     </navPoint>
+     <navPoint id="id34" playOrder="34">
+       <navLabel>
+         <text>第十二章 吴组缃（1908—）</text>
+       </navLabel>
+       <content src="text00019.html"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id35" playOrder="35">
+       <navLabel>
+         <text>第三编 抗战期间及胜利以后</text>
+       </navLabel>
+       <content src="text00021.html"/>
+     <navPoint id="id36" playOrder="36">
+       <navLabel>
+         <text>第十三章　　抗战期间及胜利以后的中国文学</text>
+       </navLabel>
+       <content src="text00021.html"/>
+     </navPoint>
+     <navPoint id="id37" playOrder="37">
+       <navLabel>
+         <text>第十四章 资深作家</text>
+       </navLabel>
+       <content src="text00022.html"/>
+     <navPoint id="id38" playOrder="38">
+       <navLabel>
+         <text>茅盾</text>
+       </navLabel>
+       <content src="text00022.html#ncx3_2_1"/>
+     </navPoint>
+     <navPoint id="id39" playOrder="39">
+       <navLabel>
+         <text>沈从文</text>
+       </navLabel>
+       <content src="text00022.html#ncx3_2_2"/>
+     </navPoint>
+     <navPoint id="id40" playOrder="40">
+       <navLabel>
+         <text>老舍</text>
+       </navLabel>
+       <content src="text00022.html#ncx3_2_3"/>
+     </navPoint>
+     <navPoint id="id41" playOrder="41">
+       <navLabel>
+         <text>巴金</text>
+       </navLabel>
+       <content src="text00022.html#ncx3_2_4"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id42" playOrder="42">
+       <navLabel>
+         <text>第十五章 张爱玲（1921—）</text>
+       </navLabel>
+       <content src="text00023.html"/>
+     </navPoint>
+     <navPoint id="id43" playOrder="43">
+       <navLabel>
+         <text>第十六章 钱锺书（1910—）</text>
+       </navLabel>
+       <content src="text00024.html"/>
+     </navPoint>
+     <navPoint id="id44" playOrder="44">
+       <navLabel>
+         <text>第十七章 师陀</text>
+       </navLabel>
+       <content src="text00025.html#ftnref_348"/>
+     </navPoint>
+     <navPoint id="id45" playOrder="45">
+       <navLabel>
+         <text>第十八章 第二阶段的共产小说</text>
+       </navLabel>
+       <content src="text00026.html"/>
+     </navPoint>
+     <navPoint id="id46" playOrder="46">
+       <navLabel>
+         <text>第十九章 结论</text>
+       </navLabel>
+       <content src="text00027.html"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id47" playOrder="47">
+       <navLabel>
+         <text>附录</text>
+       </navLabel>
+       <content src="text00029.html"/>
+     <navPoint id="id48" playOrder="48">
+       <navLabel>
+         <text>附录一 一九五八年来中国大陆的文学</text>
+       </navLabel>
+       <content src="text00029.html"/>
+     </navPoint>
+     <navPoint id="id49" playOrder="49">
+       <navLabel>
+         <text>附录二 现代中国文学感时忧国的精神</text>
+       </navLabel>
+       <content src="text00030.html"/>
+     </navPoint>
+     <navPoint id="id50" playOrder="50">
+       <navLabel>
+         <text>附录三 姜贵的两部小说</text>
+       </navLabel>
+       <content src="text00031.html"/>
+     <navPoint id="id51" playOrder="51">
+       <navLabel>
+         <text>《旋风》</text>
+       </navLabel>
+       <content src="text00031.html#ncx4_3_1"/>
+     </navPoint>
+     <navPoint id="id52" playOrder="52">
+       <navLabel>
+         <text>《重阳》</text>
+       </navLabel>
+       <content src="text00031.html#ncx4_3_2"/>
+     </navPoint>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id53" playOrder="53">
+       <navLabel>
+         <text>复旦版附录</text>
+       </navLabel>
+       <content src="text00033.html"/>
+     <navPoint id="id54" playOrder="54">
+       <navLabel>
+         <text>论对中国现代文学的“科学”研究</text>
+       </navLabel>
+       <content src="text00033.html#ncx5_1_1"/>
+     <navPoint id="id55" playOrder="55">
+       <navLabel>
+         <text>一、基本问题</text>
+       </navLabel>
+       <content src="text00033.html#ncx5_1_1"/>
+     </navPoint>
+     <navPoint id="id56" playOrder="56">
+       <navLabel>
+         <text>二、鲁迅</text>
+       </navLabel>
+       <content src="text00033.html#ncx5_1_2"/>
+     </navPoint>
+     <navPoint id="id57" playOrder="57">
+       <navLabel>
+         <text>三、其他作家</text>
+       </navLabel>
+       <content src="text00033.html#ncx5_1_3"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id58" playOrder="58">
+       <navLabel>
+         <text>小论陈衡哲</text>
+       </navLabel>
+       <content src="text00034.html"/>
+     </navPoint>
+     <navPoint id="id59" playOrder="59">
+       <navLabel>
+         <text>端木蕻良的《科尔沁旗草原》</text>
+       </navLabel>
+       <content src="text00035.html"/>
+     <navPoint id="id60" playOrder="60">
+       <navLabel>
+         <text>一</text>
+       </navLabel>
+       <content src="text00035.html#ncx5_3_1"/>
+     </navPoint>
+     <navPoint id="id61" playOrder="61">
+       <navLabel>
+         <text>二</text>
+       </navLabel>
+       <content src="text00035.html#ncx5_3_2"/>
+     </navPoint>
+     <navPoint id="id62" playOrder="62">
+       <navLabel>
+         <text>三</text>
+       </navLabel>
+       <content src="text00035.html#ncx5_3_3"/>
+     </navPoint>
+     <navPoint id="id63" playOrder="63">
+       <navLabel>
+         <text>四</text>
+       </navLabel>
+       <content src="text00035.html#ncx5_3_4"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id64" playOrder="64">
+       <navLabel>
+         <text>英译《中国现代中短篇小说选》导言</text>
+       </navLabel>
+       <content src="text00036.html"/>
+     </navPoint>
+     <navPoint id="id65" playOrder="65">
+       <navLabel>
+         <text>中文小说与华人的英文小说</text>
+       </navLabel>
+       <content src="text00037.html"/>
+     </navPoint>
+     </navPoint>
+     <navPoint id="id66" playOrder="66">
+       <navLabel>
+         <text>封底</text>
+       </navLabel>
+       <content src="text00039.html"/>
+     </navPoint>
+   </navMap>
+</ncx>

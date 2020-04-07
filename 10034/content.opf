@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="calibre:timestamp" content="2019-01-29T15:44:43.221000+00:00"/>
+    <dc:identifier opf:scheme="ISBN">9787544757768</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">8bacb4d5-5456-4795-9658-3d055fa76505</dc:identifier>
+    <dc:creator opf:file-as="未知" opf:role="aut">【奥地利】西格蒙德·弗洛伊德, ePUBw.COM</dc:creator>
+    <dc:date>2016-12-04T16:00:00+00:00</dc:date>
+    <dc:language>und</dc:language>
+    <dc:publisher>译林出版社</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (3.38.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:title>梦的解析</dc:title>
+  </metadata>
+  <manifest>
+    <item href="OEBPS/Text/Section0001_split_000.xhtml" id="Section0001.xhtml7" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_001.xhtml" id="Section0001.xhtml6" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_002.xhtml" id="Section0001.xhtml5" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_003.xhtml" id="Section0001.xhtml4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_004.xhtml" id="Section0001.xhtml3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_005.xhtml" id="Section0001.xhtml2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_006.xhtml" id="Section0001.xhtml1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Section0001.xhtml7"/>
+    <itemref idref="Section0001.xhtml6"/>
+    <itemref idref="Section0001.xhtml5"/>
+    <itemref idref="Section0001.xhtml4"/>
+    <itemref idref="Section0001.xhtml3"/>
+    <itemref idref="Section0001.xhtml2"/>
+    <itemref idref="Section0001.xhtml1"/>
+  </spine>
+  <guide>
+  </guide>
+</package>

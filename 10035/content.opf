@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <meta name="calibre:timestamp" content="2019-01-28T02:30:50.200000+00:00"/>
+    <dc:title>国史大纲（全2册）</dc:title>
+    <dc:language>und</dc:language>
+    <dc:publisher>九州出版社</dc:publisher>
+    <dc:contributor opf:role="bkp">calibre (3.38.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:date>2011-06-30T16:00:00+00:00</dc:date>
+    <dc:creator opf:file-as="未知" opf:role="aut">钱穆, ePUBw.COM</dc:creator>
+    <dc:identifier opf:scheme="ISBN">9787510809941</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">263716be-288e-4413-804d-38b6b3b89951</dc:identifier>
+  </metadata>
+  <manifest>
+    <item href="OEBPS/Images/image_006503e55eed44eeb78bff73962541c9.jpg" id="image_006503e55eed44eeb78bff73962541c9.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_029acf50d1ed4246b49eae78dbc32ea6.jpg" id="image_029acf50d1ed4246b49eae78dbc32ea6.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_0337193bc8814ee998226f4972323113.jpg" id="image_0337193bc8814ee998226f4972323113.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_03fe62987cf74494b72631f34d6fd39a.jpg" id="image_03fe62987cf74494b72631f34d6fd39a.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_043651216e784828b1de121855a5a93c.jpg" id="image_043651216e784828b1de121855a5a93c.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_05fbef72614a406ebdc4da97ff50da92.jpg" id="image_05fbef72614a406ebdc4da97ff50da92.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_062d91e4a52249fda8f329165a12395b.jpg" id="image_062d91e4a52249fda8f329165a12395b.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_066702e7ee334acb985f3f67bdfb197a.jpg" id="image_066702e7ee334acb985f3f67bdfb197a.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_08b2051d7b12490785a61c0554dbc513.jpg" id="image_08b2051d7b12490785a61c0554dbc513.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_0a39c0c349ec48c1adde6b173a4d9bc2.jpg" id="image_0a39c0c349ec48c1adde6b173a4d9bc2.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_0f0d7624b721422db81f319309256ceb.jpg" id="image_0f0d7624b721422db81f319309256ceb.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_0f830e094e7c410d9ed4523d67356394.jpg" id="image_0f830e094e7c410d9ed4523d67356394.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_112a0d940af444cc87e8c66dfaf2c89a.jpg" id="image_112a0d940af444cc87e8c66dfaf2c89a.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_12a153de097044d09980fa3059296e5b.jpg" id="image_12a153de097044d09980fa3059296e5b.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_13b467169fe240509eaee9dfc93f9d84.jpg" id="image_13b467169fe240509eaee9dfc93f9d84.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_154b620d80324b2abf04a5b62d222cf4.jpg" id="image_154b620d80324b2abf04a5b62d222cf4.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_1a19cfd677434daeafd552ec2ac52924.jpg" id="image_1a19cfd677434daeafd552ec2ac52924.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_1dd4f612deaf4c57a72f767a0afe106d.jpg" id="image_1dd4f612deaf4c57a72f767a0afe106d.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_1eac40b248dd4363bfeb21662bd9ecfa.jpg" id="image_1eac40b248dd4363bfeb21662bd9ecfa.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_2323576bfcd9433f927d1c64db8a0fd8.jpg" id="image_2323576bfcd9433f927d1c64db8a0fd8.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_233c491dabcd43f2add012f8eab1f996.jpg" id="image_233c491dabcd43f2add012f8eab1f996.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_23ae40df1b6246929a2bfdd7011ae041.jpg" id="image_23ae40df1b6246929a2bfdd7011ae041.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_2494f9ff27144c9f85e574a5aa4dc506.jpg" id="image_2494f9ff27144c9f85e574a5aa4dc506.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_2820ad3962e648908432c7f0ff3b2d27.jpg" id="image_2820ad3962e648908432c7f0ff3b2d27.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_298bbb72916f429884b0efcf74dc3680.jpg" id="image_298bbb72916f429884b0efcf74dc3680.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_2a90f6dd533f448eb834e00927c9892e.jpg" id="image_2a90f6dd533f448eb834e00927c9892e.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_2aeae01b13e7437c86a04c04e04a2b7b.jpg" id="image_2aeae01b13e7437c86a04c04e04a2b7b.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_2b8d2f5be6434a1ca93f3ca04d23b37b.jpg" id="image_2b8d2f5be6434a1ca93f3ca04d23b37b.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_30173505ad7b48e0b964f21f14d1d9b4.jpg" id="image_30173505ad7b48e0b964f21f14d1d9b4.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_33db774c302d466c89eb71305cee2337.jpg" id="image_33db774c302d466c89eb71305cee2337.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_35814f0929d74aefbf8f2591aa4a9c57.jpg" id="image_35814f0929d74aefbf8f2591aa4a9c57.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_36958428d5e74205a6d85968c882f3a8.jpg" id="image_36958428d5e74205a6d85968c882f3a8.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_37b2917122524f778ddc0a5fb6f698ab.jpg" id="image_37b2917122524f778ddc0a5fb6f698ab.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_386c2a84fdd94403af57dfb57e71c8d9.jpg" id="image_386c2a84fdd94403af57dfb57e71c8d9.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_38d9c535cfca46f4a74d9c6e4bfbf80f.jpg" id="image_38d9c535cfca46f4a74d9c6e4bfbf80f.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_3cdd6be2332540fba622070e559aca29.jpg" id="image_3cdd6be2332540fba622070e559aca29.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_41377edd0403453cb2560c4efdae6fdc.jpg" id="image_41377edd0403453cb2560c4efdae6fdc.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_42132dacacce4e648514ed9acb088132.jpg" id="image_42132dacacce4e648514ed9acb088132.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_4297ce9b546849c6a89108f28277c446.jpg" id="image_4297ce9b546849c6a89108f28277c446.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_49dbb75be8c841b492e20e9e021c804c.jpg" id="image_49dbb75be8c841b492e20e9e021c804c.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_4c8da1fe9ebb4c9c9fd0b4ecff4bdf93.jpg" id="image_4c8da1fe9ebb4c9c9fd0b4ecff4bdf93.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_4cc4df103676415690445e788e2540bc.jpg" id="image_4cc4df103676415690445e788e2540bc.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_4d9224e32c5a476a82ea32e9b3d167dc.jpg" id="image_4d9224e32c5a476a82ea32e9b3d167dc.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_4f6abf56818c4c47bbeba5dcffb4d24d.jpg" id="image_4f6abf56818c4c47bbeba5dcffb4d24d.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_503dd57b55bb4c8aac35ab641790eccf.jpg" id="image_503dd57b55bb4c8aac35ab641790eccf.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_50477ae5ffa54edf9a957ef6783d0851.jpg" id="image_50477ae5ffa54edf9a957ef6783d0851.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_5827cfbdf1054030ac814b4f8b3bc3dd.jpg" id="image_5827cfbdf1054030ac814b4f8b3bc3dd.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_5af8a8887e9f4f2c9033f26f91e1ba9c.jpg" id="image_5af8a8887e9f4f2c9033f26f91e1ba9c.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_5d2b325024454d7ea3e53b9d8ba8ff40.jpg" id="image_5d2b325024454d7ea3e53b9d8ba8ff40.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_5e57c778a9234d59ac383584ff937c38.jpg" id="image_5e57c778a9234d59ac383584ff937c38.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_5f41778bdffe4febbf8a3cf62898b57c.jpg" id="image_5f41778bdffe4febbf8a3cf62898b57c.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_5fcbcefe895c43a3aa66b61ee576f32a.jpg" id="image_5fcbcefe895c43a3aa66b61ee576f32a.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_60964852d5604d60a558f475cb3da49e.jpg" id="image_60964852d5604d60a558f475cb3da49e.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_6244da0062bd42cc89491bcc9f301cae.jpg" id="image_6244da0062bd42cc89491bcc9f301cae.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_63809049f6b74e698ab66074563052c1.jpg" id="image_63809049f6b74e698ab66074563052c1.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_648ac19435e94105b7f79ecf77e62f02.jpg" id="image_648ac19435e94105b7f79ecf77e62f02.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_64abb95db54547a0bdb3fd9ca92a46dd.jpg" id="image_64abb95db54547a0bdb3fd9ca92a46dd.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_64e885f4be1845a6a18ef9e4565098f3.jpg" id="image_64e885f4be1845a6a18ef9e4565098f3.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_67a847693f7245cd891d98e99b8e83d4.jpg" id="image_67a847693f7245cd891d98e99b8e83d4.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_6800fc02a4e740efa3d12989ff17c79d.jpg" id="image_6800fc02a4e740efa3d12989ff17c79d.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_6c593fb269654dfa9c4544823cae4efc.jpg" id="image_6c593fb269654dfa9c4544823cae4efc.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_6d0fa83858654cb496a17cde5bc4d2d8.jpg" id="image_6d0fa83858654cb496a17cde5bc4d2d8.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_6db0a398b56042b5910ad100f14f66d4.jpg" id="image_6db0a398b56042b5910ad100f14f66d4.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_6fa04b035ca74717a397aaacb812c48a.jpg" id="image_6fa04b035ca74717a397aaacb812c48a.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_6fdbf5585eb04210a225fd9eaedca9d6.jpg" id="image_6fdbf5585eb04210a225fd9eaedca9d6.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_707472813d5b422bb4eff2cd4648a08d.jpg" id="image_707472813d5b422bb4eff2cd4648a08d.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_71a0a49135fa48cd9f68b06c443903ef.jpg" id="image_71a0a49135fa48cd9f68b06c443903ef.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_7240367e046d417eb0092ef645560005.jpg" id="image_7240367e046d417eb0092ef645560005.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_7975955e29cc4184b5aeef2da803fb5c.jpg" id="image_7975955e29cc4184b5aeef2da803fb5c.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_7badb4062861433685656df73b3fb6c6.jpg" id="image_7badb4062861433685656df73b3fb6c6.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_7bcd7106db474011840ebfca9cdedc11.jpg" id="image_7bcd7106db474011840ebfca9cdedc11.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_7ef650fb5e694c18bd603031c12360e8.jpg" id="image_7ef650fb5e694c18bd603031c12360e8.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_7f4accc14c99473883d00b3b504a0040.jpg" id="image_7f4accc14c99473883d00b3b504a0040.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_8251e4608c504658946994325d46b2d6.jpg" id="image_8251e4608c504658946994325d46b2d6.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_85ac6a8df9cc4e59b235f76f136d9330.jpg" id="image_85ac6a8df9cc4e59b235f76f136d9330.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_87aebea2654f4ffbb87a7e1451c89463.jpg" id="image_87aebea2654f4ffbb87a7e1451c89463.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_8bf606b843a7455ab8ae3dfdd54ec758.jpg" id="image_8bf606b843a7455ab8ae3dfdd54ec758.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_8ede1c25310d428484eb91c352bc82a2.jpg" id="image_8ede1c25310d428484eb91c352bc82a2.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_8f31f36e09fb4f35953d6e2415f35618.jpg" id="image_8f31f36e09fb4f35953d6e2415f35618.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_8f97f48a44814fdaa7cf82afea635622.jpg" id="image_8f97f48a44814fdaa7cf82afea635622.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_90a498cc09f242d9b594615ed7da2bd2.jpg" id="image_90a498cc09f242d9b594615ed7da2bd2.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_91023cec91cd4313b3a38bb8c1e96140.jpg" id="image_91023cec91cd4313b3a38bb8c1e96140.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_91a43c070cd04ea096ddc041e14e482c.jpg" id="image_91a43c070cd04ea096ddc041e14e482c.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_9489d683127e47a2b9e5633f83e0139b.jpg" id="image_9489d683127e47a2b9e5633f83e0139b.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_9b23f28d4c1f44eda8c2e03d4a32de6c.jpg" id="image_9b23f28d4c1f44eda8c2e03d4a32de6c.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_9e10a13256b34697a1c4a693cc04f677.jpg" id="image_9e10a13256b34697a1c4a693cc04f677.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_9e4959a4cc75468c8987cb955f7d602d.jpg" id="image_9e4959a4cc75468c8987cb955f7d602d.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_a0064d5341a74322955ce15b96b66522.jpg" id="image_a0064d5341a74322955ce15b96b66522.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_a17aef2732b945c3bb3bf3fe7b9be2c0.jpg" id="image_a17aef2732b945c3bb3bf3fe7b9be2c0.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_a180fb95f43443fdbd39088e7e316ca5.jpg" id="image_a180fb95f43443fdbd39088e7e316ca5.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_a5919c42303a448da4371e5e16bfd7bb.jpg" id="image_a5919c42303a448da4371e5e16bfd7bb.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_a5dfd49a2a4442e788a61510e6194127.jpg" id="image_a5dfd49a2a4442e788a61510e6194127.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_a77b0b914d5f47cc9cbc63340037dbfb.jpg" id="image_a77b0b914d5f47cc9cbc63340037dbfb.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_a9e798d52ddd4004b6eb78244cb1ddbb.jpg" id="image_a9e798d52ddd4004b6eb78244cb1ddbb.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_afc13ef5552942108ef9930924c9bf24.jpg" id="image_afc13ef5552942108ef9930924c9bf24.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_afce90d28d03433c9582d06c9d740f79.jpg" id="image_afce90d28d03433c9582d06c9d740f79.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_b092f55eda0c488c986b864a6d712c91.jpg" id="image_b092f55eda0c488c986b864a6d712c91.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_b28652252ae6469eb83cd806d988138a.jpg" id="image_b28652252ae6469eb83cd806d988138a.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_b2c0319c4b3743069e200e39b51fe865.jpg" id="image_b2c0319c4b3743069e200e39b51fe865.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_b44a0b3ce9724a94850c90d3c8880353.jpg" id="image_b44a0b3ce9724a94850c90d3c8880353.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_b6154aaf48a14925b71ce2dabd7917b5.jpg" id="image_b6154aaf48a14925b71ce2dabd7917b5.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_b6da662d177d41a5b23fb4f44d96fda6.jpg" id="image_b6da662d177d41a5b23fb4f44d96fda6.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_b9d60009645e434e9d00023e67916317.jpg" id="image_b9d60009645e434e9d00023e67916317.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_ba13cc2321cc4621acf9689836c7092f.jpg" id="image_ba13cc2321cc4621acf9689836c7092f.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_bee4223d4fb846b78fa3ef2ac57df62a.jpg" id="image_bee4223d4fb846b78fa3ef2ac57df62a.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_c2cecfa6fcc74909bbad91e991ee8180.jpg" id="image_c2cecfa6fcc74909bbad91e991ee8180.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_c4300d783c9e45baba0a50e1fd114e18.jpg" id="image_c4300d783c9e45baba0a50e1fd114e18.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_c4fda56f58f3440cb145a6348759ed50.jpg" id="image_c4fda56f58f3440cb145a6348759ed50.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_c702d399ce7e4b9097933265fcde37e1.jpg" id="image_c702d399ce7e4b9097933265fcde37e1.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_c75813ade43a4ea4ac646a41cac8263d.jpg" id="image_c75813ade43a4ea4ac646a41cac8263d.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_cb9ecd1fe15f4ed0ab44a35a21ad0de7.jpg" id="image_cb9ecd1fe15f4ed0ab44a35a21ad0de7.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_cf78b021dc2e4f36a72f6d1a1239255e.jpg" id="image_cf78b021dc2e4f36a72f6d1a1239255e.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_d2214c5c1f8b490993f2407f5e1d51d2.jpg" id="image_d2214c5c1f8b490993f2407f5e1d51d2.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_d6f11874c1d146b5acaf10aa7d446823.jpg" id="image_d6f11874c1d146b5acaf10aa7d446823.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_da9af147b25d4fbea7e1264f8998f697.jpg" id="image_da9af147b25d4fbea7e1264f8998f697.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_db30ebccc14441c0af3c10a45b1eebb1.jpg" id="image_db30ebccc14441c0af3c10a45b1eebb1.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_e0fe2288cd0b4108aeddcc6d8e982ea0.jpg" id="image_e0fe2288cd0b4108aeddcc6d8e982ea0.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_e2e681579f3c407cacb2158911e3bf11.jpg" id="image_e2e681579f3c407cacb2158911e3bf11.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_e557f949a9a44df09110751bd366a95f.jpg" id="image_e557f949a9a44df09110751bd366a95f.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_e74f6e81936a43f6898c26ba4b81cfc2.jpg" id="image_e74f6e81936a43f6898c26ba4b81cfc2.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_e8add25e7df54327a5a63d700dc2c817.jpg" id="image_e8add25e7df54327a5a63d700dc2c817.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_ea2f63c61cda40fb943494bd9c973929.jpg" id="image_ea2f63c61cda40fb943494bd9c973929.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_eb7836469ca54a769f73b7ea44d8e025.jpg" id="image_eb7836469ca54a769f73b7ea44d8e025.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_ef8381e858114122b931b4d9b3581db6.jpg" id="image_ef8381e858114122b931b4d9b3581db6.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_f2d6d3b73ade44b3b8cd6a721fa3b635.jpg" id="image_f2d6d3b73ade44b3b8cd6a721fa3b635.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_fa97c7c124454152b03a90530a8e78ad.jpg" id="image_fa97c7c124454152b03a90530a8e78ad.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_fb80b9b2e1c1492488c71cd78ab7abce.jpg" id="image_fb80b9b2e1c1492488c71cd78ab7abce.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Images/image_fc8793573f17484e91b6590733bed4ec.jpg" id="image_fc8793573f17484e91b6590733bed4ec.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Text/Section0001_split_000.xhtml" id="Section0001.xhtml7" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_001.xhtml" id="Section0001.xhtml6" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_002.xhtml" id="Section0001.xhtml5" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_003.xhtml" id="Section0001.xhtml4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_004.xhtml" id="Section0001.xhtml3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_005.xhtml" id="Section0001.xhtml2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_006.xhtml" id="Section0001.xhtml1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Section0001.xhtml7"/>
+    <itemref idref="Section0001.xhtml6"/>
+    <itemref idref="Section0001.xhtml5"/>
+    <itemref idref="Section0001.xhtml4"/>
+    <itemref idref="Section0001.xhtml3"/>
+    <itemref idref="Section0001.xhtml2"/>
+    <itemref idref="Section0001.xhtml1"/>
+  </spine>
+  <guide>
+  </guide>
+</package>

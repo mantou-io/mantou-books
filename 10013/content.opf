@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:date>2018-04-09T16:00:00+00:00</dc:date>
+    <meta name="calibre:title_sort" content="一九八四"/>
+    <dc:creator opf:file-as="乔治·奥威尔" opf:role="aut">乔治·奥威尔</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+    <meta name="calibre:timestamp" content="2019-05-28T12:15:12.933000+00:00"/>
+    <dc:identifier opf:scheme="MOBI-ASIN">e5e345eb-ce4a-47e2-9f31-0165cedc8aa9</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">77f5aa13-b7e3-4621-8d6e-181e3d3e02e2</dc:identifier>
+    <dc:identifier opf:scheme="calibre">77f5aa13-b7e3-4621-8d6e-181e3d3e02e2</dc:identifier>
+    <meta name="cover" content="cover"/>
+    <dc:title>一九八四</dc:title>
+    <dc:language>zh</dc:language>
+  </metadata>
+  <manifest>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="text/part0000.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="text/part0001.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="text/part0002_split_000.html" id="id88" media-type="application/xhtml+xml"/>
+    <item href="text/part0002_split_001.html" id="id87" media-type="application/xhtml+xml"/>
+    <item href="text/part0002_split_002.html" id="id86" media-type="application/xhtml+xml"/>
+    <item href="text/part0002_split_003.html" id="id85" media-type="application/xhtml+xml"/>
+    <item href="text/part0002_split_004.html" id="id84" media-type="application/xhtml+xml"/>
+    <item href="text/part0002_split_005.html" id="id83" media-type="application/xhtml+xml"/>
+    <item href="text/part0002_split_006.html" id="id82" media-type="application/xhtml+xml"/>
+    <item href="text/part0002_split_007.html" id="id81" media-type="application/xhtml+xml"/>
+    <item href="text/part0003_split_000.html" id="id910" media-type="application/xhtml+xml"/>
+    <item href="text/part0003_split_001.html" id="id99" media-type="application/xhtml+xml"/>
+    <item href="text/part0003_split_002.html" id="id98" media-type="application/xhtml+xml"/>
+    <item href="text/part0003_split_003.html" id="id97" media-type="application/xhtml+xml"/>
+    <item href="text/part0003_split_004.html" id="id96" media-type="application/xhtml+xml"/>
+    <item href="text/part0003_split_005.html" id="id95" media-type="application/xhtml+xml"/>
+    <item href="text/part0003_split_006.html" id="id94" media-type="application/xhtml+xml"/>
+    <item href="text/part0003_split_007.html" id="id93" media-type="application/xhtml+xml"/>
+    <item href="text/part0003_split_008.html" id="id92" media-type="application/xhtml+xml"/>
+    <item href="text/part0003_split_009.html" id="id91" media-type="application/xhtml+xml"/>
+    <item href="text/part0004_split_000.html" id="id106" media-type="application/xhtml+xml"/>
+    <item href="text/part0004_split_001.html" id="id105" media-type="application/xhtml+xml"/>
+    <item href="text/part0004_split_002.html" id="id104" media-type="application/xhtml+xml"/>
+    <item href="text/part0004_split_003.html" id="id103" media-type="application/xhtml+xml"/>
+    <item href="text/part0004_split_004.html" id="id102" media-type="application/xhtml+xml"/>
+    <item href="text/part0004_split_005.html" id="id101" media-type="application/xhtml+xml"/>
+    <item href="text/part0005.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="text/part0006.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id88"/>
+    <itemref idref="id87"/>
+    <itemref idref="id86"/>
+    <itemref idref="id85"/>
+    <itemref idref="id84"/>
+    <itemref idref="id83"/>
+    <itemref idref="id82"/>
+    <itemref idref="id81"/>
+    <itemref idref="id910"/>
+    <itemref idref="id99"/>
+    <itemref idref="id98"/>
+    <itemref idref="id97"/>
+    <itemref idref="id96"/>
+    <itemref idref="id95"/>
+    <itemref idref="id94"/>
+    <itemref idref="id93"/>
+    <itemref idref="id92"/>
+    <itemref idref="id91"/>
+    <itemref idref="id106"/>
+    <itemref idref="id105"/>
+    <itemref idref="id104"/>
+    <itemref idref="id103"/>
+    <itemref idref="id102"/>
+    <itemref idref="id101"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+  </spine>
+  <guide>
+    <reference href="text/part0006.html#5N3C1-1920607f0b224da9ba31f36e2966fa8e" title="Table of Contents" type="toc"/>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

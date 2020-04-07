@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="und">
+  <head>
+    <meta content="f5096191-515f-4faa-91f0-45b98899bc0f" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>乡土中国</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>旧著《乡土中国》重刊序言</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>乡土本色</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_3"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>文字下乡</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_4"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>再论文字下乡</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_5"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>差序格局</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_6"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>系维着私人的道德</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_7"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>家族</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_8"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>男女有别</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_9"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>礼治秩序</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_10"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>无讼</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_11"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>无为政治</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_12"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>长老统治</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_13"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>血缘和地缘</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_14"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>名实的分离</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_15"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>从欲望到需要</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_16"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>后记</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_17"/>
+    </navPoint>
+  </navMap>
+</ncx>

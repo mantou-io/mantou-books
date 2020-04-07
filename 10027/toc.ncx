@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="und">
+  <head>
+    <meta content="c6104036-5cb1-495e-aed7-eae17a5f4c2c" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.38.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>局外人（上海译文版）</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>封面</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_1"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>《局外人》的社会现实内涵与人性内涵</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_2"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>第一部</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_3"/>
+      <navPoint class="chapter" id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_4"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_5"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_6"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_7"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_8"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>六</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_9"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>第二部</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_10"/>
+      <navPoint class="chapter" id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_11"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_12"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_13"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_14"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>五</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#sigil_toc_id_15"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

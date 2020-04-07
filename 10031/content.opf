@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:identifier opf:scheme="ISBN">9787600610235</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">657a8633-08ee-4e78-a6c2-c87be5213ecc</dc:identifier>
+    <dc:contributor opf:role="bkp">calibre (3.38.0) [http://calibre-ebook.com]</dc:contributor>
+    <dc:publisher>江苏文艺出版社</dc:publisher>
+    <meta name="calibre:timestamp" content="2019-03-26T13:57:45.536000+00:00"/>
+    <dc:language>und</dc:language>
+    <dc:creator opf:file-as="未知" opf:role="aut">高阳, ePUBw.COM</dc:creator>
+    <dc:date>2012-04-30T16:00:00+00:00</dc:date>
+    <dc:title>红顶商人胡雪岩珍藏版大全集（套装共6册）</dc:title>
+  </metadata>
+  <manifest>
+    <item href="OEBPS/Images/pic_a9787d90b3884c3b8510e6316f68a992.jpg" id="pic_a9787d90b3884c3b8510e6316f68a992.jpg" media-type="image/jpeg"/>
+    <item href="OEBPS/Text/Section0001_split_000.xhtml" id="Section0001.xhtml27" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_001.xhtml" id="Section0001.xhtml26" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_002.xhtml" id="Section0001.xhtml25" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_003.xhtml" id="Section0001.xhtml24" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_004.xhtml" id="Section0001.xhtml23" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_005.xhtml" id="Section0001.xhtml22" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_006.xhtml" id="Section0001.xhtml21" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_007.xhtml" id="Section0001.xhtml20" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_008.xhtml" id="Section0001.xhtml19" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_009.xhtml" id="Section0001.xhtml18" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_010.xhtml" id="Section0001.xhtml17" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_011.xhtml" id="Section0001.xhtml16" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_012.xhtml" id="Section0001.xhtml15" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_013.xhtml" id="Section0001.xhtml14" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_014.xhtml" id="Section0001.xhtml13" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_015.xhtml" id="Section0001.xhtml12" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_016.xhtml" id="Section0001.xhtml11" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_017.xhtml" id="Section0001.xhtml10" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_018.xhtml" id="Section0001.xhtml9" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_019.xhtml" id="Section0001.xhtml8" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_020.xhtml" id="Section0001.xhtml7" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_021.xhtml" id="Section0001.xhtml6" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_022.xhtml" id="Section0001.xhtml5" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_023.xhtml" id="Section0001.xhtml4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_024.xhtml" id="Section0001.xhtml3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_025.xhtml" id="Section0001.xhtml2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/Section0001_split_026.xhtml" id="Section0001.xhtml1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="TOC.xhtml"/>
+    <itemref idref="Section0001.xhtml27"/>
+    <itemref idref="Section0001.xhtml26"/>
+    <itemref idref="Section0001.xhtml25"/>
+    <itemref idref="Section0001.xhtml24"/>
+    <itemref idref="Section0001.xhtml23"/>
+    <itemref idref="Section0001.xhtml22"/>
+    <itemref idref="Section0001.xhtml21"/>
+    <itemref idref="Section0001.xhtml20"/>
+    <itemref idref="Section0001.xhtml19"/>
+    <itemref idref="Section0001.xhtml18"/>
+    <itemref idref="Section0001.xhtml17"/>
+    <itemref idref="Section0001.xhtml16"/>
+    <itemref idref="Section0001.xhtml15"/>
+    <itemref idref="Section0001.xhtml14"/>
+    <itemref idref="Section0001.xhtml13"/>
+    <itemref idref="Section0001.xhtml12"/>
+    <itemref idref="Section0001.xhtml11"/>
+    <itemref idref="Section0001.xhtml10"/>
+    <itemref idref="Section0001.xhtml9"/>
+    <itemref idref="Section0001.xhtml8"/>
+    <itemref idref="Section0001.xhtml7"/>
+    <itemref idref="Section0001.xhtml6"/>
+    <itemref idref="Section0001.xhtml5"/>
+    <itemref idref="Section0001.xhtml4"/>
+    <itemref idref="Section0001.xhtml3"/>
+    <itemref idref="Section0001.xhtml2"/>
+    <itemref idref="Section0001.xhtml1"/>
+  </spine>
+  <guide>
+  </guide>
+</package>

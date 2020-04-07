@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="und">
+  <head>
+    <meta content="e32e28d4-bb16-47fc-8f42-3338b10a8b46" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.44.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>恶之花</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>《恶之花》序</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>致读者</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_2"/>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>忧郁与理想</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_3"/>
+      <navPoint class="chapter" id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>祝福</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_4"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>信天翁</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_5"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>飞天</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_6"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>通感</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_7"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>灯塔</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_8"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>患病的诗神</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_9"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>唯利是图的诗神</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_10"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>坏修士</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_11"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>大敌</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_12"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>厄运</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_13"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>前生</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_14"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>漫游四方的波希米亚人</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_15"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>人与海</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_16"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>地狱里的唐璜</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_17"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>美</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_18"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>美的赞歌</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_19"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>异国的芬芳</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_20"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>秀发</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_21"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>27（她的衣衫轻浮飘动）</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_22"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-23" playOrder="23">
+        <navLabel>
+          <text>起舞的蛇</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_23"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>腐尸</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_24"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>吸血鬼</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_25"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>死后的悔恨</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_26"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>猫</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_27"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>阳台</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_28"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>全部</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_29"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>42（今晚你要说什么）</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_30"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>活火炬</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_31"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>通功</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_32"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>黄昏的和声</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_33"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>香水瓶</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_34"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>毒药</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_35"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-36" playOrder="36">
+        <navLabel>
+          <text>猫</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_36"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>美丽的船</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_37"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>邀游</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_38"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>秋之歌</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_39"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>下午之歌</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_40"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>忧愁与漂泊</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_41"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>猫</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_42"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>猫头鹰</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_43"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>烟斗</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_44"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>音乐</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_45"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>破钟</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_46"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>忧郁之一</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_47"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>忧郁之二</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_48"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>忧郁之三</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_49"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>忧郁之四</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_50"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>自惩者</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_51"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>时钟</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_52"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>巴黎风光</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_53"/>
+      <navPoint class="chapter" id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>赠给一个红发女乞丐</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_54"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>天鹅</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_55"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>七个老头儿</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_56"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>小老太婆</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_57"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>盲人</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_58"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>赌博</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_59"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>巴黎的梦</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_60"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>黎明</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_61"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-62" playOrder="62">
+      <navLabel>
+        <text>酒</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_62"/>
+      <navPoint class="chapter" id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>酒魂</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_63"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>拾荒者的酒</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_64"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>情侣的酒</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_65"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>被害的女人</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_66"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>基西拉岛之游</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_67"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>爱神和颅骨</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_68"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-69" playOrder="69">
+      <navLabel>
+        <text>叛逆</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_69"/>
+      <navPoint class="chapter" id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>圣彼得的否认</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_70"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>献给撒旦的连祷</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_71"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-72" playOrder="72">
+      <navLabel>
+        <text>死亡</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_72"/>
+      <navPoint class="chapter" id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>情侣之死</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_73"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>穷人之死</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_74"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>艺术家之死</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_75"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-76" playOrder="76">
+        <navLabel>
+          <text>一天的结束</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_76"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>怪人之梦</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_77"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>旅行</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_78"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>增补诗</text>
+      </navLabel>
+      <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_79"/>
+      <navPoint class="chapter" id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>反叛者</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_80"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>静思</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_81"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>深渊</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_82"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>莱斯沃斯</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_83"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-84" playOrder="84">
+        <navLabel>
+          <text>忘川</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_84"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-85" playOrder="85">
+        <navLabel>
+          <text>献给过分快活的女子</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_85"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-86" playOrder="86">
+        <navLabel>
+          <text>首饰</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_86"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-87" playOrder="87">
+        <navLabel>
+          <text>喷泉</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_87"/>
+      </navPoint>
+      <navPoint class="chapter" id="navPoint-88" playOrder="88">
+        <navLabel>
+          <text>赞歌</text>
+        </navLabel>
+        <content src="OEBPS/Text/Section0001.xhtml#epubw_com_id_88"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
