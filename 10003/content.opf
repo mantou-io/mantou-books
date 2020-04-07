@@ -5,8 +5,7 @@
     <dc:description>&lt;p class="description"&gt;《阿Q正传》:在一般意义上讲,中篇小说通常是就小说的篇幅而言,它是介于长篇小说和短篇小说之间的一种体裁。对于中文作品来说,人们一般将三到十万字左右的小说叫作中篇小说。在英文中,长篇小说称为novel,短篇小说为short story,各自拥有独立的称谓,而中篇则是novelette,是一个在词义上具有依附性的衍生词,字面意义可以理解为小于长篇的小说。这表明中篇小说本身还是一个相对模糊的概念。在中国,现代意义上中篇小说概念的形成是伴随着其创作的产生而逐渐清晰的。鲁迅先生创作于1921年的《阿Q正传》,是中国现代意义上中篇小说的开山之作。这之后陆续出现了沈从文的《边城》,老舍的《月牙儿》、《我这一辈子》,萧红的《生死场》,巴金的《憩园》等优秀的中篇作品。这种影响一直接续不断,特别是改革开放三十年间,中篇小说更是进入了一个空前繁荣的发展时期,以致有研究者认为,中篇小说代表了近三十年文学的高端水平。&lt;/p&gt;</dc:description>
     <dc:contributor opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
     <meta name="calibre:timestamp" content="2020-01-31T11:08:51.128759+00:00"/>
-    <meta name="cover" content="cover"/>
-    <dc:publisher>shu.im</dc:publisher>
+    <dc:publisher>mantou</dc:publisher>
     <dc:creator opf:file-as="鲁迅" opf:role="aut">鲁迅</dc:creator>
     <dc:date>2009-11-01T16:00:00+00:00</dc:date>
     <dc:title>阿Q正传</dc:title>
@@ -16,7 +15,6 @@
     <dc:identifier opf:scheme="calibre">0ac67fc3-f84f-43ad-906b-30f36bb60277</dc:identifier>
   </metadata>
   <manifest>
-    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
     <item href="A_QZheng_Chuan_split_000.html" id="id111" media-type="application/xhtml+xml"/>
     <item href="A_QZheng_Chuan_split_001.html" id="id110" media-type="application/xhtml+xml"/>
     <item href="A_QZheng_Chuan_split_002.html" id="id19" media-type="application/xhtml+xml"/>
@@ -31,11 +29,9 @@
     <item href="images/00001.jpg" id="id3" media-type="image/jpeg"/>
     <item href="page_styles.css" id="page_css" media-type="text/css"/>
     <item href="stylesheet.css" id="css" media-type="text/css"/>
-    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
   </manifest>
   <spine toc="ncx">
-    <itemref idref="titlepage"/>
     <itemref idref="id111"/>
     <itemref idref="id110"/>
     <itemref idref="id19"/>
@@ -49,7 +45,6 @@
     <itemref idref="id11"/>
   </spine>
   <guide>
-    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
     <reference href="A_QZheng_Chuan_split_010.html#filepos97514" title="Table of Contents" type="toc"/>
   </guide>
 </package>
