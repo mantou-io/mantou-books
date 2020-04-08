@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
   <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:description>&lt;div&gt;&lt;p class="description"&gt;&lt;/p&gt;&lt;p class="MsoNormal" align="center" style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: SimSun; margin-top: 0in; margin-bottom: 0.0001pt; text-align: center; "&gt;&lt;b&gt;&lt;span lang="ZH-CN" style="font-size: 24pt; font-family: KaiTi_GB2312; color: red; "&gt;莎士比亚全集&lt;/span&gt;&lt;/b&gt;&lt;b&gt;&lt;span style="font-size: 24pt; font-family: KaiTi_GB2312; color: red; "&gt;&lt;p&gt;&lt;/p&gt;&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="MsoNormal" align="center" style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: SimSun; margin-top: 0in; margin-bottom: 0.0001pt; text-align: center; "&gt;&lt;span style="font-size: 14pt; "&gt;&lt;span&gt; &lt;/span&gt;&lt;b&gt;&lt;span lang="ZH-CN"&gt;朱生豪译&lt;/span&gt;&lt;p&gt;&lt;/p&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class="MsoNormal" align="center" style="margin-right: 0in; margin-left: 0in; font-size: 12pt; font-family: SimSun; margin-top: 0in; margin-bottom: 0.0001pt; text-align: center; "&gt;&lt;span lang="ZH-CN" style="font-size: 14pt; "&gt;人民文学出版社&lt;/span&gt;&lt;span style="font-size: 14pt; "&gt;6&lt;span lang="ZH-CN"&gt;卷本&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
     <dc:language>en</dc:language>
     <dc:creator opf:file-as="莎士比亚" opf:role="aut">莎士比亚</dc:creator>
     <meta name="calibre:timestamp" content="2011-01-16T05:10:40.725000+00:00"/>
@@ -335,6 +334,7 @@
     <item href="OPS/image002.jpg" id="added" media-type="image/jpeg"/>
     <item href="stylesheet.css" id="css" media-type="text/css"/>
     <item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+   </manifest>
   <spine toc="ncx">
     <itemref idref="TableOfContents"/>
     <itemref idref="000"/>

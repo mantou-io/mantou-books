@@ -69,7 +69,6 @@ def process_alpha(fname):
         begin_it = 0
         while(index < total):
             if not begin_it and content[index:index+4].lower() == 'body':
-                print "beginnnnn"
                 begin_it = 1
             if not begin_it:
                 ncontent += content[index]
